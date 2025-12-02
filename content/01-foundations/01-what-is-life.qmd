@@ -63,11 +63,13 @@ While no single characteristic defines life, biologists recognize seven properti
 All living things are composed of one or more cells—the basic structural and functional units of life.
 
 **Cell Theory:**
+
 1. All living organisms are composed of one or more cells
 2. The cell is the basic unit of structure and function in organisms
 3. All cells arise from pre-existing cells through cell division
 
 **Examples:**
+
 - **Unicellular organisms**: Bacteria, archaea, many protists
 - **Multicellular organisms**: Animals, plants, fungi
 
@@ -76,12 +78,14 @@ All living things are composed of one or more cells—the basic structural and f
 Living systems transform energy and matter through chemical reactions.
 
 **Two Types of Metabolic Processes:**
+
 - **Catabolism**: Breaking down complex molecules into simpler ones, releasing energy
   *Example: Cellular respiration breaks glucose into carbon dioxide and water*
 - **Anabolism**: Building complex molecules from simpler ones, requiring energy
   *Example: Protein synthesis assembles amino acids into proteins*
 
 **Energy Sources:**
+
 - **Phototrophs**: Capture energy from sunlight (plants, algae, some bacteria)
 - **Chemotrophs**: Obtain energy from chemical compounds (animals, fungi, many bacteria)
 
@@ -90,6 +94,7 @@ Living systems transform energy and matter through chemical reactions.
 Living organisms maintain a stable internal environment despite external changes.
 
 **Examples of Homeostatic Regulation:**
+
 - **Temperature regulation**: Mammals maintain constant body temperature
 - **pH balance**: Blood pH remains near 7.4 despite dietary changes
 - **Water balance**: Kidneys regulate water concentration in body fluids
@@ -99,11 +104,13 @@ Living organisms maintain a stable internal environment despite external changes
 Organisms increase in size and undergo programmed changes throughout their life cycle.
 
 **Types of Growth:**
+
 - **Cell enlargement**: Individual cells increase in size
 - **Cell division**: Production of new cells
 - **Cell differentiation**: Cells become specialized for specific functions
 
 **Development Patterns:**
+
 - **Direct development**: Young resemble adults (birds, mammals)
 - **Indirect development**: Larval stages differ from adults (butterflies, frogs)
 
@@ -112,12 +119,14 @@ Organisms increase in size and undergo programmed changes throughout their life 
 Organisms produce new individuals, transmitting genetic information to offspring.
 
 **Asexual Reproduction:**
+
 - Single parent produces genetically identical offspring
 - Advantages: Rapid, no mate needed
 - Disadvantages: Little genetic variation
 - *Examples: Binary fission in bacteria, budding in yeast*
 
 **Sexual Reproduction:**
+
 - Two parents contribute genetic material
 - Advantages: Genetic variation, evolutionary adaptability
 - Disadvantages: Requires mate, energy-intensive
@@ -128,6 +137,7 @@ Organisms produce new individuals, transmitting genetic information to offspring
 Organisms detect and respond to changes in their environment.
 
 **Types of Responses:**
+
 - **Taxis**: Movement toward or away from a stimulus
   *Example: Phototaxis (movement toward light) in photosynthetic bacteria*
 - **Tropism**: Growth response in plants
@@ -140,6 +150,7 @@ Organisms detect and respond to changes in their environment.
 Populations of organisms change over generations through natural selection.
 
 **Key Components:**
+
 - **Variation**: Individuals differ in their traits
 - **Inheritance**: Traits are passed from parents to offspring
 - **Differential survival/reproduction**: Some traits increase reproductive success
@@ -156,12 +167,14 @@ Several entities challenge simple definitions of life because they possess some 
 ### Viruses
 
 **Characteristics suggesting life:**
+
 - Contain genetic material (DNA or RNA)
 - Evolve through natural selection
 - Reproduce (with host cell assistance)
 - Have complex, organized structure
 
 **Characteristics suggesting non-life:**
+
 - No independent metabolism
 - No cellular structure
 - Cannot reproduce outside host cells
@@ -186,6 +199,7 @@ Several entities challenge simple definitions of life because they possess some 
 ### Mitochondria and Chloroplasts
 
 These organelles have characteristics suggesting they were once free-living bacteria:
+
 - Contain their own DNA
 - Reproduce independently within cells
 - Have double membranes
@@ -283,24 +297,28 @@ Understanding emergent properties helps explain why studying isolated components
 Biology employs multiple complementary approaches to understand living systems:
 
 ### Observation and Description
+
 - Field studies of organisms in natural habitats
 - Microscopic examination of cells and tissues
 - Anatomical studies of organism structure
 - **Example**: Darwin's observations during the HMS Beagle voyage
 
 ### Hypothesis Testing
+
 - Controlled experiments with manipulated variables
 - Statistical analysis of experimental data
 - Peer review and replication of findings
 - **Example**: Meselson-Stahl experiment confirming DNA replication mechanism
 
 ### Model Building
+
 - Mathematical models of population dynamics
 - Computer simulations of molecular interactions
 - Conceptual models of biological systems
 - **Example**: Lotka-Volterra equations modeling predator-prey dynamics
 
 ### Comparative Studies
+
 - Comparing different species to identify patterns
 - Analyzing evolutionary relationships (phylogenetics)
 - Studying developmental patterns across organisms
@@ -385,6 +403,7 @@ Biology employs multiple complementary approaches to understand living systems:
 ## Further Reading
 
 ### Books
+
 1. Schrödinger, E. (1944). *What is Life?* Cambridge University Press. (Classic work connecting physics and biology)
 2. Nurse, P. (2020). *What is Life?* David Fickling Books. (Modern perspective by Nobel laureate)
 3. Margulis, L., & Sagan, D. (1995). *What is Life?* Simon & Schuster. (Focus on microbial life and symbiosis)

@@ -67,14 +67,14 @@ Six elements constitute about 99% of living matter by weight:
 
 Essential in minute quantities for specific functions:
 
-**Calcium (Ca)**: Bone structure, muscle contraction, signaling
-**Potassium (K)**: Nerve function, osmotic balance
-**Sodium (Na)**: Nerve function, osmotic balance
-**Chlorine (Cl)**: Osmotic balance, digestion
-**Magnesium (Mg)**: Chlorophyll, enzyme cofactor
-**Iron (Fe)**: Hemoglobin, electron transport
-**Iodine (I)**: Thyroid hormones
-**Zinc (Zn)**: Enzyme cofactor, protein structure
+- **Calcium (Ca)**: Bone structure, muscle contraction, signaling
+- **Potassium (K)**: Nerve function, osmotic balance
+- **Sodium (Na)**: Nerve function, osmotic balance
+- **Chlorine (Cl)**: Osmotic balance, digestion
+- **Magnesium (Mg)**: Chlorophyll, enzyme cofactor
+- **Iron (Fe)**: Hemoglobin, electron transport
+- **Iodine (I)**: Thyroid hormones
+-**Zinc (Zn)**: Enzyme cofactor, protein structure
 
 ---
 
@@ -89,6 +89,7 @@ Essential in minute quantities for specific functions:
 **Biological importance**: Form backbone of organic molecules
 
 **Polar vs. Nonpolar Covalent Bonds**:
+
 - **Polar**: Unequal electron sharing (O-H, N-H)
 - **Nonpolar**: Equal electron sharing (C-C, C-H)
 

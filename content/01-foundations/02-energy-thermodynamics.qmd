@@ -32,10 +32,12 @@ All living systems, from single bacterial cells to complex ecosystems, must obey
 ### Forms of Energy Relevant to Biology
 
 **Kinetic Energy**: Energy of motion
+
 - *Molecular motion*: Thermal energy (heat)
 - *Cellular motion*: Cytoplasmic streaming, muscle contraction
 
 **Potential Energy**: Stored energy based on position or structure
+
 - *Chemical energy*: Energy stored in molecular bonds
 - *Concentration gradients*: Differences across membranes
 - *Electrical gradients*: Charge differences across membranes
@@ -56,11 +58,13 @@ Photosynthesis Metabolism        Movement
 **Statement**: Energy cannot be created or destroyed, only transformed from one form to another.
 
 **Mathematical expression**: ΔE = Q - W
+
 - ΔE: Change in internal energy of system
 - Q: Heat added to system
 - W: Work done by system
 
 **Biological implications**:
+
 1. Organisms cannot create energy; they must capture it from their environment
 2. The total energy in any biological process remains constant
 3. Energy transformations are never 100% efficient; some energy is always lost as heat
@@ -83,6 +87,7 @@ Chemical energy in glucose → Chemical energy in ATP + Heat
 **Mathematical expression**: ΔS<sub>universe</sub> = ΔS<sub>system</sub> + ΔS<sub>surroundings</sub> > 0
 
 **Biological implications**:
+
 1. Living systems create local order at the expense of increasing disorder elsewhere
 2. Energy transformations are directional; they proceed spontaneously only toward increased total entropy
 3. Maintaining biological organization requires continuous energy input
@@ -105,6 +110,7 @@ The **Gibbs Free Energy (G)** combines enthalpy (heat content) and entropy to pr
 ΔG = ΔH - TΔS
 
 Where:
+
 - ΔG: Change in free energy (kJ/mol)
 - ΔH: Change in enthalpy (heat content; kJ/mol)
 - T: Absolute temperature (Kelvin)
@@ -168,6 +174,7 @@ Where:
 ### ATP Hydrolysis
 
 ATP + H<sub>2</sub>O → ADP + P<sub>i</sub> + Energy
+
 - ΔG°′ ≈ -30.5 kJ/mol
 - Highly exergonic under cellular conditions
 
@@ -252,19 +259,23 @@ Synthesize complex molecules from simpler ones, requiring energy input.
 ### Classification by Energy Source
 
 **Phototrophs**: Capture energy from sunlight
+
 - *Photoautotrophs*: Use CO<sub>2</sub> as carbon source (plants, algae, cyanobacteria)
 - *Photoheterotrophs*: Use organic compounds as carbon source (some bacteria)
 
 **Chemotrophs**: Obtain energy from chemical compounds
+
 - *Chemoautotrophs*: Use inorganic compounds (H<sub>2</sub>S, NH<sub>3</sub>, Fe<sup>2+</sup>)
 - *Chemoheterotrophs*: Use organic compounds (animals, fungi, most bacteria)
 
 ### Classification by Carbon Source
 
 **Autotrophs**: "Self-feeders"; synthesize organic compounds from inorganic carbon (CO<sub>2</sub>)
+
 - *Examples*: Plants, algae, some bacteria
 
 **Heterotrophs**: "Other-feeders"; obtain organic compounds from other organisms
+
 - *Examples*: Animals, fungi, most bacteria
 
 ### Metabolic Efficiency Comparisons
@@ -288,9 +299,13 @@ Synthesize complex molecules from simpler ones, requiring energy input.
 ### Trophic Levels
 
 **Primary Producers**: Autotrophs (plants, algae, cyanobacteria)
+
 **Primary Consumers**: Herbivores
+
 **Secondary Consumers**: Carnivores that eat herbivores
+
 **Tertiary Consumers**: Top carnivores
+
 **Decomposers**: Break down dead organic matter
 
 ### Ecological Pyramids
@@ -302,6 +317,7 @@ Synthesize complex molecules from simpler ones, requiring energy input.
 - Most energy is lost as heat at each transfer
 
 **Biomass Pyramid**: Usually similar shape to energy pyramid
+
 **Numbers Pyramid**: Shape varies depending on organism size
 
 ### Human Impact on Energy Flows
@@ -322,13 +338,17 @@ Synthesize complex molecules from simpler ones, requiring energy input.
 ### From Molecules to Ecosystems
 
 **Molecular Level**: Bond energies determine reaction spontaneity
+
 **Cellular Level**: Membrane potentials represent stored electrical energy
+
 **Organismal Level**: Basal metabolic rate measures minimum energy requirement
+
 **Ecosystem Level**: Net primary productivity measures energy capture by producers
 
 ### Energy and Evolution
 
 **Energetic constraints** shape evolutionary adaptations:
+
 1. **Surface area to volume ratio** affects energy acquisition and loss
 2. **Metabolic rate** correlates with body size (Kleiber's Law: Metabolic rate ∝ Mass<sup>3/4</sup>)
 3. **Energy efficiency** influences competitive success

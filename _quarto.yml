@@ -9,7 +9,7 @@ book:
   title: "Foundation of Biology"
   author: "Dany Mukesha"
   date: "12/2/2025"
-  description: "A modern, integrative approach to understanding life through energy transformations and information processing."
+  description: "Life explained through energy flow and information."  
   
   repo-url: https://github.com/danymukesha/foundation-of-biology
   repo-actions: [edit, issue]
