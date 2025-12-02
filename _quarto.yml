@@ -1,0 +1,111 @@
+project:
+  type: book
+  output-dir: _book
+  preview:
+    port: 4200
+    browser: true
+
+book:
+  title: "Foundation of Biology"
+  author: "Dany Mukesha"
+  date: "12/2/2025"
+  description: "A modern, integrative approach to understanding life through energy transformations and information processing."
+  
+  repo-url: https://github.com/danymukesha/foundation-of-biology
+  repo-actions: [edit, issue]
+  
+  site-url: https://danymukesha.github.io/foundation-of-biology
+  
+  chapters:
+    - part: "I: Foundational Concepts"
+      chapters:
+        - index.qmd
+        - content/01-foundations/01-what-is-life.qmd
+        - content/01-foundations/02-energy-thermodynamics.qmd
+        - content/01-foundations/03-information-biology.qmd 
+        - content/01-foundations/04-chemical-basis.qmd 
+    # 
+    # - part: "II: Cellular Systems"
+    #   chapters:
+    #     - content/02-cellular/05-cell-theory.qmd
+    #     - content/02-cellular/06-metabolism.qmd
+    #     - content/02-cellular/07-central-dogma.qmd
+    #     - content/02-cellular/08-cell-communication.qmd
+    # 
+    # - part: "III: Genetics & Molecular Biology"
+    #   chapters:
+    #     - content/03-genetics/09-mendelian-genetics.qmd
+    #     - content/03-genetics/10-molecular-genetics.qmd
+    #     - content/03-genetics/11-regulation.qmd
+    #     - content/03-genetics/12-genomics.qmd
+    # 
+    # - part: "IV: Evolution & Diversity"
+    #   chapters:
+    #     - content/04-evolution/13-natural-selection.qmd
+    #     - content/04-evolution/14-speciation.qmd
+    #     - content/04-evolution/15-phylogenetics.qmd
+    #     - content/04-evolution/16-human-evolution.qmd
+    # 
+    # - part: "V: Organismal & Systems Biology"
+    #   chapters:
+    #     - content/05-systems/17-ecology.qmd
+    #     - content/05-systems/18-immunology.qmd
+    #     - content/05-systems/19-neurobiology.qmd
+    #     - content/05-systems/20-developmental-biology.qmd
+    # 
+    # - part: "VI: Frontiers in Biology"
+    #   chapters:
+    #     - content/06-frontiers/21-synthetic-biology.qmd
+    #     - content/06-frontiers/22-bioinformatics.qmd
+    #     - content/06-frontiers/23-medical-applications.qmd
+    #     - content/06-frontiers/24-future-directions.qmd
+    # 
+    # - part: "Appendices"
+    #   chapters:
+    #     - content/appendices/A-glossary.qmd
+    #     - content/appendices/B-resources.qmd
+    #     - content/appendices/C-problem-sets.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: [cosmo]
+    css: style.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-link: true
+    code-fold: show
+    fig-cap-location: bottom
+    fig-align: center
+    
+    callout-appearance: simple
+    callout-icon: true
+    
+    page-layout: full
+    
+    include-in-header:
+      text: |
+        <script>
+        MathJax = {
+          tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']]
+          },
+          svg: {
+            fontCache: 'global'
+          }
+        };
+        </script>
+    
+
+editor: visual
+
+pdf:
+  documentclass: scrbook
+  papersize: letter
+  fontsize: 11pt
+  linestretch: 1.25
+  toc: true
+  number-sections: true 
+

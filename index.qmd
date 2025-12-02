@@ -1,0 +1,193 @@
+---
+title: "Foundations of Biology: Energy & Information"
+---
+
+# Welcome to Modern Biology
+
+<div class="hero-section">
+<div class="hero-text">
+<h2>Understanding Life Through Universal Principles</h2>
+<p>This textbook presents biology not as a collection of facts, but as a coherent system governed by fundamental principles of <strong>energy transformation</strong> and <strong>information processing</strong>.</p>
+</div>
+</div>
+
+Here, we establish the fundamental principles that underlie all 
+biological systems. Before examining specific organisms or processes, 
+we must understand the core concepts that define life itself and 
+the physical laws that govern it.
+
+## Why Start with Foundations?
+
+Biology is often taught as a collection of facts about different 
+organisms and processes. However, this approach can obscure the deeper
+unity that exists across all living systems. By beginning with 
+foundational principles, we establish a framework that will help you:
+
+1. **See connections** between seemingly disparate biological phenomena
+2. **Predict properties** of unfamiliar biological systems
+3. **Understand limitations** imposed by physical and chemical laws
+4. **Appreciate the elegance** of biological solutions to universal problems
+
+## Three Pillars of Modern Biology
+
+This part focuses on three interconnected pillars:
+
+### Defining Life (Chapter 1)
+We begin with the fundamental question: What distinguishes living 
+systems from non-living matter? This exploration reveals that life 
+is best understood not as a static property but as a dynamic process 
+characterized by specific organizational principles.
+
+### Energy and Thermodynamics (Chapter 2)
+All living systems must obey the laws of physics. We examine how 
+organisms harvest, transform, and utilize energy while maintaining 
+organization in a universe that tends toward disorder. This chapter 
+provides the thermodynamic foundation for understanding metabolism, 
+growth, and reproduction.
+
+### Information in Biology (Chapter 3)
+Life depends on accurate storage, transmission, and processing of 
+information. We explore how biological information differs from other
+forms of information, how it is encoded in molecules, and how it 
+directs the construction and operation of living systems.
+
+## How These Concepts Interrelate
+
+The relationship between these three pillars forms the basis of modern
+biological understanding:
+
+```
+ENERGY FLOW
+    ↓
+INFORMATION PROCESSING
+    ↓
+LIVING SYSTEM MAINTENANCE
+    ↓
+EVOLUTIONARY ADAPTATION
+```
+
+Energy provides the capacity for work, information provides the 
+instructions for that work, and their interaction enables living 
+systems to persist, grow, reproduce, and evolve.
+
+### Learning Approach
+
+Each chapter in this part follows a consistent structure:
+
+- **Learning Objectives**: Clear statements of what you should understand
+- **Core Concepts**: Explanations of fundamental principles with examples
+- **Historical Context**: How our understanding has developed over time
+- **Modern Applications**: Current research and practical implications
+- **Critical Thinking Questions**: Problems that test deep understanding
+- **Further Resources**: Where to learn more about each topic
+
+## Preparing for Advanced Topics
+
+The concepts introduced here will reappear throughout your study of biology:
+
+- **Cellular Biology**: Cells as units of energy transformation and information processing
+- **Genetics**: Information storage and transmission mechanisms
+- **Evolution**: Historical changes in biological information
+- **Ecology**: Energy flows through ecosystems
+- **Physiology**: Information integration in multicellular organisms
+
+## A Note on Scientific Thinking
+
+As you work through these chapters, pay attention not only to *what* 
+we know about biology but *how* we know it. Scientific understanding 
+advances through observation, hypothesis testing, experimentation, 
+and theory building. The foundational concepts presented here represent
+our current best understanding, subject to revision as new evidence 
+emerges.
+
+---
+
+## Our Approach
+
+We build understanding through three core perspectives:
+
+1. **Physical Perspective**: How thermodynamics and chemistry govern life
+2. **Information Perspective**: How biological information is stored, transmitted, and processed
+3. **Evolutionary Perspective**: How life diversifies and adapts over time
+
+## Core Themes
+
+### Theme 1: Energy as Life's Currency
+
+All living systems require continuous energy input to maintain organization, grow, and reproduce. We explore:
+
+- **Thermodynamic foundations** of metabolism
+- **Energy transduction** in cells
+- **Bioenergetics** of different life forms
+- **Ecological energy flows**
+
+### Theme 2: Information as Life's Blueprint
+
+Biological information exists at multiple levels:
+
+- **Genetic information** in DNA sequences
+- **Epigenetic information** in chemical modifications
+- **Cellular information** in signaling pathways
+- **Ecological information** in species interactions
+
+### Theme 3: Evolution as Life's Algorithm
+
+Evolution by natural selection explains both diversity and commonality:
+
+- **Molecular evolution** of genes and proteins
+- **Organismal adaptation** to environments
+- **Macroevolutionary patterns** over geological time
+- **Human evolution** and cultural development
+
+## How to Use This Book
+
+### For Students
+- Start with Chapter 1 to build foundational concepts
+- Use the learning objectives to guide your study
+- Complete the embedded questions and exercises
+- Explore the interactive visualizations when available
+
+### For Instructors
+- Use chapters in sequence or select relevant sections
+- Assign problem sets from the appendices
+- Incorporate the interactive elements into lectures
+- Use the comprehensive references for further reading
+
+### Interactive Features
+- **Animated diagrams** explaining complex processes
+- **Self-assessment quizzes** at the end of each chapter
+- **Data exploration activities** with real biological data
+- **Computational thinking exercises**
+
+## Acknowledgments
+
+This book builds upon the work of countless biologists, educators, and researchers. Special thanks to the open science community for making knowledge accessible to all.
+
+## License
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. You are free to share and adapt the material for non-commercial purposes with proper attribution.
+
+---
+
+<div class="quick-links">
+<h3>Start Your Journey</h3>
+<div class="link-grid">
+<a href="content/01-foundations/01-what-is-life.qmd" class="link-card">
+<div class="card-icon">🌱</div>
+<h4>Chapter 1: What is Life?</h4>
+<p>Begin with the fundamental question that defines biology.</p>
+</a>
+
+<a href="content/01-foundations/02-energy-thermodynamics.qmd" class="link-card">
+<div class="card-icon">⚡</div>
+<h4>Chapter 2: Energy & Thermodynamics</h4>
+<p>Explore the physical laws that govern all living systems.</p>
+</a>
+
+<a href="content/01-foundations/03-information-biology.qmd" class="link-card">
+<div class="card-icon">💾</div>
+<h4>Chapter 3: Information in Biology</h4>
+<p>Discover how life stores and processes information.</p>
+</a>
+</div>
+</div>
