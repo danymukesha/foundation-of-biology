@@ -1,0 +1,460 @@
+---
+title: "Metabolism and Energy Transformation"
+---
+
+## Learning Objectives
+
+By the end of this chapter, you should be able to:
+
+1. Define metabolism and distinguish between catabolism and anabolism
+2. Describe the role of enzymes in metabolic reactions and explain factors affecting enzyme activity
+3. Trace the flow of energy and matter through glycolysis, Krebs cycle, and electron transport chain
+4. Compare aerobic and anaerobic respiration in terms of energy yield and metabolic pathways
+5. Explain how photosynthesis converts light energy to chemical energy
+6. Describe metabolic regulation through feedback inhibition and allosteric control
+7. Analyze how different organisms meet their metabolic needs through diverse metabolic strategies
+8. Apply thermodynamic principles to understand metabolic pathway efficiency
+
+## Introduction
+
+Metabolism represents the sum of all chemical reactions that occur within a cell or organism. These reactions transform energy and matter, enabling cells to grow, reproduce, maintain structure, and respond to their environment. This chapter explores how cells harness energy from their surroundings, convert it into usable forms, and utilize it to drive essential cellular processes. We will examine the intricate pathways that constitute cellular metabolism, focusing on how they implement the thermodynamic principles established in Chapter 2.
+
+---
+
+## Overview of Metabolism
+
+### Defining Metabolism
+
+**Metabolism**: The totality of an organism's chemical reactions
+- **Catabolism**: Breakdown of complex molecules to simpler ones, releasing energy
+- **Anabolism**: Synthesis of complex molecules from simpler ones, requiring energy
+
+### Metabolic Pathways
+
+**Linear pathways**: Series of reactions converting substrate to product through intermediates
+**Cyclic pathways**: Starting molecule regenerated at end of cycle
+**Branching pathways**: Multiple products from common intermediates
+
+### Energy Coupling in Metabolism
+
+**Exergonic reactions**: Release free energy (ΔG < 0)
+**Endergonic reactions**: Require free energy input (ΔG > 0)
+**Energy coupling**: Using energy from exergonic reactions to drive endergonic reactions
+
+**ATP as energy currency**:
+```
+ATP + H₂O → ADP + Pᵢ + Energy (ΔG ≈ -30.5 kJ/mol)
+Energy + ADP + Pᵢ → ATP (ΔG ≈ +30.5 kJ/mol)
+```
+
+### Metabolic Integration
+
+**Intermediates**: Molecules participating in multiple pathways
+**Amphibolic pathways**: Function in both catabolism and anabolism
+**Metabolic regulation**: Coordination of pathway activities
+
+---
+
+## Enzymes: Biological Catalysts
+
+### Enzyme Structure and Function
+
+**Enzymes**: Protein catalysts that accelerate chemical reactions\
+- **Active site**: Region where substrate binds and catalysis occurs
+- **Substrate specificity**: Determined by active site geometry and chemical properties
+- **Induced fit**: Conformational change upon substrate binding
+
+### Enzyme Kinetics
+
+**Michaelis-Menten kinetics**:\
+- V₀ = (Vₘₐₓ × [S])/(Kₘ + [S])
+- Vₘₐₓ: Maximum reaction velocity
+- Kₘ: Substrate concentration at half Vₘₐₓ (measure of affinity)
+
+**Factors affecting enzyme activity**:\
+1. **Temperature**: Optimal range, denaturation at high temperatures
+2. **pH**: Optimal for each enzyme, affects ionization states
+3. **Substrate concentration**: Saturation kinetics
+4. **Enzyme concentration**: Proportional to rate (at saturating substrate)
+5. **Inhibitors**: Competitive, noncompetitive, allosteric
+
+### Enzyme Regulation
+
+**Allosteric regulation**: Binding at site other than active site alters enzyme activity
+- **Allosteric activators**: Increase enzyme activity
+- **Allosteric inhibitors**: Decrease enzyme activity
+
+**Covalent modification**: Phosphorylation, acetylation, methylation
+**Proteolytic activation**: Cleavage of inactive precursor to active enzyme
+**Feedback inhibition**: End product inhibits early enzyme in pathway
+
+**Isozymes**: Different enzymes catalyzing same reaction, regulated differently
+
+---
+
+## Cellular Respiration
+
+### Overview
+
+**Purpose**: Extract energy from organic molecules and store it in ATP
+**Overall reaction** (aerobic):
+C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy (ΔG°′ = -2870 kJ/mol)
+
+**Four stages**:
+1. Glycolysis
+2. Pyruvate oxidation
+3. Krebs cycle (Citric acid cycle)
+4. Oxidative phosphorylation
+
+### Stage 1: Glycolysis
+
+**Location**: Cytoplasm
+**Input**: Glucose (6C), 2 ATP, 2 NAD⁺
+**Output**: 2 pyruvate (3C), 4 ATP (net 2), 2 NADH
+
+**Key steps**:
+1. **Energy investment**: 2 ATP used to phosphorylate glucose
+2. **Cleavage**: 6C sugar split into two 3C molecules
+3. **Energy harvest**: 4 ATP produced (substrate-level phosphorylation)
+
+**Regulation**: Phosphofructokinase-1 (PFK-1) is key regulated enzyme
+- **Inhibited by**: ATP, citrate
+- **Activated by**: AMP, ADP, fructose-2,6-bisphosphate
+
+### Stage 2: Pyruvate Oxidation
+
+**Location**: Mitochondrial matrix
+**Input**: 2 pyruvate, 2 NAD⁺, coenzyme A
+**Output**: 2 acetyl-CoA (2C), 2 CO₂, 2 NADH
+
+**Reaction**: Pyruvate + NAD⁺ + CoA → Acetyl-CoA + CO₂ + NADH
+
+**Enzyme complex**: Pyruvate dehydrogenase (regulated by phosphorylation)
+
+### Stage 3: Krebs Cycle (Citric Acid Cycle)
+
+**Location**: Mitochondrial matrix
+**Input**: 2 acetyl-CoA
+**Output per acetyl-CoA**: 3 NADH, 1 FADH₂, 1 ATP (GTP), 2 CO₂
+**Total per glucose**: 6 NADH, 2 FADH₂, 2 ATP, 4 CO₂
+
+**Key features**:
+- Cyclic pathway regenerating oxaloacetate
+- Complete oxidation of acetyl carbons to CO₂
+- Generates reduced electron carriers (NADH, FADH₂)
+
+**Regulation**: Isocitrate dehydrogenase, α-ketoglutarate dehydrogenase
+- **Inhibited by**: ATP, NADH
+- **Activated by**: ADP, Ca²⁺
+
+### Stage 4: Oxidative Phosphorylation
+
+**Location**: Inner mitochondrial membrane
+**Process**: Electron transport chain + chemiosmosis
+
+**Electron transport chain**:
+1. NADH dehydrogenase (Complex I): NADH → FMN → Fe-S → CoQ
+2. Succinate dehydrogenase (Complex II): FADH₂ → FAD → Fe-S → CoQ
+3. Cytochrome bc₁ (Complex III): CoQH₂ → Cyt b → Cyt c₁ → Cyt c
+4. Cytochrome oxidase (Complex IV): Cyt c → Cyt a/a₃ → O₂
+
+**Proton gradient**: ~3 H⁺ per NADH, ~2 H⁺ per FADH₂ pumped across membrane
+
+**ATP synthase**: Rotational motor using proton gradient to make ATP
+- **Structure**: F₀ (membrane-bound proton channel), F₁ (catalytic head)
+- **Mechanism**: Chemiosmotic coupling
+- **Stoichiometry**: ~3 H⁺ per ATP synthesized
+
+### Energy Accounting
+
+**Theoretical maximum per glucose**:
+- Substrate-level phosphorylation: 4 ATP (2 glycolysis, 2 Krebs)
+- Oxidative phosphorylation: ~30 ATP (10 per NADH, 6 per FADH₂)
+- Total: ~34 ATP
+
+**Actual yield**: ~30 ATP (due to costs of transport, etc.)
+**Efficiency**: ~34% of energy in glucose converted to ATP
+
+### Anaerobic Respiration and Fermentation
+
+**Anaerobic respiration**: Uses electron acceptors other than O₂
+- **Electron acceptors**: NO₃⁻, SO₄²⁻, CO₂
+- **ATP yield**: Less than aerobic respiration
+
+**Fermentation**: Regenerates NAD⁺ without electron transport chain
+- **Lactic acid fermentation**: Pyruvate → Lactate (animals, some bacteria)
+- **Alcoholic fermentation**: Pyruvate → Acetaldehyde → Ethanol (yeast, plants)
+- **ATP yield**: 2 ATP per glucose (glycolysis only)
+
+---
+
+## Photosynthesis
+
+### Overview
+
+**Purpose**: Convert light energy to chemical energy stored in organic molecules
+**Overall reaction**: 6CO₂ + 6H₂O + Light → C₆H₁₂O₆ + 6O₂
+**Two stages**: Light reactions and Calvin cycle
+
+### Light Reactions
+
+**Location**: Thylakoid membranes of chloroplasts
+**Input**: Light, H₂O, NADP⁺, ADP, Pᵢ
+**Output**: O₂, ATP, NADPH
+
+**Photosystems**: Protein-pigment complexes
+- **Photosystem II (P680)**: Water oxidation, proton gradient establishment
+- **Photosystem I (P700)**: NADP⁺ reduction
+
+**Linear electron flow**:
+1. PSII absorbs light, excites electrons
+2. Electrons passed to plastoquinone, cytochrome complex
+3. Proton pumping creates gradient
+4. Electrons to PSI, re-excited by light
+5. Electrons reduce NADP⁺ to NADPH
+
+**ATP synthesis**: Photophosphorylation via ATP synthase using proton gradient
+
+### Calvin Cycle (Dark Reactions)
+
+**Location**: Stroma of chloroplasts
+**Input**: CO₂, ATP, NADPH
+**Output**: Glyceraldehyde-3-phosphate (G3P)
+
+**Three phases**:
+1. **Carbon fixation**: RuBP + CO₂ → 3-PGA (catalyzed by rubisco)
+2. **Reduction**: 3-PGA → G3P (requires ATP and NADPH)
+3. **Regeneration**: RuBP regenerated from G3P (requires ATP)
+
+**Net per 3 CO₂**: 6 ATP, 6 NADPH used, 1 G3P produced
+**To make glucose**: 6 cycles, 18 ATP, 12 NADPH
+
+### Photorespiration
+
+**Problem**: Rubisco can fix O₂ instead of CO₂ (oxygenase activity)
+**Conditions**: High temperature, high O₂, low CO₂
+**Consequences**: Wastes energy, releases CO₂
+**Adaptations**: C₄ and CAM pathways
+
+**C₄ plants**: Spatial separation of carbon fixation (mesophyll) and Calvin cycle (bundle sheath)
+**CAM plants**: Temporal separation (night: stomata open, fix CO₂; day: stomata closed, Calvin cycle)
+
+---
+
+## Metabolic Integration and Regulation
+
+### Interconnecting Pathways
+
+**Carbohydrate metabolism**: Glycolysis, gluconeogenesis, glycogenesis, glycogenolysis
+**Lipid metabolism**: β-oxidation (catabolism), fatty acid synthesis (anabolism)
+**Protein metabolism**: Proteolysis (catabolism), protein synthesis (anabolism)
+**Nucleotide metabolism**: Purine and pyrimidine synthesis and degradation
+
+**Key intermediates**:
+- **Acetyl-CoA**: Central metabolite from carbohydrates, fats, proteins
+- **Pyruvate**: Links glycolysis to various pathways
+- **Oxaloacetate**: Anaplerotic reactions replenish Krebs cycle
+
+### Hormonal Regulation
+
+**Insulin**: Promotes fuel storage (glycogenesis, lipogenesis)
+**Glucagon**: Promotes fuel mobilization (glycogenolysis, gluconeogenesis)
+**Epinephrine**: Rapid fuel mobilization (glycogenolysis, lipolysis)
+**Cortisol**: Long-term stress response (gluconeogenesis, proteolysis)
+
+### Tissue-Specific Metabolism
+
+**Liver**: Metabolic hub, gluconeogenesis, ketone body production
+**Muscle**: Glycogen storage, high ATP demand
+**Brain**: Primarily glucose utilization, ketone bodies during starvation
+**Adipose tissue**: Fat storage and mobilization
+**Kidney**: Gluconeogenesis, acid-base balance
+
+### Metabolic Adaptations
+
+**Fed state**: High insulin, nutrient storage
+**Fasting state**: High glucagon, fuel mobilization
+**Starvation**: Ketone body production, protein sparing
+**Exercise**: Increased glycolysis, β-oxidation, lactate production
+
+---
+
+## Bioenergetics and Metabolic Efficiency
+
+### Thermodynamic Considerations
+
+**Metabolic efficiency**: Percentage of energy captured as ATP
+- **Cellular respiration**: ~34% (glucose to ATP)
+- **Photosynthesis**: ~3-6% (light to carbohydrate)
+- **Ecological efficiency**: ~10% (trophic level transfer)
+
+**Energy cost of biosynthesis**:
+- Glucose from CO₂: 18 ATP + 12 NADPH
+- Protein synthesis: ~4 ATP equivalents per peptide bond
+- DNA replication: ~2 ATP per nucleotide added
+
+### Metabolic Rate
+
+**Basal metabolic rate (BMR)**: Energy expenditure at rest
+**Factors affecting BMR**: Body size, age, sex, body composition, thyroid function
+**Allometric scaling**: Metabolic rate ∝ Mass^0.75 (Kleiber's law)
+
+### Metabolic Disorders
+
+**Diabetes mellitus**: Impaired glucose regulation
+- **Type 1**: Insulin deficiency
+- **Type 2**: Insulin resistance
+
+**Mitochondrial diseases**: Impaired oxidative phosphorylation
+**Glycogen storage diseases**: Defects in glycogen metabolism
+**Phenylketonuria**: Defect in phenylalanine metabolism
+
+---
+
+## Chapter Summary
+
+### Key Concepts
+
+1. **Metabolism** encompasses all chemical reactions in cells, divided into catabolism (breakdown) and anabolism (synthesis)
+2. **Enzymes** catalyze metabolic reactions with specificity and are regulated by various mechanisms
+3. **Cellular respiration** extracts energy from glucose through glycolysis, Krebs cycle, and oxidative phosphorylation
+4. **Photosynthesis** converts light energy to chemical energy through light reactions and Calvin cycle
+5. **Metabolic pathways** are interconnected and regulated to meet cellular needs
+6. **ATP** serves as the primary energy currency, coupling exergonic and endergonic reactions
+7. **Different organisms** employ various metabolic strategies based on energy and carbon sources
+
+### Energy Yield Comparison
+
+| Process | ATP per glucose | Electron acceptor | Location |
+|---------|-----------------|-------------------|----------|
+| **Aerobic respiration** | ~30 ATP | O₂ | Mitochondria |
+| **Anaerobic respiration** | Variable | NO₃⁻, SO₄²⁻, etc. | Cytoplasm/membrane |
+| **Fermentation** | 2 ATP | Organic molecules | Cytoplasm |
+| **Photosynthesis** | N/A (produces glucose) | N/A | Chloroplasts |
+
+### Metabolic Regulation Mechanisms
+
+1. **Allosteric regulation**: Binding at regulatory sites
+2. **Covalent modification**: Phosphorylation, etc.
+3. **Feedback inhibition**: End product inhibits early steps
+4. **Gene expression**: Long-term regulation of enzyme amounts
+5. **Compartmentalization**: Separation of opposing pathways
+
+### Important Metabolic Intermediates
+
+- **Glucose-6-phosphate**: Branch point for glycolysis, pentose phosphate pathway, glycogen synthesis
+- **Pyruvate**: Links glycolysis to fermentation, Krebs cycle, gluconeogenesis
+- **Acetyl-CoA**: Central in carbohydrate, fat, and protein metabolism
+- **Oxaloacetate**: Anaplerotic entry to Krebs cycle, gluconeogenesis precursor
+
+---
+
+## Review Questions
+
+### Level 1: Recall and Understanding
+
+1. Define metabolism and distinguish between catabolism and anabolism.
+2. List three factors that affect enzyme activity and explain their effects.
+3. Name the inputs and outputs of glycolysis, Krebs cycle, and electron transport chain.
+4. Compare the light reactions and Calvin cycle of photosynthesis.
+5. What is the role of ATP in cellular metabolism?
+
+### Level 2: Application and Analysis
+
+6. Explain why fermentation produces much less ATP than aerobic respiration.
+7. How does feedback inhibition help regulate metabolic pathways?
+8. Trace the fate of a carbon atom from CO₂ in photosynthesis to its release as CO₂ in cellular respiration.
+9. Why do cells need both ATP and NADPH for biosynthesis?
+10. Calculate the efficiency of ATP production if a cell produces 28 ATP from one glucose molecule.
+
+### Level 3: Synthesis and Evaluation
+
+11. Design an experiment to determine whether a metabolic pathway is regulated by feedback inhibition.
+12. Compare and contrast the chemiosmotic mechanisms in mitochondria and chloroplasts.
+13. Evaluate the statement: "Metabolic pathways evolved to maximize efficiency."
+14. How might metabolic pathways differ in organisms living in extreme environments (high temperature, low oxygen, etc.)?
+
+---
+
+## Key Terms
+
+- **Metabolism**: Sum of all chemical reactions in an organism
+- **Catabolism**: Breakdown of complex molecules to simpler ones, releasing energy
+- **Anabolism**: Synthesis of complex molecules from simpler ones, requiring energy
+- **Enzyme**: Protein catalyst that accelerates chemical reactions
+- **Active site**: Region of enzyme where substrate binds and catalysis occurs
+- **Glycolysis**: Breakdown of glucose to pyruvate with net production of 2 ATP
+- **Krebs cycle (Citric acid cycle)**: Cyclic pathway that completes oxidation of acetyl-CoA
+- **Oxidative phosphorylation**: ATP synthesis coupled to electron transport and proton gradient
+- **Fermentation**: ATP production without oxygen, regenerating NAD⁺
+- **Photosynthesis**: Conversion of light energy to chemical energy in carbohydrates
+- **Calvin cycle**: Carbon fixation pathway in photosynthesis
+- **Feedback inhibition**: Regulation where end product inhibits early enzyme in pathway
+- **Allosteric regulation**: Enzyme regulation by binding at site other than active site
+- **ATP (Adenosine triphosphate)**: Primary energy currency in cells
+- **NADH/NAD⁺**: Electron carrier in oxidation-reduction reactions
+- **Chemiosmosis**: ATP synthesis driven by proton gradient across membrane
+
+---
+
+## Further Reading
+
+### Books
+1. Berg, J. M., et al. (2015). *Biochemistry* (8th ed.). W. H. Freeman.
+2. Nelson, D. L., & Cox, M. M. (2021). *Lehninger Principles of Biochemistry* (8th ed.). W. H. Freeman.
+3. Voet, D., Voet, J. G., & Pratt, C. W. (2016). *Fundamentals of Biochemistry* (5th ed.). Wiley.
+
+### Scientific Articles
+1. Mitchell, P. (1961). Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism. *Nature*, 191(4784), 144-148.
+2. Krebs, H. A. (1970). The history of the tricarboxylic acid cycle. *Perspectives in Biology and Medicine*, 14(1), 154-170.
+3. Farquhar, G. D., von Caemmerer, S., & Berry, J. A. (1980). A biochemical model of photosynthetic CO₂ assimilation in leaves of C₃ species. *Planta*, 149(1), 78-90.
+
+### Online Resources
+1. Metabolic Pathways Database: https://www.genome.jp/kegg/pathway.html
+2. BRENDA Enzyme Database: https://www.brenda-enzymes.org
+3. RCSB Protein Data Bank: https://www.rcsb.org
+
+---
+
+## Quantitative Problems
+
+1. **ATP Yield Calculations**:
+   a) Calculate total ATP yield from complete oxidation of one glucose molecule assuming:
+      - 2.5 ATP per NADH, 1.5 ATP per FADH₂
+      - Include ATP from substrate-level phosphorylation
+   b) How many glucose molecules must be oxidized to produce 1 kg of ATP?
+   c) If a human consumes 2000 kcal/day and metabolic efficiency is 40%, how much ATP is produced daily?
+
+2. **Enzyme Kinetics**:
+   An enzyme has Vₘₐₓ = 100 μmol/min and Kₘ = 10 mM.
+   a) Calculate reaction velocity at [S] = 5 mM, 10 mM, and 20 mM.
+   b) What [S] is needed to achieve 90% of Vₘₐₓ?
+   c) How would a competitive inhibitor with Kᵢ = 5 mM affect these values?
+
+3. **Photosynthetic Efficiency**:
+   A leaf receives 1000 μmol photons/m²/s of photosynthetically active radiation.
+   a) If quantum yield is 0.125 O₂ per photon, calculate O₂ production rate.
+   b) Assuming 6 CO₂ fixed per O₂ produced, calculate glucose production per hour per m².
+   c) If solar constant is 1360 W/m² and 45% is photosynthetically active, what is overall efficiency?
+
+---
+
+## Case Study: Metabolic Adaptation in Extreme Environments
+
+**Background**: Thermophilic archaea living in deep-sea hydrothermal vents (T > 80°C) use hydrogen sulfide as energy source.
+
+**Questions**:\
+1. What metabolic challenges do these organisms face compared to mesophiles?
+2. How might their enzymes be adapted to function at high temperatures?
+3. What advantages might anaerobic respiration using S⁰ as electron acceptor provide in this environment?
+4. Design a metabolic pathway diagram showing energy flow from H₂S to ATP.
+
+**Data for analysis**:
+- Reaction: H₂S + 2O₂ → SO₄²⁻ + 2H⁺ (ΔG°′ = -798 kJ/mol)
+- Optimal growth temperature: 85-105°C
+- Membrane lipids: Ether-linked, branched chains
+- DNA structure: Reverse gyrase introduces positive supercoils
+
+---
+
+*Next Chapter: [The Central Dogma in Action](07-central-dogma.qmd)*

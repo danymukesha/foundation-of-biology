@@ -22,7 +22,7 @@ body {
   font-family: var(--font-main);
   line-height: 1.7;
   color: var(--text-color);
-  max-width: 2200px;
+  max-width: 3200px;
   margin: 0 auto;
   padding: 20px;
 }

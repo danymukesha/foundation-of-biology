@@ -1,15 +1,12 @@
----
-title: "Foundations of Biology: Energy & Information"
----
-
-# Welcome to Modern Biology
+# Welcome to Modern Biology {.unnumbered}
 
 <div class="hero-section">
 <div class="hero-text">
 <h2>Understanding Life Through Universal Principles</h2>
-<p>This textbook presents biology not as a collection of facts, but as a coherent system governed by fundamental principles of <strong>energy transformation</strong> and <strong>information processing</strong>.</p>
+<p>This textbook presents biology as a coherent system governed by fundamental principles of <strong>energy transformation</strong> and <strong>information processing</strong>, rather than as a collection of facts.</p>
 </div>
 </div>
+
 
 Here, we establish the fundamental principles that underlie all 
 biological systems. Before examining specific organisms or processes, 

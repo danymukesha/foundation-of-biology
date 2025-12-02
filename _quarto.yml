@@ -5,11 +5,11 @@ project:
     port: 4200
     browser: true
 
-book:
+book: 
   title: "Foundation of Biology"
   author: "Dany Mukesha"
   date: "12/2/2025"
-  description: "Life explained through energy flow and information."  
+  description: "Life explained through energy flow and information." 
   
   repo-url: https://github.com/danymukesha/foundation-of-biology
   repo-actions: [edit, issue]
@@ -17,20 +17,21 @@ book:
   site-url: https://danymukesha.github.io/foundation-of-biology
   
   chapters:
+    - index.qmd
     - part: "I: Foundational Concepts"
       chapters:
-        - index.qmd
         - content/01-foundations/01-what-is-life.qmd
         - content/01-foundations/02-energy-thermodynamics.qmd
         - content/01-foundations/03-information-biology.qmd 
         - content/01-foundations/04-chemical-basis.qmd 
-    # 
-    # - part: "II: Cellular Systems"
-    #   chapters:
-    #     - content/02-cellular/05-cell-theory.qmd
-    #     - content/02-cellular/06-metabolism.qmd
-    #     - content/02-cellular/07-central-dogma.qmd
-    #     - content/02-cellular/08-cell-communication.qmd
+
+    - part: "II: Cellular Systems" 
+      chapters: 
+        - content/02-cellular/index.qmd 
+        - content/02-cellular/05-cell-theory.qmd
+        - content/02-cellular/06-metabolism.qmd
+        - content/02-cellular/07-central-dogma.qmd
+        - content/02-cellular/08-cell-communication.qmd 
     # 
     # - part: "III: Genetics & Molecular Biology"
     #   chapters:
