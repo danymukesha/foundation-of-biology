@@ -1,0 +1,646 @@
+---
+title: "Molecular Genetics"
+---
+
+## Learning Objectives
+
+By the end of this chapter, you should be able to:
+
+1. Describe the evidence establishing DNA as the genetic material
+2. Explain the structure of DNA and how it enables replication and information storage
+3. Compare different types of mutations and their molecular consequences
+4. Describe DNA repair mechanisms and their importance
+5. Explain how genes are organized in prokaryotic and eukaryotic genomes
+6. Analyze the relationship between genotype and phenotype at the molecular level
+7. Describe techniques for analyzing DNA and genes
+8. Apply molecular genetics principles to understand genetic disorders
+
+## Introduction
+
+Molecular genetics bridges classical genetics with biochemistry, providing a physical and chemical understanding of heredity. This chapter explores the molecular basis of genetic phenomena, from the structure of DNA to the mechanisms of mutation and repair. We will examine how genetic information is encoded in DNA molecules, how this information can change through mutation, and how cells maintain genomic integrity. Understanding molecular genetics provides the foundation for modern biotechnology, genetic engineering, and personalized medicine.
+
+---
+
+## The Genetic Material
+
+### Historical Background
+
+**Early 20th century**: Chromosomes known to carry genetic information, but composition debated 
+
+**Candidates**: Proteins (complex, diverse) vs. nucleic acids (simple, repetitive)
+
+### Griffith's Transformation Experiment (1928)
+
+**Organism**: Streptococcus pneumoniae
+
+**Strains**: Smooth (virulent, encapsulated) and rough (avirulent, unencapsulated)
+
+**Key experiment**: Heat-killed smooth + live rough → live smooth
+
+**Conclusion**: "Transforming principle" from dead cells could change living cells
+
+### Avery, MacLeod, and McCarty (1944)
+
+**Question**: What is the transforming principle?
+
+**Approach**: Purify components from smooth bacteria, test transformation
+
+**Treatments**: Proteases (destroy proteins), RNase (destroy RNA), DNase (destroy DNA)
+
+**Result**: Only DNase destroyed transforming activity
+
+**Conclusion**: DNA is the transforming principle (genetic material)
+
+### Hershey-Chase Experiment (1952)
+
+**Organism**: Bacteriophage T2 (infects E. coli)
+
+**Labeling**: ³²P (DNA) vs. ³⁵S (protein)
+
+**Experiment**: Infect bacteria, blend to remove phage coats, centrifuge
+
+**Result**: ³²P (DNA) inside bacteria, ³⁵S (protein) outside
+
+**Conclusion**: DNA enters bacteria, directs phage reproduction (DNA is genetic material)
+
+### Chargaff's Rules (1950)
+
+**Observations**:
+
+1. DNA composition varies between species
+2. Within species: A = T, G = C (A+T ≠ G+C)
+
+**Significance**: Provided clues to DNA structure
+
+### Watson, Crick, Franklin, and Wilkins (1953)
+
+**X-ray diffraction**: Rosalind Franklin's Photo 51 showed helical structure
+
+**Model building**: Watson and Crick proposed double helix
+
+**Key features**: Complementary base pairing, antiparallel strands, right-handed helix
+
+---
+
+## DNA Structure
+
+### Chemical Components
+
+**Nucleotides**: Building blocks of DNA
+
+- **Deoxyribose sugar**: 5-carbon sugar (2'-deoxy)
+- **Phosphate group**: Links nucleotides
+- **Nitrogenous bases**: Purines (A, G) and pyrimidines (C, T)
+
+**Nucleoside**: Base + sugar (no phosphate)
+
+**Nucleotide**: Base + sugar + phosphate(s)
+
+### Double Helix Structure
+
+**Key features**:
+
+1. **Two antiparallel strands**: 5'→3' and 3'→5'
+2. **Right-handed helix**: B-DNA is most common form
+3. **Base pairing**: A-T (2 hydrogen bonds), G-C (3 hydrogen bonds)
+4. **Major and minor grooves**: Sites for protein binding
+5. **Diameter**: 2 nm
+6. **Helical repeat**: ~10 base pairs per turn (3.4 nm)
+
+**Stabilizing forces**:
+
+1. **Hydrogen bonds**: Between complementary bases
+2. **Base stacking**: Hydrophobic interactions between stacked bases
+3. **Electrostatic interactions**: Negative phosphate repulsion minimized by cations
+
+### DNA Conformations
+
+**B-DNA**: Most common, right-handed, physiological conditions
+
+**A-DNA**: Right-handed, shorter and wider, dehydrated conditions
+
+**Z-DNA**: Left-handed, alternating purine-pyrimidine sequences
+
+**Triple helix**: H-DNA, formed in polypurine-polypyrimidine regions
+
+### Chromosome Organization
+
+**Prokaryotes**: Circular DNA, supercoiled, nucleoid-associated proteins
+
+**Eukaryotes**: Linear chromosomes, histone proteins, nucleosomes, higher-order structures
+
+**Chromatin**:
+
+- **Euchromatin**: Less condensed, transcriptionally active
+- **Heterochromatin**: Highly condensed, transcriptionally inactive
+
+---
+
+## DNA Replication (Detailed)
+
+### Semiconservative Replication
+
+**Meselson-Stahl Experiment (1958)**:
+
+- **Method**: Density gradient centrifugation with ¹⁵N (heavy) and ¹⁴N (light)
+- **Prediction**: Conservative (all heavy or all light) vs. semiconservative (hybrid)
+- **Result**: After one generation: all hybrid; after two: half hybrid, half light
+- **Conclusion**: Semiconservative replication
+
+### Replication Machinery
+
+**Initiation complex**:
+
+- **Origin recognition complex (ORC)**: Binds origin in eukaryotes
+- **Helicase**: Unwinds DNA (MCM in eukaryotes)
+- **Single-strand binding proteins (SSBs)**: Stabilize single strands
+- **Topoisomerases**: Relieve supercoiling (DNA gyrase in bacteria)
+
+**Priming**:
+
+- **Primase**: Synthesizes RNA primer (10-12 nucleotides)
+- **Primosome**: Complex containing primase and helicase
+
+**Elongation**:
+
+- **DNA polymerase III**: Main replicase in bacteria (ε and δ in eukaryotes)
+- **Sliding clamp**: PCNA (eukaryotes) or β-clamp (bacteria)
+- **Clamp loader**: RFC (eukaryotes) or γ-complex (bacteria)
+
+**Termination**:
+
+- **Bacteria**: Specific termination sites, Tus protein
+- **Eukaryotes**: Telomeres, telomerase in stem/germ cells
+
+### Leading vs. Lagging Strand
+
+**Leading strand**: Continuous synthesis 5'→3'
+
+**Lagging strand**: Discontinuous synthesis (Okazaki fragments)
+
+- **Size**: 100-200 nucleotides in eukaryotes, 1000-2000 in bacteria
+- **Processing**: RNA primer removal, gap filling, ligation
+
+### Fidelity Mechanisms
+
+1. **Base pairing specificity**: Hydrogen bonding geometry
+2. **3'→5' exonuclease proofreading**: DNA polymerase activity
+3. **Mismatch repair**: Post-replication correction
+4. **Error rate**: ~10⁻⁹ per base (1 error per billion bases)
+
+### Eukaryotic Features
+
+**Multiple origins**: 30,000-50,000 in human genome
+
+**Replication timing**: Euchromatin replicates early, heterochromatin late
+
+**Licensing**: Pre-replication complex ensures single replication per cycle
+
+**Telomere replication**: Telomerase adds repeats to chromosome ends
+
+---
+
+## Mutations
+
+### Types of Mutations
+
+**Point mutations** (single base changes):
+
+- **Transition**: Purine to purine (A↔G) or pyrimidine to pyrimidine (C↔T)
+- **Transversion**: Purine to pyrimidine or vice versa
+
+**Functional consequences**:
+
+- **Silent mutation**: Same amino acid (synonymous)
+- **Missense mutation**: Different amino acid
+
+  - Conservative: Similar properties
+  - Non-conservative: Different properties
+  
+- **Nonsense mutation**: Stop codon created
+- **Frameshift mutation**: Insertion/deletion not multiple of 3
+
+**Chromosomal mutations**:
+
+- **Deletion**: Loss of segment
+- **Duplication**: Repeat of segment
+- **Inversion**: Segment reversed
+- **Translocation**: Segment moved to different chromosome
+
+### Causes of Mutations
+
+**Spontaneous**:
+
+- **Replication errors**: Polymerase mistakes
+- **Tautomeric shifts**: Rare base forms mispair
+- **Depurination**: Loss of purine base (~10,000/cell/day)
+- **Deamination**: C → U (~100/cell/day)
+
+**Induced**:
+
+- **Chemical mutagens**:
+
+  - Base analogs: 5-bromouracil (T analog)
+  - Alkylating agents: EMS, adds alkyl groups
+  - Intercalating agents: Ethidium bromide, between bases
+  
+- **Radiation**:
+
+  - UV light: Pyrimidine dimers (TT, CT, CC)
+  - Ionizing radiation: Single- and double-strand breaks
+
+### Mutation Rates
+
+**Variation across organisms**:
+
+- RNA viruses: 10⁻³ to 10⁻⁵ per base per replication
+- DNA viruses: 10⁻⁶ to 10⁻⁸
+- Bacteria: ~10⁻⁹ to 10⁻¹⁰
+- Eukaryotes: ~10⁻⁹ to 10⁻¹¹
+
+**Factors affecting rate**:
+
+- Genome size
+- Generation time
+- DNA repair efficiency
+- Environmental exposure
+
+---
+
+## DNA Repair Mechanisms
+
+### Direct Reversal
+
+**Photolyase**: Light-dependent repair of pyrimidine dimers
+
+**O⁶-methylguanine methyltransferase (MGMT)**: Removes methyl groups from guanine
+
+### Base Excision Repair (BER)
+
+**For**: Small, non-helix-distorting base lesions
+
+**Steps**:
+
+1. DNA glycosylase removes damaged base
+2. AP endonuclease nicks backbone
+3. DNA polymerase fills gap
+4. DNA ligase seals nick
+
+**Examples**: Uracil (from deaminated cytosine), oxidized bases
+
+### Nucleotide Excision Repair (NER)
+
+**For**: Bulky, helix-distorting lesions
+
+**Steps**:
+
+1. Recognition of damage
+2. Excision of oligonucleotide (24-32 bases)
+3. DNA synthesis to fill gap
+4. Ligation
+
+**Types**:
+
+- **Global genomic NER**: Throughout genome
+- **Transcription-coupled NER**: Active genes
+
+**Diseases**: Xeroderma pigmentosum (NER defect → skin cancer)
+
+### Mismatch Repair (MMR)
+
+**For**: Replication errors (base mismatches, small insertions/deletions)
+
+**Recognition**: MutS protein binds mismatch
+
+**Key feature**: Distinguishes template strand from new strand (methylation in bacteria, nicks in eukaryotes)
+
+**Disease**: Hereditary nonpolyposis colorectal cancer (HNPCC, Lynch syndrome)
+
+### Double-Strand Break Repair
+
+**Non-homologous end joining (NHEJ)**:
+
+- Direct ligation of broken ends
+- Error-prone (loss/gain of nucleotides)
+- Major pathway in mammalian cells
+
+**Homologous recombination (HR)**:
+
+- Uses sister chromatid as template
+- Error-free
+- Requires homologous sequence
+- Major pathway in yeast
+
+### Translesion Synthesis
+
+**Purpose**: Bypass lesions that block replication
+
+**Mechanism**: Specialized DNA polymerases (error-prone)
+
+**Trade-off**: Cell survival vs. mutation
+
+---
+
+## Gene Organization
+
+### Prokaryotic Genes
+
+**Operons**: Clustered genes with related functions
+
+- **Polycistronic mRNA**: Single transcript encoding multiple proteins
+- **Examples**: lac operon, trp operon
+
+**Gene density**: High (~1 gene per kb)
+
+**Non-coding DNA**: Minimal (regulatory sequences, origins)
+
+### Eukaryotic Genes
+
+**Exon-intron structure**:
+
+- **Exons**: Coding sequences
+- **Introns**: Intervening non-coding sequences
+- **Alternative splicing**: Different combinations of exons
+
+**Gene families**: Related genes from duplication events
+
+- **Examples**: Globin genes, histone genes
+
+**Non-coding DNA**:
+
+- **Regulatory sequences**: Promoters, enhancers, silencers
+- **Repetitive DNA**: Tandem repeats, transposable elements
+- **Pseudogenes**: Non-functional copies of genes
+
+### Genome Size Paradox (C-value paradox)
+
+**Observation**: Genome size doesn't correlate with organismal complexity
+
+**Examples**:
+
+- Human: 3.2 Gb
+- Lungfish: 130 Gb
+- Paris japonica (plant): 150 Gb
+
+**Explanation**: Non-coding DNA varies widely
+
+---
+
+## Genotype to Phenotype
+
+### Biochemical Pathways
+
+**One gene-one enzyme hypothesis** (Beadle and Tatum, 1941):
+
+- Each gene encodes one enzyme
+- Modified to: One gene-one polypeptide
+
+**Metabolic pathways**: Mutations block steps
+
+**Example**: Phenylketonuria (PKU)
+
+- Gene: Phenylalanine hydroxylase
+- Block: Phenylalanine → tyrosine
+- Result: Phenylalanine accumulation, mental retardation
+
+### Protein Structure and Function
+
+**Sickle cell anemia**:
+
+- Mutation: β-globin Glu6Val
+- Effect: Hydrophobic patch causes polymerization
+- Phenotype: Sickled cells, anemia, pain crises
+
+**CFTR in cystic fibrosis**:
+
+- Mutation: ΔF508 (deletion of phenylalanine)
+- Effect: Misfolding, defective chloride channel
+- Phenotype: Thick mucus, lung infections
+
+### Genetic Heterogeneity
+
+**Locus heterogeneity**: Mutations in different genes cause same phenotype
+
+**Example**: Retinitis pigmentosa (mutations in >60 genes)
+
+**Allelic heterogeneity**: Different mutations in same gene cause same phenotype
+
+**Example**: Cystic fibrosis (>2000 CFTR mutations)
+
+### Penetrance and Expressivity
+
+**Penetrance**: Proportion of individuals with genotype who show phenotype
+
+- **Complete**: All show phenotype
+- **Incomplete**: Some show phenotype
+
+**Expressivity**: Degree of phenotype expression
+
+**Example**: Neurofibromatosis type 1 (variable expression)
+
+---
+
+## Molecular Genetic Techniques
+
+### DNA Sequencing
+
+**Sanger sequencing** (1977): Dideoxy chain termination
+
+**Next-generation sequencing** (NGS): Massively parallel, high throughput
+
+**Third-generation sequencing**: Single-molecule, long reads
+
+### Polymerase Chain Reaction (PCR)
+
+**Inventor**: Kary Mullis (1983)
+
+**Components**: Template DNA, primers, nucleotides, Taq polymerase
+
+**Cycles**: Denaturation, annealing, extension
+
+**Amplification**: 2ⁿ copies after n cycles
+
+**Applications**: Cloning, diagnostics, forensics, ancient DNA
+
+### Gel Electrophoresis
+
+**Separates**: DNA fragments by size
+
+**Agarose gels**: Larger fragments (0.1-50 kb)
+
+**Polyacrylamide gels**: Smaller fragments, higher resolution
+
+### Southern, Northern, Western Blotting
+
+**Southern**: DNA detection (Edwin Southern, 1975)
+
+**Northern**: RNA detection
+
+**Western**: Protein detection
+
+### Genetic Engineering
+
+**Recombinant DNA technology**: Combining DNA from different sources
+
+**Restriction enzymes**: Cut DNA at specific sequences
+
+**DNA ligase**: Joins DNA fragments
+
+**Vectors**: Plasmids, viruses, artificial chromosomes
+
+**Applications**: Gene cloning, protein production, transgenic organisms
+
+---
+
+## Chapter Summary
+
+### Key Concepts
+
+1. **DNA is genetic material**: Evidence from transformation, phage, and biochemical experiments
+2. **DNA structure**: Double helix with complementary base pairing enables replication and information storage
+3. **DNA replication**: Semiconservative, requires multiple enzymes, high fidelity
+4. **Mutations**: Changes in DNA sequence, spontaneous and induced, various types
+5. **DNA repair**: Multiple mechanisms maintain genomic integrity
+6. **Gene organization**: Differs between prokaryotes and eukaryotes
+7. **Genotype-phenotype relationship**: Through biochemical pathways and protein function
+8. **Molecular techniques**: Enable analysis and manipulation of DNA
+
+### Evidence for DNA as Genetic Material
+
+| Experiment | Organism | Key Finding | Year |
+|------------|----------|-------------|------|
+| **Griffith** | S. pneumoniae | Transforming principle | 1928 |
+| **Avery et al.** | S. pneumoniae | DNA is transforming principle | 1944 |
+| **Hershey-Chase** | T2 phage | DNA enters bacteria | 1952 |
+| **Chargaff** | Various | A=T, G=C | 1950 |
+| **Watson-Crick** | - | Double helix structure | 1953 |
+
+### DNA Repair Pathways
+
+| Pathway | Damage Type | Key Enzymes | Diseases if Defective |
+|---------|-------------|-------------|----------------------|
+| **BER** | Small base lesions | Glycosylases, AP endonuclease | - |
+| **NER** | Bulky lesions | XPA-XPG proteins | Xeroderma pigmentosum |
+| **MMR** | Mismatches | MutS, MutL | HNPCC (Lynch syndrome) |
+| **NHEJ** | Double-strand breaks | Ku, DNA-PKcs, XRCC4 | Radiation sensitivity |
+| **HR** | Double-strand breaks | Rad51, BRCA1/2 | Breast/ovarian cancer |
+
+### Mutation Types and Effects
+
+| Mutation Type | Molecular Change | Possible Effect |
+|--------------|-----------------|----------------|
+| **Silent** | Same amino acid | None |
+| **Missense** | Different amino acid | Variable (beneficial to deleterious) |
+| **Nonsense** | Stop codon | Truncated protein, often nonfunctional |
+| **Frameshift** | Insertion/deletion | Completely different protein sequence |
+| **Splice site** | Alters splicing | Altered mRNA, often nonfunctional |
+
+---
+
+## Review Questions
+
+### Level 1: Recall and Understanding
+
+1. Summarize the evidence that DNA is the genetic material.
+2. Describe the structure of the DNA double helix.
+3. What does "semiconservative replication" mean?
+4. List three types of DNA repair mechanisms.
+5. Distinguish between exons and introns.
+
+### Level 2: Application and Analysis
+
+6. If a DNA molecule is 20% adenine, what are the percentages of thymine, cytosine, and guanine?
+7. Explain how a point mutation in a gene could have no effect, a small effect, or a large effect on the protein product.
+8. Why are mismatch repair systems more effective immediately after DNA replication?
+9. Compare the organization of genes in prokaryotes and eukaryotes.
+10. How does the one gene-one enzyme hypothesis explain inborn errors of metabolism?
+
+### Level 3: Synthesis and Evaluation
+
+11. Design an experiment to determine whether a new chemical is mutagenic.
+12. Evaluate the statement: "DNA repair systems have evolved to balance fidelity with adaptability."
+13. How does our understanding of molecular genetics explain why some genetic diseases show variable expression?
+14. Propose how knowledge of DNA repair mechanisms could lead to new cancer treatments.
+
+---
+
+## Key Terms
+
+- **Transformation**: Uptake and expression of foreign DNA
+- **Double helix**: Two antiparallel polynucleotide chains wound around each other
+- **Complementary base pairing**: A with T, G with C
+- **Semiconservative replication**: Each new DNA molecule contains one old and one new strand
+- **Mutation**: Change in DNA sequence
+- **Point mutation**: Change in single base pair
+- **Frameshift mutation**: Insertion or deletion altering reading frame
+- **DNA repair**: Correction of DNA damage
+- **Exon**: Coding region of gene
+- **Intron**: Non-coding intervening sequence
+- **Operon**: Cluster of prokaryotic genes with related functions
+- **Polymerase chain reaction (PCR)**: Amplification of specific DNA sequences
+- **Restriction enzyme**: Enzyme cutting DNA at specific sequences
+- **Recombinant DNA**: DNA combined from different sources
+
+---
+
+## Further Reading
+
+### Books
+1. Watson, J. D., et al. (2014). *Molecular Biology of the Gene* (7th ed.). Pearson.
+2. Lewin, B., et al. (2018). *Genes XII*. Jones & Bartlett.
+3. Alberts, B., et al. (2022). *Molecular Biology of the Cell* (7th ed.). W. W. Norton.
+
+### Scientific Articles
+1. Watson, J. D., & Crick, F. H. C. (1953). Molecular structure of nucleic acids: A structure for deoxyribose nucleic acid. *Nature*, 171(4356), 737-738.
+2. Meselson, M., & Stahl, F. W. (1958). The replication of DNA in Escherichia coli. *PNAS*, 44(7), 671-682.
+3. Avery, O. T., MacLeod, C. M., & McCarty, M. (1944). Studies on the chemical nature of the substance inducing transformation of pneumococcal types. *Journal of Experimental Medicine*, 79(2), 137-158.
+
+### Online Resources
+1. DNA Learning Center: https://dnalc.cshl.edu
+2. NCBI Molecular Biology Resources: https://www.ncbi.nlm.nih.gov/guide/molecular-biology/
+3. Protein Data Bank: https://www.rcsb.org
+
+---
+
+## Quantitative Problems
+
+1. **DNA Composition**:
+   a) If a DNA molecule contains 18% cytosine, what are the percentages of the other bases?
+   b) If a DNA molecule is 1,000 base pairs long and has 30% adenine, how many hydrogen bonds hold the two strands together?
+   c) Calculate the length (in μm) of this DNA molecule if each base pair extends 0.34 nm.
+
+2. **Mutation Rates**:
+   The human genome is 3.2 × 10⁹ bp. Mutation rate is 1 × 10⁻⁸ per base per generation.
+   a) How many new mutations per genome per generation?
+   b) If 2% of the genome is coding, how many affect protein-coding regions?
+   c) If 90% of these are neutral, how many potentially deleterious mutations occur per generation?
+
+3. **PCR Amplification**:
+   Starting with 1 DNA molecule, after 30 PCR cycles:
+   a) How many copies are theoretically produced?
+   b) If efficiency is 90% per cycle, how many copies are actually produced?
+   c) If each amplicon is 500 bp, what is the total mass of DNA (in ng) if each bp averages 660 Da?
+
+---
+
+## Case Study: BRCA Genes and DNA Repair
+
+**Background**: BRCA1 and BRCA2 genes are involved in DNA repair, particularly homologous recombination.
+
+**Questions**:
+
+1. What types of DNA damage do BRCA proteins help repair?
+2. How do mutations in BRCA genes increase cancer risk?
+3. Why are breast and ovarian tissues particularly susceptible?
+4. How does understanding the molecular function of BRCA genes inform cancer treatment strategies?
+
+**Data for analysis**:
+
+- BRCA1: 1863 amino acids, multiple domains
+- BRCA2: 3418 amino acids, binds RAD51
+- Mutation carriers: 45-65% lifetime breast cancer risk (vs. 12% general)
+- Treatment implications: PARP inhibitors for BRCA-deficient cancers
+
+---
+
+*Next Chapter: [Regulation of Gene Expression](11-regulation.qmd)*

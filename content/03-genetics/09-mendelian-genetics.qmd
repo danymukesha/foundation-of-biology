@@ -1,0 +1,590 @@
+---
+title: "Mendelian Genetics"
+---
+
+## Learning Objectives
+
+By the end of this chapter, you should be able to:
+
+1. State Mendel's principles of inheritance and explain their significance
+2. Solve genetic problems involving monohybrid and dihybrid crosses
+3. Distinguish between dominant and recessive inheritance patterns
+4. Use Punnett squares and probability rules to predict genetic outcomes
+5. Explain deviations from Mendelian inheritance including incomplete dominance, codominance, multiple alleles, and epistasis
+6. Apply pedigree analysis to determine inheritance patterns in human families
+7. Describe chromosome theory of inheritance and its relationship to Mendel's principles
+8. Connect Mendelian genetics to molecular genetics concepts
+
+## Introduction
+
+Mendelian genetics forms the foundation of our understanding of heredity. Gregor Mendel's careful experiments with pea plants in the 1860s revealed fundamental principles of inheritance that remain central to genetics today. This chapter examines Mendel's discoveries, their rediscovery in 1900, and their extensions to more complex inheritance patterns. We will explore how simple mathematical principles govern the transmission of traits from parents to offspring and how these principles apply to humans and other organisms.
+
+---
+
+## Historical Background
+
+### Pre-Mendelian Concepts
+
+**Blending inheritance**: The prevailing theory before Mendel
+
+- **Concept**: Parental traits blend in offspring like paints
+- **Prediction**: Variation decreases each generation
+- **Problem**: Cannot explain reappearance of traits after skipping generations
+
+**Particulate inheritance**: Proposed by Mendel
+
+- **Concept**: Discrete factors (genes) maintain identity across generations
+- **Prediction**: Traits can reappear after skipping generations
+- **Support**: Mendel's experimental results
+
+### Gregor Mendel (1822-1884)
+
+**Background**: Augustinian monk in Brno (now Czech Republic)
+
+**Education**: University of Vienna (physics, mathematics, natural sciences)
+
+**Experimental organism**: Garden pea (Pisum sativum)
+
+**Experimental design**: Careful controls, large sample sizes, quantitative analysis
+
+**Why peas were ideal**:
+
+1. Easy to grow and hybridize
+2. Short generation time
+3. Many distinct varieties with contrasting traits
+4. Self-fertilizing but can be cross-fertilized
+5. Produce many offspring
+
+### Mendel's Experimental Approach
+
+1. **Develop true-breeding lines**: Self-fertilize for multiple generations
+2. **Perform controlled crosses**: Artificial pollination
+3. **Track specific traits**: Focus on seven clear characteristics
+4. **Count offspring**: Large numbers for statistical reliability
+5. **Analyze ratios**: Mathematical patterns in offspring
+
+**Seven traits studied**:
+
+1. Seed shape (round vs. wrinkled)
+2. Seed color (yellow vs. green)
+3. Flower color (purple vs. white)
+4. Pod shape (inflated vs. constricted)
+5. Pod color (green vs. yellow)
+6. Flower position (axial vs. terminal)
+7. Stem length (tall vs. dwarf)
+
+---
+
+## Mendel's Principles
+
+### Principle 1: Unit Factors in Pairs
+
+**Genetic characters are controlled by unit factors (genes) that occur in pairs**
+
+- **Gene**: Unit of inheritance
+- **Alleles**: Alternative forms of a gene
+- **Homozygous**: Two identical alleles (AA or aa)
+- **Heterozygous**: Two different alleles (Aa)
+
+### Principle 2: Dominance/Recessiveness
+
+**When two different alleles are present, one may be expressed while the other has no noticeable effect**
+
+- **Dominant allele**: Expressed in heterozygote (A)
+- **Recessive allele**: Not expressed in heterozygote (a)
+- **Phenotype**: Observable characteristic
+- **Genotype**: Genetic constitution
+
+### Principle 3: Segregation
+
+**During gamete formation, paired factors segregate randomly so each gamete receives one factor from each pair**
+
+- **Gametes**: Haploid reproductive cells (sperm, egg)
+- **Segregation**: Separation of allele pairs during meiosis
+- **Equal probability**: Each gamete has 50% chance of receiving either allele
+
+**Mendel's First Law**: Law of Segregation
+
+### Principle 4: Independent Assortment
+
+**During gamete formation, segregation of one pair of factors is independent of other pairs**
+
+- **Applies to**: Genes on different chromosomes or far apart on same chromosome
+- **Result**: All possible combinations of alleles occur with equal probability
+
+**Mendel's Second Law**: Law of Independent Assortment
+
+---
+
+## Monohybrid Crosses
+
+### Basic Cross Terminology
+
+**P generation**: Parental generation (true-breeding)
+
+**F₁ generation**: First filial generation (offspring of P cross)
+
+**F₂ generation**: Second filial generation (offspring of F₁ self-cross)
+
+### Mendel's Monohybrid Experiments
+
+**Example**: Seed shape (round vs. wrinkled)
+
+- **P generation**: Round (RR) × Wrinkled (rr)
+- **F₁ generation**: All round (Rr)
+- **F₂ generation**: 3 round : 1 wrinkled (1 RR : 2 Rr : 1 rr)
+
+**Mathematical pattern**: (3:1) phenotypic ratio in F₂
+
+### Punnett Square Method
+
+**Developed by**: Reginald Punnett (1905)
+
+**Method**: Grid showing all possible gamete combinations
+
+**Monohybrid cross**: 2×2 square
+
+**Example**: Heterozygote cross (Rr × Rr)
+```
+    R    r
+R   RR   Rr
+r   Rr   rr
+```
+
+**Results**: 1 RR : 2 Rr : 1 rr genotypically, 3 round : 1 wrinkled phenotypically
+
+### Test Cross
+
+**Purpose**: Determine genotype of individual with dominant phenotype
+**Method**: Cross with homozygous recessive (rr)
+**Interpretation**:
+- If all offspring show dominant trait: Parent is homozygous dominant (RR)
+- If 1:1 ratio: Parent is heterozygous (Rr)
+
+---
+
+## Dihybrid Crosses
+
+### Mendel's Dihybrid Experiments
+
+**Example**: Seed shape and color
+
+- **P generation**: Round yellow (RRYY) × wrinkled green (rryy)
+- **F₁ generation**: All round yellow (RrYy)
+- **F₂ generation**: 9 round yellow : 3 round green : 3 wrinkled yellow : 1 wrinkled green
+
+**Mathematical pattern**: (9:3:3:1) phenotypic ratio in F₂
+
+### Independent Assortment
+
+**Gamete formation**: Four equally likely gamete types from double heterozygote
+
+- **RrYy**: RY, Ry, rY, ry (each 25%)
+
+**Punnett square**: 4×4 square for dihybrid cross
+
+### Forked-Line Method
+
+**Alternative to Punnett squares**
+
+**Procedure**: Multiply probabilities along branches
+
+**Example**: RrYy × RrYy
+
+- Probability of R_ (round): 3/4
+- Probability of rr (wrinkled): 1/4
+- Probability of Y_ (yellow): 3/4
+- Probability of yy (green): 1/4
+
+**Round yellow**: (3/4) × (3/4) = 9/16
+
+---
+
+## Probability Rules in Genetics
+
+### Product Rule
+
+**Probability of independent events both occurring**
+
+P(A and B) = P(A) × P(B)
+
+**Example**: Probability of heterozygous offspring from heterozygous parents
+
+P(heterozygous) = P(male R) × P(female r) + P(male r) × P(female R)
+= (1/2 × 1/2) + (1/2 × 1/2) = 1/2
+
+### Sum Rule
+
+**Probability of either of mutually exclusive events occurring**
+
+P(A or B) = P(A) + P(B)
+
+**Example**: Probability of homozygous offspring
+
+P(homozygous) = P(RR) + P(rr) = 1/4 + 1/4 = 1/2
+
+### Binomial Expansion
+
+**Useful for**: Multiple offspring with two possible outcomes
+
+**Formula**: (p + q)ⁿ where p = probability of one outcome, q = probability of other, n = number of trials
+
+**Example**: Probability of exactly 2 affected children in family of 3 for autosomal recessive trait (carrier parents)
+
+p = 1/4 (affected), q = 3/4 (unaffected), n = 3
+
+P(2 affected) = [3!/(2!1!)] × (1/4)² × (3/4)¹ = 3 × (1/16) × (3/4) = 9/64
+
+---
+
+## Extensions of Mendelian Genetics
+
+### Incomplete Dominance
+
+**Definition**: Heterozygote shows intermediate phenotype
+
+**Example**: Snapdragon flower color
+
+- RR: Red flowers
+- Rr: Pink flowers
+- rr: White flowers
+
+**F₂ ratio**: 1:2:1 phenotypic ratio (matches genotypic ratio)
+
+### Codominance
+
+**Definition**: Both alleles expressed fully in heterozygote
+
+**Example**: ABO blood groups (A and B alleles codominant)
+
+- IᴬIᴮ: Type AB blood (both antigens present)
+- Different from incomplete dominance: Both traits visible, not blended
+
+### Multiple Alleles
+
+**Definition**: More than two alleles exist in population
+
+**Example**: ABO blood groups (Iᴬ, Iᴮ, i)
+
+- Iᴬ and Iᴮ: Codominant
+- i: Recessive to both
+- Four phenotypes: A, B, AB, O
+
+### Pleiotropy
+
+**Definition**: One gene affects multiple traits
+
+**Example**: Marfan syndrome (FBN1 gene)
+
+- Effects: Skeletal, ocular, cardiovascular abnormalities
+- Single gene mutation → multiple phenotypic effects
+
+### Epistasis
+
+**Definition**: Interaction between genes where one gene masks expression of another
+
+**Example**: Coat color in Labrador retrievers
+
+- B gene: Black (B) vs. brown (b)
+- E gene: Pigment deposition (E allows, e prevents)
+- ee genotype: Yellow regardless of B genotype
+
+**Modified ratios**: 9:3:3:1 becomes 9:3:4 or other ratios
+
+### Polygenic Inheritance
+
+**Definition**: Multiple genes contribute to continuous trait
+
+**Example**: Human height, skin color
+
+- **Characteristics**: Continuous variation, bell-shaped distribution
+- **Many genes**: Additive effects
+- **Environmental influence**: Significant
+
+### Sex-Linked Inheritance
+
+**Definition**: Genes on sex chromosomes (X or Y)
+
+**X-linked recessive pattern**:
+
+- More common in males (hemizygous)
+- Affected males pass to all daughters (carriers)
+- Carrier females: 50% chance affected sons, 50% chance carrier daughters
+
+**Example**: Color blindness, hemophilia
+
+---
+
+## Chromosome Theory of Inheritance
+
+### Historical Development
+
+**Walter Sutton and Theodor Boveri (1902-1903)**: Chromosome theory
+
+**Thomas Hunt Morgan (1910)**: Experimental evidence using Drosophila
+
+### Key Principles
+
+1. **Genes are located on chromosomes**
+2. **Chromosomes segregate and assort independently during meiosis**
+3. **Specific genes occupy specific loci on chromosomes**
+4. **Chromosomes undergo crossing over, producing recombination**
+
+### Linkage and Recombination
+
+**Linked genes**: Genes on same chromosome tend to be inherited together
+
+**Recombination**: Crossing over produces new combinations of alleles
+
+**Recombination frequency**: Percentage of recombinant offspring
+
+- <50%: Genes are linked
+- 50%: Genes assort independently (unlinked or far apart)
+
+**Genetic map**: Map units (centimorgans) based on recombination frequency
+
+---
+
+## Human Genetics and Pedigree Analysis
+
+### Pedigree Symbols
+
+**Standard symbols**:
+
+- Square: Male
+- Circle: Female
+- Filled: Affected
+- Half-filled: Carrier (for recessive traits)
+- Line through: Deceased
+- Roman numerals: Generations
+- Arabic numerals: Individuals within generation
+
+### Common Inheritance Patterns
+
+**Autosomal dominant**:
+
+- Appears in every generation
+- Both sexes equally affected
+- Affected individuals have at least one affected parent
+- **Example**: Huntington disease
+
+**Autosomal recessive**:
+
+- Can skip generations
+- Both sexes equally affected
+- More common with consanguinity
+- **Example**: Cystic fibrosis
+
+**X-linked recessive**:
+
+- More males affected
+- No male-to-male transmission
+- Carrier females usually unaffected
+- **Example**: Hemophilia, color blindness
+
+**X-linked dominant**:
+
+- Affected males pass to all daughters, no sons
+- Affected females pass to half children regardless of sex
+- **Example**: Hypophosphatemic rickets
+
+**Mitochondrial inheritance**:
+
+- Maternal inheritance only
+- Both sexes affected
+- Variable expression due to heteroplasmy
+- **Example**: Leber's hereditary optic neuropathy
+
+### Genetic Counseling
+
+**Purpose**: Help individuals/families understand genetic risks
+
+**Components**: Pedigree analysis, risk calculation, information provision, support
+
+---
+
+## Modern Applications
+
+### Medical Genetics
+
+**Genetic testing**: Diagnostic, predictive, carrier screening
+
+**Newborn screening**: PKU, sickle cell, others
+
+**Prenatal testing**: Amniocentesis, chorionic villus sampling
+
+### Agricultural Genetics
+
+**Selective breeding**: Based on Mendelian principles
+
+**Marker-assisted selection**: Using genetic markers for desirable traits
+
+### Conservation Genetics
+
+**Genetic diversity assessment**: For endangered species
+**Breeding programs**: Maximize genetic diversity
+
+---
+
+## 9.10 Chapter Summary
+
+### Key Concepts
+
+1. **Mendel's principles**: Unit factors, dominance, segregation, independent assortment
+2. **Genetic crosses**: Monohybrid (3:1), dihybrid (9:3:3:1)
+3. **Probability**: Product rule, sum rule, binomial expansion
+4. **Extensions**: Incomplete/codominance, multiple alleles, epistasis, pleiotropy
+5. **Chromosome theory**: Genes on chromosomes, linkage, recombination
+6. **Human genetics**: Pedigree analysis, inheritance patterns
+7. **Applications**: Medical, agricultural, conservation genetics
+
+### Mendelian Ratios Summary
+
+| Cross Type | Parental Genotypes | F₁ Phenotype | F₂ Phenotypic Ratio | F₂ Genotypic Ratio |
+|------------|-------------------|--------------|---------------------|-------------------|
+| **Monohybrid** | AA × aa | All A | 3:1 | 1:2:1 |
+| **Dihybrid** | AABB × aabb | All AB | 9:3:3:1 | Various |
+| **Test cross** | A_ × aa | - | 1:1 or all A | - |
+| **Incomplete dominance** | RR × rr | All Rr (intermediate) | 1:2:1 | 1:2:1 |
+
+### Human Inheritance Patterns
+
+| Pattern | Affected Males:Females | Transmission | Examples |
+|---------|------------------------|--------------|----------|
+| **Autosomal dominant** | 1:1 | Vertical | Huntington, Marfan |
+| **Autosomal recessive** | 1:1 | Horizontal | CF, sickle cell |
+| **X-linked recessive** | Many:few | Diagonal | Hemophilia, color blindness |
+| **X-linked dominant** | Few:many | Vertical | Hypophosphatemia |
+| **Mitochondrial** | 1:1 | Maternal only | LHON, MELAS |
+
+### Problem-Solving Approach
+
+1. **Identify** inheritance pattern
+2. **Assign** symbols to alleles
+3. **Determine** parental genotypes
+4. **Determine** possible gametes
+5. **Use** Punnett square or probability rules
+6. **Calculate** genotypic and phenotypic ratios
+7. **Check** against expected ratios
+
+---
+
+## Review Questions
+
+### Level 1: Recall and Understanding
+
+1. State Mendel's four principles of inheritance.
+2. What is the difference between genotype and phenotype?
+3. Explain why Mendel used pea plants for his experiments.
+4. What phenotypic ratio is expected in F₂ of a monohybrid cross?
+5. Define: homozygous, heterozygous, allele, locus.
+
+### Level 2: Application and Analysis
+
+6. In peas, tall (T) is dominant to dwarf (t). If a heterozygous tall plant is crossed with a dwarf plant, what percentage of offspring will be tall?
+7. In humans, albinism (lack of pigment) is autosomal recessive. Two normally pigmented parents have an albino child. What is the probability their next child will be albino?
+8. In cats, black coat color is dominant to gray. A black cat whose mother was gray is mated with a gray cat. What proportion of offspring will be black?
+9. For an X-linked recessive trait, if a normal man marries a carrier woman, what is the probability their son will be affected?
+10. In peas, round seeds (R) are dominant to wrinkled (r), and yellow seeds (Y) are dominant to green (y). A plant with round yellow seeds is crossed with a plant with wrinkled green seeds. The offspring are: 51 round yellow, 49 round green, 52 wrinkled yellow, 48 wrinkled green. What were the genotypes of the parents?
+
+### Level 3: Synthesis and Evaluation
+
+11. Why was Mendel's work not appreciated during his lifetime? What factors led to its rediscovery in 1900?
+12. Design a series of experiments to determine whether a new trait in Drosophila is autosomal or sex-linked, dominant or recessive.
+13. How does the chromosome theory of inheritance explain both Mendel's principles and exceptions to them?
+14. Evaluate the statement: "Mendelian genetics is too simplistic to explain most human traits."
+
+---
+
+## Key Terms
+
+- **Gene**: Unit of heredity; segment of DNA encoding functional product
+- **Allele**: Alternative form of a gene
+- **Genotype**: Genetic constitution of an organism
+- **Phenotype**: Observable characteristics of an organism
+- **Homozygous**: Having identical alleles at a locus
+- **Heterozygous**: Having different alleles at a locus
+- **Dominant**: Allele expressed in heterozygote
+- **Recessive**: Allele not expressed in heterozygote
+- **Punnett square**: Diagram showing possible offspring genotypes
+- **Monohybrid cross**: Cross involving one trait
+- **Dihybrid cross**: Cross involving two traits
+- **Test cross**: Cross with homozygous recessive to determine genotype
+- **Incomplete dominance**: Heterozygote shows intermediate phenotype
+- **Codominance**: Both alleles expressed in heterozygote
+- **Multiple alleles**: More than two alleles exist in population
+- **Epistasis**: Interaction where one gene masks another
+- **Pleiotropy**: One gene affects multiple traits
+- **Pedigree**: Family tree showing inheritance of traits
+- **Linkage**: Genes on same chromosome inherited together
+- **Recombination**: New combinations of alleles from crossing over
+
+---
+
+## Further Reading
+
+### Books
+1. Griffiths, A. J. F., et al. (2015). *Introduction to Genetic Analysis* (11th ed.). W. H. Freeman.
+2. Hartl, D. L., & Jones, E. W. (2009). *Genetics: Analysis of Genes and Genomes* (7th ed.). Jones & Bartlett.
+3. Mendel, G. (1866). *Experiments on Plant Hybridization*. (Original paper translated in various sources)
+
+### Scientific Articles
+1. Corcos, A. F., & Monaghan, F. V. (1985). Mendel's work and its rediscovery: A new perspective. *Critical Reviews in Plant Sciences*, 3(4), 345-366.
+2. Stern, C., & Sherwood, E. R. (Eds.). (1966). *The Origin of Genetics: A Mendel Source Book*. W. H. Freeman.
+3. Dunn, L. C. (1965). *A Short History of Genetics*. McGraw-Hill.
+
+### Online Resources
+
+1. MendelWeb: http://www.mendelweb.org
+2. Online Mendelian Inheritance in Man (OMIM): https://www.omim.org
+3. Genetics Home Reference: https://ghr.nlm.nih.gov
+
+---
+
+## Quantitative Problems
+
+1. **Probability Calculations**:
+   a) For an autosomal recessive disorder where both parents are carriers, what is the probability that in a family of 4 children, exactly 2 are affected?
+   b) What is the probability that at least 1 is affected?
+   c) If the first child is affected, what is the probability the next 3 are unaffected?
+
+2. **Dihybrid Cross Analysis**:
+   In tomatoes, red fruit (R) is dominant to yellow (r), and tall plants (T) are dominant to dwarf (t). A plant heterozygous for both traits is self-fertilized.
+   a) What proportion of offspring will be tall with red fruit?
+   b) What proportion will be dwarf with yellow fruit?
+   c) If 160 seeds are planted, how many would you expect to be tall with yellow fruit?
+
+3. **Pedigree Analysis**:
+   Analyze the following pedigree for a rare genetic disorder:
+   ```
+   Generation I: Normal male × Carrier female → 2 normal sons, 1 affected daughter
+   Generation II: Affected female × Normal male → 1 affected son, 2 carrier daughters
+   ```
+   a) What is the most likely mode of inheritance?
+   b) What is the probability that a carrier daughter from Generation II will have an affected child if she marries a normal man?
+   c) What would be different if the trait were autosomal dominant?
+
+---
+
+## Case Study: Sickle Cell Disease
+
+**Background**: Sickle cell disease results from a mutation in the β-globin gene (HBB).
+
+**Questions**:
+
+1. What is the molecular basis of sickle cell disease?
+2. Why is the sickle cell allele maintained at relatively high frequency in some populations?
+3. How does sickle cell illustrate both Mendelian inheritance and natural selection?
+4. If both parents are carriers, what are the chances their child will have sickle cell disease? Be a carrier? Be unaffected?
+
+**Data for analysis**:
+
+- Mutation: GAG → GTG at codon 6 (Glu → Val)
+- Inheritance: Autosomal recessive
+- Heterozygote advantage: Resistance to malaria
+- Population genetics: Up to 40% carriers in some regions of Africa
+- Clinical features: Anemia, pain crises, organ damage
+
+---
+
+*Next Chapter: [Molecular Genetics](10-molecular-genetics.qmd)*

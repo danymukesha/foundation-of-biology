@@ -32,14 +32,15 @@ book:
         - content/02-cellular/06-metabolism.qmd
         - content/02-cellular/07-central-dogma.qmd
         - content/02-cellular/08-cell-communication.qmd 
-    # 
-    # - part: "III: Genetics & Molecular Biology"
-    #   chapters:
-    #     - content/03-genetics/09-mendelian-genetics.qmd
-    #     - content/03-genetics/10-molecular-genetics.qmd
-    #     - content/03-genetics/11-regulation.qmd
-    #     - content/03-genetics/12-genomics.qmd
-    # 
+
+    - part: "III: Genetics & Molecular Biology"
+      chapters:
+        - content/03-genetics/index.qmd 
+        - content/03-genetics/09-mendelian-genetics.qmd 
+        - content/03-genetics/10-molecular-genetics.qmd 
+        - content/03-genetics/11-regulation.qmd
+        - content/03-genetics/12-genomics.qmd
+
     # - part: "IV: Evolution & Diversity"
     #   chapters:
     #     - content/04-evolution/13-natural-selection.qmd
