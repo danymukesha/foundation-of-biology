@@ -1,0 +1,601 @@
+---
+title: "Natural Selection and Population Genetics"
+---
+
+## Learning Objectives
+
+By the end of this chapter, you should be able to:
+
+1. Define evolution in genetic terms and explain the conditions required for evolution to occur
+2. Describe the five mechanisms of evolutionary change and their effects on genetic variation
+3. Apply the Hardy-Weinberg principle to calculate allele and genotype frequencies
+4. Explain how natural selection operates and distinguish between different modes of selection
+5. Analyze how mutation, gene flow, genetic drift, and non-random mating affect populations
+6. Describe how evolutionary forces interact to shape genetic variation
+7. Apply population genetics principles to real-world examples including antibiotic resistance and conservation
+8. Evaluate evidence for evolution from population genetics studies
+
+## Introduction
+
+Evolution is often described as "change over time," but in biological terms, it is more precisely defined as change in allele frequencies in populations across generations. This chapter explores the mechanisms that drive these changes, focusing particularly on natural selection—the process that Charles Darwin identified as the primary driver of adaptation. We will examine how population genetics provides the mathematical framework for understanding evolution, allowing us to quantify and predict evolutionary change. Understanding these principles is essential for everything from combating antibiotic resistance to conserving endangered species.
+
+---
+
+## Defining Evolution
+
+### Historical Perspectives
+
+**Pre-Darwinian views**:
+
+- **Fixity of species**: Species unchanged since creation
+- **Scala Naturae**: Great Chain of Being, static hierarchy
+- **Catastrophism**: Periodic extinctions and creations
+
+**Charles Darwin (1809-1882)**:
+
+- **Voyage of HMS Beagle**: 1831-1836
+- **Key observations**: Galápagos finches, South American fossils, biogeographic patterns
+- **Publication**: *On the Origin of Species* (1859)
+
+**Alfred Russel Wallace (1823-1913)**:
+
+- Independent development of natural selection theory
+- Joint presentation with Darwin (1858)
+
+### Modern Synthesis (1930s-1940s)
+
+**Integration of**:
+
+- Darwin's natural selection
+- Mendel's genetics
+- Population genetics (Fisher, Haldane, Wright)
+- Systematics, paleontology, embryology
+
+**Key principles**:
+
+1. Evolution occurs through changes in allele frequencies
+2. Natural selection is primary mechanism of adaptation
+3. Evolution is gradual
+4. Macroevolution results from microevolution over long timescales
+
+### Genetic Definition of Evolution
+
+- **Evolution**: Change in allele frequencies in a population over generations
+- **Population**: Group of interbreeding individuals of same species in same area
+- **Gene pool**: All alleles of all genes in a population
+
+**Mathematically**: Evolution occurs when p or q ≠ 0 in Hardy-Weinberg equation
+
+---
+
+## Hardy-Weinberg Principle
+
+### Historical Context
+
+**Developed independently by**: Godfrey Hardy (mathematician) and Wilhelm Weinberg (physician) in 1908
+
+**Purpose**: Show that Mendelian inheritance doesn't change allele frequencies
+
+### Hardy-Weinberg Equilibrium
+
+**Conditions** (no evolution occurring):
+
+1. No mutations
+2. Random mating
+3. No natural selection
+4. Extremely large population size
+5. No gene flow (migration)
+
+**Equations**:
+
+For two alleles (A and a) with frequencies p and q:
+
+- p + q = 1
+- p² + 2pq + q² = 1
+  - p² = frequency of AA
+  - 2pq = frequency of Aa
+  - q² = frequency of aa
+
+### Applications
+
+1. **Testing for evolution**: Compare observed vs. expected genotype frequencies
+2. **Estimating allele frequencies**: Especially for recessive alleles
+3. **Predicting carrier frequencies**: For genetic counseling
+
+**Example**: Cystic fibrosis (autosomal recessive)
+
+- Incidence: 1 in 2500 births (q² = 0.0004)
+- q = √0.0004 = 0.02
+- p = 1 - 0.02 = 0.98
+- Carrier frequency (2pq) = 2 × 0.98 × 0.02 = 0.0392 (∼1 in 25)
+
+### Extensions
+
+**Multiple alleles**: (p + q + r)² = 1
+
+**X-linked genes**: Different calculations for males (hemizygous) and females
+
+---
+
+## Mechanisms of Evolutionary Change
+
+### 1. Mutation
+
+**Definition**: Change in DNA sequence
+
+**Role in evolution**:
+
+- Ultimate source of all genetic variation
+- Generally rare (10⁻⁵ to 10⁻⁹ per gene per generation)
+- Most mutations neutral or deleterious, rarely beneficial
+
+**Effects on allele frequencies**: Very slow change unless combined with selection
+
+**Types relevant to evolution**:
+
+- **Point mutations**: Single base changes
+- **Chromosomal mutations**: Duplications, inversions, translocations
+- **Gene duplications**: Source of new genes
+
+### 2. Gene Flow (Migration)
+
+**Definition**: Movement of alleles between populations
+
+**Effects**:
+
+- Reduces differences between populations
+- Introduces new alleles
+- Can increase or decrease fitness
+
+**Examples**:
+
+- Pollen dispersal in plants
+- Animal migration
+- Human population movements
+
+**Mathematical treatment**: Migration-selection balance
+
+### 3. Genetic Drift
+
+**Definition**: Change in allele frequencies due to chance
+
+**Effects**:
+
+- Stronger in small populations
+- Can lead to loss of alleles
+- Reduces genetic variation
+- Can cause fixation of alleles (p=1 or q=1)
+
+**Mechanisms**:
+
+- **Founder effect**: New population established by few individuals
+- **Population bottleneck**: Drastic reduction in population size
+
+**Examples**:
+
+- **Ellis-van Creveld syndrome**: High frequency in Amish due to founder effect
+- **Cheetahs**: Low genetic diversity due to historical bottlenecks
+
+### 4. Non-random Mating
+
+**Types**:
+
+- **Assortative mating**: Similar individuals mate (increases homozygosity)
+- **Disassortative mating**: Dissimilar individuals mate (increases heterozygosity)
+- **Inbreeding**: Mating between relatives (increases homozygosity)
+
+**Effects**: Changes genotype frequencies but not allele frequencies (alone)
+
+**Inbreeding depression**: Reduced fitness due to increased homozygosity of deleterious alleles
+
+### 5. Natural Selection
+
+**Definition**: Differential survival and reproduction of individuals with different phenotypes
+
+**Requirements**:
+
+1. Variation in traits
+2. Heritability of traits
+3. Differential fitness associated with traits
+
+**Fitness (w)**: Relative contribution to next generation
+
+**Selection coefficient (s)**: 1 - w (strength of selection)
+
+---
+
+## Natural Selection in Detail
+
+### Darwin's Observations and Inferences
+
+**Observations**:
+
+1. Overproduction: More offspring produced than can survive
+2. Variation: Individuals vary in characteristics
+3. Heritability: Traits passed to offspring
+
+**Inferences**:
+
+1. Struggle for existence
+2. Differential survival/reproduction (natural selection)
+3. Accumulation of favorable traits over generations
+
+### Modes of Selection
+
+**Directional selection**: Favors one extreme phenotype
+
+- **Example**: Peppered moth (industrial melanism)
+- **Effect**: Shifts mean, reduces variation
+
+**Stabilizing selection**: Favors intermediate phenotypes
+
+- **Example**: Human birth weight
+- **Effect**: Reduces variation, maintains mean
+
+**Disruptive selection**: Favors both extremes
+
+- **Example**: African finch beak size (small for soft seeds, large for hard seeds)
+- **Effect**: Increases variation, can lead to speciation
+
+**Frequency-dependent selection**: Fitness depends on frequency
+
+- **Negative**: Rare advantage (e.g., predator search images)
+- **Positive**: Common advantage (e.g., mimicry)
+
+**Sexual selection**: Selection for mating success
+
+- **Intrasexual**: Competition within sex (usually males)
+- **Intersexual**: Mate choice (usually female choice)
+
+### Measuring Selection
+
+**Relative fitness**: Compared to most fit genotype (w = 1)
+
+**Selection coefficients**: s = 1 - w
+
+**Response to selection**: R = h² × S
+
+- R: Response (change in mean)
+- h²: Heritability
+- S: Selection differential
+
+**Quantitative genetics**: For polygenic traits
+
+### Levels of Selection
+
+**Individual selection**: Most common
+
+**Group selection**: Controversial, requires special conditions
+
+**Kin selection**: Indirect fitness through relatives (inclusive fitness)
+
+- **Hamilton's rule**: rB > C
+  - r: Relatedness
+  - B: Benefit to recipient
+  - C: Cost to actor
+
+---
+
+## Population Genetics Mathematics
+
+### Selection Models
+
+**Directional selection against recessive**:
+
+- Change in q: Δq = -spq²/(1 - sq²)
+- Slow when q is small (recessive alleles "hidden" in heterozygotes)
+
+**Heterozygote advantage**:
+
+- **Equilibrium**: ^p = t/(s + t), ^q = s/(s + t)
+- **Example**: Sickle cell anemia and malaria resistance
+  - AA: Susceptible to malaria
+  - Aa: Resistant to malaria, mild sickle cell
+  - aa: Sickle cell anemia
+
+**Mutation-selection balance**:
+
+- For deleterious recessive: ^q = √(μ/s)
+- μ: Mutation rate, s: Selection coefficient
+
+### Genetic Drift Mathematics
+
+**Effective population size (Nₑ)**: Number of individuals contributing to next generation
+
+- Usually < census size
+- Affected by sex ratio, variation in family size
+
+**Rate of loss of heterozygosity**: 1/(2N) per generation
+
+**Fixation probability**: 1/(2N) for neutral alleles
+
+**Time to fixation**: ~4N generations for neutral alleles
+
+### Gene Flow Mathematics
+
+**Island model**: m = migration rate
+
+**Change in allele frequency**: Δp = m(pₘ - p)
+
+- pₘ: Frequency in migrants
+- p: Frequency in residents
+
+**Migration-selection balance**: When migration brings deleterious alleles
+
+---
+
+## Maintaining Genetic Variation
+
+### Paradox: Why isn't all variation eliminated by selection?
+
+**Mechanisms maintaining variation**:
+
+1. **Mutation-selection balance**: New mutations arise
+2. **Heterozygote advantage**: Balanced polymorphism
+3. **Frequency-dependent selection**: Rare advantage
+4. **Spatial/temporal variation**: Different selection in different places/times
+5. **Neutral variation**: Not under selection
+
+**Neutral theory** (Motoo Kimura, 1968):
+
+- Most molecular variation is neutral
+- Drift dominates at molecular level
+- Molecular clock: Roughly constant rate of neutral evolution
+
+**Nearly neutral theory**: Slightly deleterious mutations affected by drift in small populations
+
+### Measuring Genetic Variation
+
+**Within populations**:
+
+- **Heterozygosity**: Proportion of heterozygous individuals
+- **Nucleotide diversity (π)**: Average pairwise differences
+
+**Between populations**:
+
+- **Fₛₜ**: Proportion of total variation between populations
+- **Range**: 0 (no differentiation) to 1 (fixed differences)
+
+**Molecular markers**: Allozymes, RFLPs, microsatellites, SNPs
+
+---
+
+## Evolution in Action
+
+### Case Studies
+
+**Industrial melanism** (Biston betularia):
+
+- **Before industrialization**: Light form common (cryptic on lichen)
+- **After industrialization**: Dark form common (cryptic on soot)
+- **Selection pressure**: Bird predation
+- **Reversal**: After clean air acts, light form increased
+
+**Antibiotic resistance**:
+
+- **Mechanisms**: Mutation, horizontal gene transfer
+- **Selection**: Antibiotic use
+- **Examples**: MRSA, multidrug-resistant TB
+- **Solutions**: Combination therapy, reduced unnecessary use
+
+**HIV evolution**:
+
+- **High mutation rate**: Reverse transcriptase error-prone
+- **Rapid evolution**: Within host and between hosts
+- **Treatment challenges**: Drug resistance evolves quickly
+
+**Darwin's finches** (Geospiza spp.):
+
+- **Adaptive radiation**: 13 species from common ancestor
+- **Beak morphology**: Adapted to different foods
+- **Documented evolution**: During droughts (Grant and Grant studies)
+
+### Experimental Evolution
+
+**E. coli long-term evolution experiment** (Richard Lenski):
+
+- Since 1988, >70,000 generations
+- **Findings**: Historical contingency, parallel evolution, new functions
+- **Citrate utilization**: Evolved after 31,500 generations
+
+**Artificial selection**:
+
+- **Domestication**: Dogs from wolves, crops from wild plants
+- **Laboratory experiments**: Drosophila, bacteria, yeast
+
+---
+
+## Applications
+
+### Conservation Genetics
+
+**Problems in small populations**:
+
+- Inbreeding depression
+- Loss of genetic variation
+- Reduced adaptive potential
+
+**Solutions**:
+
+- Maintain large populations
+- Genetic rescue (introducing new individuals)
+- Captive breeding programs with careful management
+
+### Medicine
+
+**Evolutionary medicine**:
+
+- Why we get sick: Mismatch with modern environment
+- Antibiotic resistance
+- Cancer evolution: Tumor as evolving population
+
+**Pharmacogenomics**: Genetic variation in drug response
+
+### Agriculture
+
+- **Pest resistance**: Insects evolve resistance to pesticides
+- **Strategies**: Rotation, refuge crops, combination treatments
+
+**Crop improvement**: Using wild relatives for disease resistance
+
+---
+
+## Chapter Summary
+
+### Key Concepts
+
+1. **Evolution**: Change in allele frequencies in populations over generations
+2. **Hardy-Weinberg equilibrium**: Mathematical null model for no evolution
+3. **Five mechanisms**: Mutation, gene flow, genetic drift, non-random mating, natural selection
+4. **Natural selection**: Differential survival/reproduction based on heritable traits
+5. **Modes of selection**: Directional, stabilizing, disruptive, frequency-dependent
+6. **Genetic drift**: Chance changes, important in small populations
+7. **Maintaining variation**: Multiple mechanisms prevent elimination of all variation
+8. **Applications**: Conservation, medicine, agriculture
+
+### Mechanisms Comparison
+
+| Mechanism | Changes Allele Frequencies? | Changes Genotype Frequencies? | Effect on Variation |
+|-----------|----------------------------|------------------------------|-------------------|
+| **Mutation** | Yes (slowly) | Yes | Increases |
+| **Gene flow** | Yes | Yes | Can increase or decrease |
+| **Genetic drift** | Yes | Yes | Decreases |
+| **Non-random mating** | No | Yes | Can increase or decrease homozygosity |
+| **Natural selection** | Yes | Yes | Generally decreases |
+
+### Selection Equations Summary
+
+| Type | Equilibrium | Example |
+|------|-------------|---------|
+| **Directional (against recessive)** | q → 0 (slowly) | Many genetic diseases |
+| **Heterozygote advantage** | ^q = s₁/(s₁ + s₂) | Sickle cell anemia |
+| **Mutation-selection balance** | ^q = √(μ/s) | Recessive disorders |
+| **Migration-selection balance** | ^q = m/s | Local adaptation with gene flow |
+
+### Population Genetics Parameters
+
+**N**: Population size  
+**Nₑ**: Effective population size  
+**p, q**: Allele frequencies  
+**H**: Heterozygosity  
+**Fₛₜ**: Population differentiation  
+**s**: Selection coefficient  
+**μ**: Mutation rate  
+**m**: Migration rate  
+
+---
+
+## Review Questions
+
+### Level 1: Recall and Understanding
+
+1. Define evolution in genetic terms.
+2. What are the five conditions for Hardy-Weinberg equilibrium?
+3. List and briefly describe the five mechanisms of evolutionary change.
+4. What are the three modes of natural selection, and how do they affect phenotypic variation?
+5. Why is genetic drift more significant in small populations?
+
+### Level 2: Application and Analysis
+
+6. In a population of 1000 individuals, 360 have genotype AA, 480 have Aa, and 160 have aa. Calculate allele frequencies and determine if the population is in HWE.
+7. Sickle cell anemia affects 1 in 400 African Americans. Using Hardy-Weinberg, calculate the expected carrier frequency.
+8. Explain why a recessive lethal allele isn't immediately eliminated from a population.
+9. Compare the effects of founder effect and population bottleneck on genetic diversity.
+10. If selection removes 90% of recessive homozygotes each generation (s=0.9), and mutation rate to the recessive allele is 10⁻⁵, what is the equilibrium frequency?
+
+### Level 3: Synthesis and Evaluation
+
+11. Why is the Hardy-Weinberg principle considered a null model in evolution?
+12. Evaluate the statement: "Natural selection acts for the good of the species."
+13. How does an understanding of population genetics inform conservation strategies for endangered species?
+14. Design an experiment to demonstrate natural selection in a natural population.
+
+---
+
+## Key Terms
+
+- **Evolution**: Change in allele frequencies in a population over generations
+- **Population**: Group of interbreeding individuals of the same species in a given area
+- **Gene pool**: All alleles of all genes in a population
+- **Hardy-Weinberg equilibrium**: State where allele frequencies remain constant from generation to generation
+- **Natural selection**: Differential survival and reproduction of individuals with different phenotypes
+- **Genetic drift**: Change in allele frequencies due to chance
+- **Gene flow**: Movement of alleles between populations through migration
+- **Mutation**: Change in DNA sequence
+- **Fitness**: Relative contribution of an individual to the next generation
+- **Selection coefficient (s)**: Measure of the strength of selection (1 - fitness)
+- **Founder effect**: Genetic drift that occurs when a new population is established by a small number of individuals
+- **Bottleneck effect**: Genetic drift that occurs when a population is drastically reduced in size
+- **Heterozygote advantage**: When heterozygotes have higher fitness than either homozygote
+- **Frequency-dependent selection**: When fitness depends on the frequency of the phenotype
+- **Sexual selection**: Selection for traits that increase mating success
+
+---
+
+## Further Reading
+
+### Books
+1. Futuyma, D. J., & Kirkpatrick, M. (2017). *Evolution* (4th ed.). Sinauer Associates.
+2. Hartl, D. L., & Clark, A. G. (2007). *Principles of Population Genetics* (4th ed.). Sinauer Associates.
+3. Darwin, C. (1859). *On the Origin of Species*. (Various modern editions)
+
+### Scientific Articles
+1. Hardy, G. H. (1908). Mendelian proportions in a mixed population. *Science*, 28(706), 49-50.
+2. Kimura, M. (1968). Evolutionary rate at the molecular level. *Nature*, 217(5129), 624-626.
+3. Grant, P. R., & Grant, B. R. (2002). Unpredictable evolution in a 30-year study of Darwin's finches. *Science*, 296(5568), 707-711.
+
+### Online Resources
+1. Evolution 101: https://evolution.berkeley.edu/evolibrary/article/evo_01
+2. Population Genetics Simulation: https://www.radford.edu/~rsheehy/Gen_flash/popgen/
+3. HHMI BioInteractive Evolution Resources: https://www.biointeractive.org/classroom-resources?search=evolution
+
+---
+
+## Quantitative Problems
+
+1. **Hardy-Weinberg Calculations**:
+   In a population of 10,000 people, 250 have a recessive genetic disorder.
+   a) What is the frequency of the recessive allele?
+   b) What is the frequency of the dominant allele?
+   c) How many people are carriers?
+   d) If all affected individuals die before reproducing, what will the new allele frequencies be in the next generation?
+
+2. **Selection Calculations**:
+   For a gene with two alleles (A and a), initial frequencies: p=0.7, q=0.3.
+   Fitnesses: w(AA)=1.0, w(Aa)=0.9, w(aa)=0.8.
+   a) Calculate mean fitness of the population.
+   b) Calculate the new allele frequencies after one generation of selection.
+   c) What mode of selection is this?
+
+3. **Drift and Effective Population Size**:
+   A population has 100 males and 400 females.
+   a) What is the effective population size (Nₑ)?
+   b) If the population goes through a bottleneck of 10 individuals for one generation, what is the loss of heterozygosity?
+   c) How long would it take for a neutral allele to fix by drift in this population?
+
+---
+
+## Case Study: Sickle Cell Anemia and Malaria
+
+**Background**: Sickle cell anemia is caused by a mutation in the β-globin gene, but heterozygotes have resistance to malaria.
+
+**Questions**:
+
+1. Calculate the equilibrium frequency of the sickle cell allele in a population where:
+   - Fitness of AA (normal): 0.9 (due to malaria)
+   - Fitness of Aa (sickle cell trait): 1.0
+   - Fitness of aa (sickle cell anemia): 0.2
+2. Why does the sickle cell allele persist at high frequency in some populations but not others?
+3. What would happen to the frequency of the sickle cell allele if malaria were eradicated?
+4. How does this example illustrate the concept of heterozygote advantage?
+
+**Data for analysis**:
+
+- Malaria mortality: High in tropical regions
+- Sickle cell frequency: Up to 40% in some African populations
+- Heterozygote advantage: Estimated 15% relative fitness advantage in malarial regions
+- Distribution: Correlates with historical malaria distribution
+
+---
+
+*Next Chapter: [Speciation and Macroevolution](14-speciation.qmd)*

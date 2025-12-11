@@ -1,0 +1,592 @@
+---
+title: "Phylogenetics and the Tree of Life"
+---
+
+## Learning Objectives
+
+By the end of this chapter, you should be able to:
+
+1. Interpret phylogenetic trees and understand their components and terminology
+2. Describe different types of data used to construct phylogenetic trees
+3. Explain the principles and methods of phylogenetic inference
+4. Compare different tree-building methods and their assumptions
+5. Use phylogenetic trees to test evolutionary hypotheses
+6. Describe major patterns in the tree of life
+7. Apply phylogenetic thinking to problems in medicine, conservation, and biotechnology
+8. Critically evaluate phylogenetic studies and their limitations
+
+## Introduction
+
+Phylogenetics is the study of evolutionary relationships among organisms. By reconstructing the branching patterns of evolution, we can understand how different species are related, trace the history of traits, and make predictions about unknown characteristics. This chapter explores how biologists build and use phylogenetic trees—the family trees of life. Understanding phylogenetics is essential for making sense of biological diversity, studying evolutionary processes, and applying evolutionary knowledge to practical problems from disease tracking to conservation planning.
+
+---
+
+## Introduction to Phylogenetics
+
+### What is a Phylogeny?
+
+- **Phylogeny**: Evolutionary history of a group of organisms
+- **Phylogenetic tree**: Diagram representing evolutionary relationships
+- **Cladogram**: Tree showing branching order but not evolutionary rates
+- **Phylogram**: Tree with branch lengths proportional to evolutionary change
+- **Chronogram**: Tree with branch lengths proportional to time
+
+### Historical Background
+
+- **Pre-Darwin**: Natural systems of classification (Linnaeus)
+- **Post-Darwin**: Evolutionary classification (Haeckel's trees) 
+- **Modern era**: Computational methods, molecular data
+
+### Why Study Phylogenetics?
+
+1. **Understand evolutionary relationships**
+2. **Classify organisms** (systematics)
+3. **Study evolutionary processes**
+4. **Trace origin and spread of diseases**
+5. **Conservation priorities**
+6. **Discover new drugs** (bioprospecting)
+7. **Study coevolution**
+
+---
+
+## Tree Terminology and Interpretation
+
+### Tree Components
+
+**Nodes**: Branch points
+
+- **Internal nodes**: Common ancestors
+- **Terminal nodes (tips)**: Extant taxa
+
+**Branches**: Lineages between nodes
+
+**Root**: Common ancestor of all taxa in tree
+
+**Clade (monophyletic group)**: Ancestor and all descendants
+
+**Outgroup**: Taxon outside group of interest (rooting reference)
+
+### Reading Trees
+
+**Key points**:
+
+1. **Tips can be rotated** around nodes without changing relationships
+2. **Only branching order matters**, not left-right order
+3. **Trees show relative relationships**, not absolute time (unless scaled)
+4. **Extinct taxa** can be included as tips or internal nodes
+
+**Common misconceptions**:
+
+- "Lower" vs. "higher" organisms
+- Linear progression
+- "Primitive" vs. "advanced"
+
+### Types of Groups
+
+**Monophyletic (clade)**: Common ancestor + all descendants
+
+**Paraphyletic**: Common ancestor + some descendants
+
+**Polyphyletic**: Members from different ancestors
+
+**Examples**:
+
+- **Monophyletic**: Mammals, birds
+- **Paraphyletic**: Reptiles (without birds), fish
+- **Polyphyletic**: "Warm-blooded animals" (birds + mammals)
+
+---
+
+## Character Data for Phylogenetics
+
+### Morphological Characters
+
+**Traditional approach**: Before molecular methods
+
+**Advantages**:
+
+- Can study fossils
+- Functional information
+- Often cheaper
+
+**Disadvantages**:
+
+- Subjectivity
+- Homoplasy (convergent evolution)
+- Limited number of characters
+
+**Scoring**: Discrete (presence/absence) or continuous
+
+### Molecular Characters
+
+**Revolutionized phylogenetics** since 1960s
+
+**DNA sequences**:
+
+- **Nuclear**: Single-copy genes, multi-copy genes
+- **Organellar**: Mitochondrial, chloroplast
+- **Ribosomal RNA**: Highly conserved, useful for deep divergences
+
+**Protein sequences**: Amino acid alignments
+
+**Molecular markers**: RFLPs, microsatellites, SNPs
+
+**Choice of gene** depends on:
+
+- **Evolutionary rate**: Fast for recent divergences, slow for deep
+- **Function**: Housekeeping vs. specialized
+- **Size**: Enough informative sites
+
+### Character Evolution
+
+**Homology**: Similarity due to common ancestry
+
+- **Orthology**: Genes diverged after speciation
+- **Paralogy**: Genes diverged after duplication
+
+**Homoplasy**: Similarity not due to common ancestry
+
+- **Convergence**: Independent evolution of similar traits
+- **Reversal**: Return to ancestral state
+
+**Synapomorphy**: Shared derived character (evidence for clade)
+
+**Symplesiomorphy**: Shared ancestral character (not informative for grouping)
+
+---
+
+## Tree-Building Methods
+
+### Distance Methods
+
+**Principle**: Convert sequence data to distance matrix, build tree
+
+**Neighbor-Joining (NJ)**:
+
+- Fast, works well with many taxa
+- Produces unrooted tree
+- Example: Used in early molecular phylogenetics
+
+**UPGMA (Unweighted Pair Group Method with Arithmetic Mean)**:
+
+- Assumes constant evolutionary rate (molecular clock)
+- Produces rooted tree
+- Less used now due to clock assumption
+
+### Character-Based Methods
+
+**Maximum Parsimony (MP)**:
+
+- **Principle**: Minimize number of evolutionary changes
+- **Advantages**: Intuitive, no model assumptions
+- **Disadvantages**: Long-branch attraction problem
+- **Searches**: Exhaustive, branch-and-bound, heuristic
+
+**Maximum Likelihood (ML)**:
+
+- **Principle**: Find tree that maximizes probability of observed data given evolutionary model
+- **Advantages**: Statistical framework, model-based
+- **Disadvantages**: Computationally intensive
+- **Models**: Jukes-Cantor, Kimura 2-parameter, more complex
+
+**Bayesian Inference**:
+
+- **Principle**: Find tree with highest posterior probability
+- **Advantages**: Provides confidence measures (posterior probabilities)
+- **Disadvantages**: Computationally intensive, priors influence results
+- **Software**: MrBayes, BEAST
+
+### Choosing a Method
+
+**Consider**:
+
+- **Data type**: Morphological vs. molecular
+- **Number of taxa**: Some methods scale poorly
+- **Evolutionary model**: Violations affect some methods more
+- **Computational resources**
+- **Goals of study**
+
+**Best practice**: Use multiple methods, compare results
+
+---
+
+## \Assessing Phylogenetic Trees
+
+### Support Measures
+
+**Bootstrap** (Felsenstein, 1985):
+
+- **Method**: Resample data with replacement, build many trees
+- **Interpretation**: % of trees containing clade
+- **Thresholds**: >70% moderate, >95% strong support
+
+**Jackknife**: Similar but resamples without replacement
+
+**Posterior probability** (Bayesian): Probability clade is true
+
+**Decay index** (Bremer support): How many steps until clade collapses
+
+### Tree Comparisons
+
+**Robustness**: Similar results from different methods/data
+
+**Congruence**: Agreement between different genes/traits
+
+**Conflict**: May indicate different evolutionary histories (e.g., hybridization, horizontal gene transfer)
+
+### Sources of Error
+
+**Long-branch attraction**: Fast-evolving lineages grouped artificially
+
+**Inadequate sampling**: Missing taxa, characters
+
+**Model misspecification**: Wrong evolutionary model
+
+**Homoplasy**: Convergent evolution misleads
+
+---
+
+## Molecular Clock and Dating
+
+### Concept
+
+**Molecular clock hypothesis**: Rate of molecular evolution relatively constant over time
+
+**First proposed**: Zuckerkandl and Pauling (1962)
+
+**Evidence**: Roughly linear relationship between genetic divergence and time
+
+### Calibration
+
+**Using fossils**: Date of divergence from fossil record
+
+- **Challenges**: Fossil may not be earliest, dating uncertainty
+- **Best practices**: Multiple calibrations, account for uncertainty
+
+**Geological events**: Vicariance events (e.g., Isthmus of Panama)
+
+**Known historical events**: Human migrations, domestication events
+
+### Relaxed Molecular Clocks
+
+**Allow rate variation** among lineages
+
+**Bayesian methods**: Incorporate rate variation in model
+
+**Divergence time estimation**: BEAST, MCMCTree
+
+### Applications
+
+**Dating evolutionary events**: Origin of groups, biogeographic patterns
+
+**Evolutionary rates**: Compare rates among lineages, genes
+
+**Ancestral sequence reconstruction**
+
+---
+
+## Applications of Phylogenetics
+
+### Classification and Systematics
+
+**Phylogenetic classification**: Groups should be monophyletic
+
+**Linnaean system vs. phylogenetic**: Rankless vs. ranked classifications
+
+**PhyloCode**: Proposed alternative emphasizing clades
+
+### Comparative Biology
+
+**Independent contrasts**: Account for phylogenetic non-independence
+
+**Ancestral state reconstruction**: Infer traits of ancestors
+
+**Correlated evolution**: Test if traits evolve together
+
+### Medicine and Public Health
+
+**Pathogen phylogenetics**:
+
+- **Outbreak tracing**: HIV, SARS-CoV-2, influenza
+- **Drug resistance**: Evolution of resistance genes
+- **Vaccine design**: Antigenic evolution
+
+**Evolutionary medicine**: Phylogenetic perspective on disease
+
+### Conservation Biology
+
+**Evolutionary distinctiveness**: Phylogenetic diversity measures
+
+**Conservation prioritization**: Protect phylogenetically distinct species
+
+**Identifying units**: Evolutionary Significant Units (ESUs)
+
+### Biotechnology
+
+**Gene discovery**: Find homologs in related species
+
+**Protein engineering**: Ancestral sequence reconstruction
+
+**Bioprospecting**: Target related species for drug discovery
+
+### Forensics and Agriculture
+
+**Food authentication**: Identify species in products
+
+**Pest management**: Understand pest evolution and relationships
+
+**Crop improvement**: Wild relatives as genetic resources
+
+---
+
+## The Tree of Life
+
+### Three Domains
+
+**Woese et al. (1990)**: Based on ribosomal RNA
+
+1. **Bacteria**: Prokaryotes, diverse metabolisms
+2. **Archaea**: Prokaryotes, many extremophiles
+3. **Eukarya**: Eukaryotes
+
+**Relationships**: Archaea and Eukarya more closely related
+
+### Major Eukaryotic Groups
+
+**Opisthokonta**: Animals, fungi, choanoflagellates
+
+**Archaeplastida**: Plants, green algae, red algae
+
+**SAR clade**: Stramenopiles, Alveolates, Rhizarians
+
+**Excavata**: Euglenozoans, diplomonads
+
+**Uncertainties**: Root of eukaryotic tree debated
+
+### Relationships Within Animals
+
+**Major phyla**: ∼35 recognized
+
+**Deuterostomes**: Echinoderms, chordates
+
+**Protostomes**:
+
+- **Ecdysozoa**: Arthropods, nematodes (molting)
+- **Lophotrochozoa**: Mollusks, annelids, flatworms
+
+### Plant Phylogeny
+
+**Green plants**: Chlorophytes, charophytes, land plants
+
+**Land plants**: Bryophytes, vascular plants
+
+**Seed plants**: Gymnosperms, angiosperms
+
+**Angiosperms**: Monocots, eudicots, magnoliids
+
+### Ongoing Challenges
+
+**Horizontal gene transfer**: Complicates prokaryotic trees
+
+**Incomplete lineage sorting**: Gene trees ≠ species trees
+
+**Hybridization**: Common in plants, some animals
+
+**Sampling**: Many groups poorly studied
+
+---
+
+## Phylogenetic Software and Databases
+
+### Popular Software
+
+**Alignment**: MAFFT, MUSCLE, Clustal
+
+**Tree building**: PAUP*, RAxML, MrBayes, PhyML
+
+**Dating**: BEAST, r8s
+
+**Visualization**: FigTree, Dendroscope, iTOL
+
+### Databases
+
+**Sequence**: GenBank, EMBL, DDBJ
+
+**Alignment**: PFAM, SMART
+
+**Trees**: TreeBASE, Open Tree of Life
+
+**Taxonomy**: NCBI Taxonomy, Catalogue of Life
+
+### Analysis Pipeline
+
+1. **Sequence acquisition**
+2. **Alignment**
+3. **Model selection** (jModelTest, ModelTest)
+4. **Tree building**
+5. **Support assessment**
+6. **Visualization and interpretation**
+
+---
+
+## Chapter Summary
+
+### Key Concepts
+
+1. **Phylogenetic trees**: Diagram evolutionary relationships
+2. **Tree interpretation**: Understand components and avoid misconceptions
+3. **Character data**: Morphological and molecular data used for inference
+4. **Tree-building methods**: Distance, parsimony, likelihood, Bayesian
+5. **Tree assessment**: Bootstrap, posterior probabilities, other support measures
+6. **Molecular clock**: Dating evolutionary events
+7. **Applications**: Classification, medicine, conservation, biotechnology
+8. **Tree of life**: Three domains, major eukaryotic groups
+
+### Tree-Building Method Comparison
+
+| Method | Principle | Advantages | Disadvantages |
+|--------|-----------|------------|---------------|
+| **Neighbor-Joining** | Distance matrix | Fast, good for many taxa | No explicit model |
+| **Maximum Parsimony** | Minimize changes | Intuitive, no model | Long-branch attraction |
+| **Maximum Likelihood** | Probability maximization | Statistical, model-based | Computationally intensive |
+| **Bayesian** | Posterior probability | Confidence measures, flexible | Computationally intensive, priors |
+
+### Support Measures
+
+| Measure | Range | Interpretation |
+|---------|-------|---------------|
+| **Bootstrap** | 0-100% | % of resampled trees with clade |
+| **Posterior probability** | 0-1 | Probability clade is true |
+| **Decay index** | ≥0 | Extra steps to collapse clade |
+
+### Major Eukaryotic Clades
+
+| Clade | Major Groups | Characteristics |
+|-------|--------------|----------------|
+| **Opisthokonta** | Animals, fungi | Posterior flagellum (in some) |
+| **Archaeplastida** | Plants, algae | Primary plastids |
+| **SAR** | Diatoms, ciliates, forams | Diverse, often with secondary plastids |
+| **Excavata** | Euglenids, trypanosomes | Feeding groove |
+
+### Phylogenetic Applications
+
+| Field | Application | Example |
+|-------|-------------|---------|
+| **Medicine** | Outbreak tracing | COVID-19 origins |
+| **Conservation** | Prioritization | EDGE species |
+| **Agriculture** | Pest relationships | Resistance gene transfer |
+| **Biotechnology** | Gene discovery | Thermostable enzymes from thermophiles |
+
+---
+
+## Review Questions
+
+### Level 1: Recall and Understanding
+
+1. Draw and label the components of a phylogenetic tree.
+2. What is the difference between monophyletic, paraphyletic, and polyphyletic groups?
+3. List three types of data used to build phylogenetic trees.
+4. What are the main phylogenetic tree-building methods?
+5. How is the molecular clock used to date evolutionary events?
+
+### Level 2: Application and Analysis
+
+6. Given the tree (A,(B,C)), which pair is most closely related?
+7. Why might different genes give different phylogenetic trees for the same species?
+8. How would you choose an outgroup for a phylogenetic analysis?
+9. What does a bootstrap value of 85% mean for a particular clade?
+10. Why is long-branch attraction a problem in phylogenetic inference?
+
+### Level 3: Synthesis and Evaluation
+
+11. Evaluate the statement: "The tree of life is actually more like a web due to horizontal gene transfer."
+12. How has molecular phylogenetics changed our understanding of biological classification?
+13. Why is it important to consider phylogeny in comparative studies?
+14. Design a phylogenetic study to resolve relationships in a problematic group.
+
+---
+
+## Key Terms
+
+- **Phylogeny**: Evolutionary history of a group of organisms
+- **Phylogenetic tree**: Diagram showing evolutionary relationships
+- **Clade**: Monophyletic group consisting of an ancestor and all its descendants
+- **Monophyletic**: Group containing a common ancestor and all descendants
+- **Paraphyletic**: Group containing a common ancestor but not all descendants
+- **Polyphyletic**: Group that does not contain the common ancestor of all members
+- **Synapomorphy**: Shared derived character that indicates common ancestry
+- **Homoplasy**: Similarity not due to common ancestry (convergence or reversal)
+- **Outgroup**: Taxon used to root a tree, closely related but outside group of interest
+- **Molecular clock**: Hypothesis that molecular evolution occurs at roughly constant rate
+- **Bootstrap**: Method for assessing support for nodes in phylogenetic tree
+- **Maximum parsimony**: Tree-building method that minimizes evolutionary changes
+- **Maximum likelihood**: Tree-building method that maximizes probability of observed data
+- **Bayesian inference**: Tree-building method based on posterior probabilities
+
+---
+
+## Further Reading
+
+### Books
+1. Baum, D. A., & Smith, S. D. (2013). *Tree Thinking: An Introduction to Phylogenetic Biology*. Roberts & Company.
+2. Felsenstein, J. (2004). *Inferring Phylogenies*. Sinauer Associates.
+3. Page, R. D. M., & Holmes, E. C. (1998). *Molecular Evolution: A Phylogenetic Approach*. Blackwell Science.
+
+### Scientific Articles
+1. Woese, C. R., Kandler, O., & Wheelis, M. L. (1990). Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya. *PNAS*, 87(12), 4576-4579.
+2. Felsenstein, J. (1985). Confidence limits on phylogenies: An approach using the bootstrap. *Evolution*, 39(4), 783-791.
+3. Huelsenbeck, J. P., & Ronquist, F. (2001). MRBAYES: Bayesian inference of phylogenetic trees. *Bioinformatics*, 17(8), 754-755.
+
+### Online Resources
+1. Tree of Life Web Project: http://tolweb.org
+2. Phylogeny.fr: http://www.phylogeny.fr
+3. Interactive Tree of Life: https://itol.embl.de
+4. OneZoom Tree of Life: http://www.onezoom.org
+
+---
+
+## Quantitative Problems
+
+1. **Tree Space**:
+   For n taxa, number of possible unrooted trees = (2n-5)!/(2ⁿ⁻³(n-3)!)
+   a) Calculate number of possible unrooted trees for 5 taxa.
+   b) For 10 taxa.
+   c) Why is exhaustive search impossible for large n?
+
+2. **Sequence Evolution**:
+   Two sequences of length 1000 bp differ at 150 positions.
+   Using Jukes-Cantor model: d = -(3/4)ln(1 - (4/3)p)
+   a) Calculate uncorrected distance (p).
+   b) Calculate Jukes-Cantor corrected distance.
+   c) If molecular clock is 1% per million years, estimate divergence time.
+
+3. **Bootstrap Calculation**:
+   In 1000 bootstrap replicates, a particular clade appears in 850 trees.
+   a) What is the bootstrap support?
+   b) If the true probability of the clade is 0.9, what is the probability of getting ≥850/1000?
+   c) What does this say about interpreting bootstrap values?
+
+---
+
+## Case Study: HIV Phylogenetics and Transmission Networks
+
+**Background**: HIV phylogenetics has been used to trace transmission networks and understand epidemic dynamics.
+
+**Questions**:
+
+1. How can phylogenetic trees help identify transmission clusters?
+2. What are the ethical considerations in using phylogenetics for public health?
+3. How has phylogenetics contributed to understanding HIV origins and spread?
+4. What are the limitations of phylogenetic approaches in outbreak investigation?
+
+**Data for analysis**:
+
+- HIV evolutionary rate: ∼0.001 substitutions/site/year
+- Within-host diversity: High due to error-prone reverse transcriptase
+- Transmission bottlenecks: Typically 1-3 variants transmitted
+- Forensic use: Admissible evidence in some court cases
+- Privacy concerns: Genetic data can reveal relationships
+
+---
+
+*Next Chapter: [Human Evolution](16-human-evolution.qmd)*

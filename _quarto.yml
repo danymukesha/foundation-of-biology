@@ -20,6 +20,7 @@ book:
     - index.qmd
     - part: "I: Foundational Concepts"
       chapters:
+        - content/01-foundations/index.qmd
         - content/01-foundations/01-what-is-life.qmd
         - content/01-foundations/02-energy-thermodynamics.qmd
         - content/01-foundations/03-information-biology.qmd 
@@ -41,13 +42,14 @@ book:
         - content/03-genetics/11-regulation.qmd
         - content/03-genetics/12-genomics.qmd
 
-    # - part: "IV: Evolution & Diversity"
-    #   chapters:
-    #     - content/04-evolution/13-natural-selection.qmd
-    #     - content/04-evolution/14-speciation.qmd
-    #     - content/04-evolution/15-phylogenetics.qmd
-    #     - content/04-evolution/16-human-evolution.qmd
-    # 
+    - part: "IV: Evolution & Diversity"
+      chapters:
+        - content/04-evolution/index.qmd  
+        - content/04-evolution/13-natural-selection.qmd
+        - content/04-evolution/14-speciation.qmd 
+        - content/04-evolution/15-phylogenetics.qmd
+        - content/04-evolution/16-human-evolution.qmd
+
     # - part: "V: Organismal & Systems Biology"
     #   chapters:
     #     - content/05-systems/17-ecology.qmd

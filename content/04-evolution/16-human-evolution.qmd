@@ -1,0 +1,703 @@
+---
+title: "Human Evolution"
+---
+
+## Learning Objectives
+
+By the end of this chapter, you should be able to:
+
+1. Describe our place in the primate family tree and identify key distinguishing primate characteristics
+2. Trace the major events in hominin evolution from early australopithecines to Homo sapiens
+3. Explain the evidence for human evolution from paleontology, archaeology, and genetics
+4. Describe key adaptations in human evolution including bipedalism, brain expansion, and tool use
+5. Analyze debates about modern human origins (Out of Africa vs. multiregional models)
+6. Explain how genetic evidence informs our understanding of human evolution and migration
+7. Describe recent human evolution and ongoing evolutionary processes
+8. Evaluate common misconceptions about human evolution
+
+## Introduction
+
+Human evolution represents the story of our own species—where we came from, how we became what we are, and what makes us unique among primates. This chapter traces our evolutionary journey from early primates to modern humans, examining the fossil evidence, genetic data, and archaeological remains that tell this remarkable story. Understanding human evolution not only satisfies our curiosity about our origins but also provides insights into human biology, behavior, and health. It reminds us that we are part of the natural world, shaped by the same evolutionary processes that have shaped all life on Earth.
+
+---
+
+## Primate Origins and Characteristics
+
+### What Makes a Primate?
+
+**Primate characteristics** (shared derived traits):
+
+1. **Grasping hands and feet**: Opposable thumbs/big toes
+2. **Nails instead of claws**: Tactile pads with fingerprints
+3. **Forward-facing eyes**: Stereoscopic vision, depth perception
+4. **Large brains** relative to body size
+5. **Extended parental care**: Long gestation, postnatal development
+6. **Social complexity**: Varied social systems
+
+**Evolutionary trends**:
+
+- Reduction of snout
+- Expansion of visual cortex
+- Increased behavioral flexibility
+
+### Primate Phylogeny
+
+**Major groups**:
+
+- **Strepsirrhines**: Lemurs, lorises (more primitive features)
+- **Haplorhines**: Tarsiers, monkeys, apes, humans
+
+**Anthropoids** (monkeys and apes):
+
+- **Platyrrhines** (New World monkeys): Flat noses, prehensile tails
+- **Catarrhines** (Old World monkeys and apes): Downward nostrils
+  - **Cercopithecoids** (Old World monkeys)
+  - **Hominoids** (apes and humans)
+
+**Apes (Hominoidea)**:
+
+- **Lesser apes**: Gibbons, siamangs
+- **Great apes**: Orangutans, gorillas, chimpanzees, bonobos, humans
+
+### Our Closest Living Relatives
+
+**Genetic evidence**:
+
+- **Humans and chimpanzees**: 98.8% identical at DNA level
+- **Divergence time**: ∼6-7 million years ago
+- **Common ancestor**: Not a chimpanzee, but a chimp-human ancestor
+
+**Comparative anatomy**:
+
+- **Similarities**: Skeletal structure, brain organization, blood proteins
+- **Differences**: Bipedalism, brain size, language, culture
+
+---
+
+## Early Hominin Evolution
+
+### Defining Hominins
+
+**Hominins**: Humans and all ancestors after divergence from chimpanzee lineage
+
+**Key adaptations**:
+
+1. **Bipedalism**: Walking on two legs
+2. **Tool use** (later)
+3. **Brain expansion** (later)
+4. **Language and culture** (much later)
+
+### The First Hominins
+
+**Sahelanthropus tchadensis** (∼7 million years ago):
+
+- **Discovery**: Chad (2001)
+- **Features**: Small brain, ape-sized, but possibly bipedal
+- **Significance**: Possibly earliest hominin
+
+**Orrorin tugenensis** (∼6 million years ago):
+
+- **Discovery**: Kenya (2000)
+- **Evidence for bipedalism**: Femur structure
+
+**Ardipithecus** (∼5.8-4.4 million years ago):
+
+- **Ardipithecus ramidus** ("Ardi"):
+  - **Discovery**: Ethiopia (1994)
+  - **Features**: Both climbing and bipedal adaptations
+  - **Environment**: Woodland, not savanna
+
+### Australopithecines
+
+**Time range**: ∼4.2-1.9 million years ago
+
+**Key features**:
+
+- **Brain size**: 400-500 cc (similar to chimps)
+- **Body size**: 1-1.5 m tall, 30-50 kg
+- **Bipedal**: But also arboreal adaptations
+- **Diet**: Mostly plant-based
+
+**Major species**:
+
+1. **Australopithecus anamensis** (∼4.2-3.9 mya): Possible ancestor
+2. **Australopithecus afarensis** (∼3.9-2.9 mya): "Lucy"
+   - **Laetoli footprints** (3.6 mya): Clear evidence of bipedalism
+3. **Australopithecus africanus** (∼3.0-2.1 mya): Taung Child
+4. **"Robust" australopithecines** (Paranthropus): Massive jaws, sagittal crest
+   - **P. boisei** (2.3-1.2 mya): "Nutcracker Man"
+
+### Why Bipedalism?
+
+**Advantages** (hypotheses):
+
+1. **Energy efficiency**: More efficient for long-distance travel
+2. **Heat stress**: Less surface area exposed to sun
+3. **Carrying**: Free hands for tools/food
+4. **Seeing over grass**: In savanna environment
+5. **Display**: Sexual selection
+
+**Evidence for arboreal heritage**:
+
+- Curved fingers/toes
+- Shoulder joint orientation
+- Lower limb proportions
+
+---
+
+## The Genus Homo
+
+### Early Homo
+
+**Homo habilis** (∼2.4-1.4 million years ago):
+
+- **Name means**: "Handy man"
+- **Brain size**: 500-800 cc
+- **Associated with**: Oldowan stone tools
+- **Diet**: More meat than australopithecines
+
+**Homo erectus** (∼1.9 million - 110,000 years ago):
+
+- **Key developments**:
+  1. **First out of Africa**: ∼1.8 mya (Dmanisi, Georgia)
+  2. **Acheulean tools**: Handaxes (symmetrical, bifacial)
+  3. **Larger body size**: More human-like proportions
+  4. **Brain size**: 750-1250 cc
+  5. **Possible use of fire**: ∼1.0 mya (controversial)
+
+- **Regional variants**:
+  - **H. ergaster** (Africa)
+  - **H. erectus** (Asia)
+  - Possibly **H. antecessor** (Europe)
+
+### Later Homo Species
+
+**Homo heidelbergensis** (∼700,000-200,000 years ago):
+
+- **Possible ancestor** of both Neanderthals and modern humans
+- **Brain size**: ∼1200 cc
+- **Tools**: More advanced Acheulean, possibly spears
+- **Evidence of hunting**: Large game
+
+**Homo floresiensis** ("Hobbit", ∼100,000-50,000 years ago):
+
+- **Discovery**: Flores, Indonesia (2003)
+- **Features**: 1 m tall, 400 cc brain
+- **Tools**: Stone tools despite small brain
+- **Origin**: Possibly dwarfed H. erectus
+
+**Denisovans** (discovered 2010):
+
+- **Known from**: DNA from finger bone (Siberia)
+- **Relationships**: Sister to Neanderthals
+- **Legacy**: Interbred with modern humans (Melanesians, Australians)
+
+---
+
+## Neanderthals and Modern Humans
+
+### Neanderthals (Homo neanderthalensis)
+
+**Time range**: ∼400,000-40,000 years ago
+
+**Distribution**: Europe, western Asia
+
+**Physical characteristics**:
+
+- **Robust build**: Cold adaptation
+- **Large nose**: Warming/humidifying air
+- **Brain size**: 1200-1750 cc (larger than modern humans)
+- **Occipital bun**: Bulge at back of skull
+
+**Culture and behavior**:
+
+- **Mousterian tools**: More refined than Acheulean
+- **Use of fire**: Definite evidence
+- **Burial of dead**: With grave goods (possible ritual)
+- **Possible art**: Engravings, pigments
+- **Language capability**: Similar hyoid bone, FOXP2 gene
+
+**Extinction**: ∼40,000 years ago
+
+- **Causes**: Climate change, competition with modern humans, interbreeding
+
+### Anatomically Modern Humans (Homo sapiens)
+
+**Earliest fossils**: ∼300,000 years ago (Jebel Irhoud, Morocco)
+
+**Key features**:
+
+- **High, rounded skull**
+- **Small face** tucked under braincase
+- **Prominent chin**
+- **Gracile skeleton**
+
+**Behavioral modernity** (∼50,000 years ago):
+
+- **Complex tools**: Blade technology
+- **Art**: Cave paintings, figurines
+- **Personal adornment**: Beads, pigments
+- **Musical instruments**: Flutes
+- **Long-distance trade**
+
+### Modern Human Origins Debate
+
+**Out of Africa (Replacement) Model**:
+
+- Modern humans evolved in Africa ∼300,000 years ago
+- Migrated out ∼60,000 years ago
+- Replaced other Homo species with little interbreeding
+- **Evidence**: Genetic, fossil dating
+
+**Multiregional Model**:
+
+- Modern humans evolved simultaneously in multiple regions
+- Gene flow between populations maintained species unity
+- **Evidence**: Regional continuity in fossils
+
+**Current consensus**: Mostly Out of Africa with some interbreeding
+
+---
+
+## Genetic Evidence for Human Evolution
+
+### Nuclear DNA Comparisons
+
+**Human-chimp divergence**: ∼6-7 million years
+
+**Genetic differences**: ∼1.2% (35 million base pair differences)
+
+**Accelerated evolution in humans**: Genes related to brain, speech, immune system
+
+**FOXP2 gene**: Language and speech
+
+- **Human-specific changes**: Two amino acid differences from chimp
+- **Neanderthals**: Shared human version
+- **Implication**: Language capability predates human-Neanderthal split
+
+### Mitochondrial DNA and "Mitochondrial Eve"
+
+**Mitochondrial Eve**: Most recent common ancestor via maternal line
+
+- **Lived**: ∼150,000-200,000 years ago in Africa
+- **Not the only woman alive** at that time
+- **Evidence**: All living humans share mtDNA from this ancestor
+
+**Y-chromosomal Adam**: Most recent common ancestor via paternal line
+
+- **Lived**: ∼200,000-300,000 years ago
+- **Different from mtEve** (not same individual)
+
+### Ancient DNA Revolution
+
+**Sequencing ancient DNA** from fossils
+
+**Key findings**:
+
+1. **Neanderthal genome**: Sequenced 2010
+2. **Denisovan genome**: 2010
+3. **Interbreeding**: Non-Africans have 1-4% Neanderthal DNA
+4. **Melanesians**: Additional 4-6% Denisovan DNA
+5. **Multiple interbreeding events**
+
+**Migration patterns**: Traced through genetic markers
+
+### Recent Human Evolution
+
+**Lactase persistence**: Digestion of milk into adulthood
+
+- **Mutation**: Different in Europeans and Africans
+- **Selection**: Strong with dairy farming
+
+**High-altitude adaptation** (Tibetans):
+
+- **EPAS1 gene**: From Denisovans?
+- **Mechanism**: Different hemoglobin response
+
+**Skin pigmentation**:
+
+- **Variation**: Related to UV radiation
+- **Genes**: Multiple, different in different populations
+
+**Disease resistance**: Genes shaped by pathogen exposure
+
+---
+
+## Human Migration and Dispersal
+
+### Out of Africa
+
+**First dispersal** (Homo erectus): ∼1.8 million years ago
+
+**Second dispersal** (modern humans): ∼60,000 years ago
+
+**Routes**:
+
+1. **Southern route**: Along coast to Southeast Asia, Australia (∼50,000 years ago)
+2. **Northern route**: Through Middle East to Europe, Central Asia
+3. **Bering land bridge**: To Americas (∼15,000-20,000 years ago)
+
+### Peopling of the World
+
+**Australia**: ∼50,000 years ago (oldest human remains outside Africa)
+
+**Europe**: ∼45,000 years ago
+
+**Americas**: Debate over timing
+
+- **Clovis first**: ∼13,000 years ago
+- **Pre-Clovis sites**: Possibly 15,000-20,000 years ago
+- **Routes**: Coastal vs. inland ice-free corridor
+
+**Pacific islands**: Last major region settled
+
+- **Polynesia**: ∼3,000 years ago
+- **New Zealand**: ∼700 years ago
+- **Madagascar**: ∼1,500 years ago
+
+### Effects of Migration
+
+**Genetic drift**: Founder effects in new populations
+
+**Adaptation**: To new environments (climate, diet, pathogens)
+
+**Cultural evolution**: Development of new technologies, languages
+
+---
+
+## Human Uniqueness and Evolution of Culture
+
+### What Makes Humans Unique?
+
+**Biological differences**:
+
+- **Brain size and organization**: Prefrontal cortex expansion
+- **Bipedalism**: Free hands
+- **Vocal tract**: Complex speech
+- **Life history**: Extended childhood, menopause
+
+**Behavioral/cultural differences**:
+
+- **Complex language**: Syntax, recursion
+- **Cumulative culture**: Improvement over generations
+- **Symbolic thought**: Art, religion, mathematics
+- **Technology**: Beyond basic tools
+
+### Evolution of Human Characteristics
+
+**Bipedalism**: Earliest major adaptation (∼6-7 mya)
+
+**Brain expansion**: Gradual increase, then rapid in Homo
+
+- **H. habilis**: 500-800 cc
+- **H. erectus**: 750-1250 cc
+- **H. sapiens**: 1200-1700 cc
+
+**Tool use**:
+
+- **Oldowan**: Simple flakes (∼2.6 mya)
+- **Acheulean**: Handaxes (∼1.7 mya)
+- **Mousterian**: Prepared cores (∼300,000 ya)
+- **Upper Paleolithic**: Blades, specialized tools (∼50,000 ya)
+
+**Language**: Timing debated
+
+- **Anatomical evidence**: Hyoid bone (∼500,000 ya?)
+- **Genetic evidence**: FOXP2 (before human-Neanderthal split)
+- **Archaeological evidence**: Symbolic artifacts (∼100,000-50,000 ya)
+
+### Gene-Culture Coevolution
+
+**Examples**:
+
+- **Lactase persistence**: With dairying
+- **Alcohol metabolism**: With fermentation
+- **Amylase gene copies**: With starch consumption
+- **Disease resistance**: With agriculture, population density
+
+**Cultural evolution**: Can be faster than genetic evolution
+
+---
+
+## Recent and Ongoing Human Evolution
+
+### Evolution in Historical Times
+
+**Evidence for recent selection**:
+
+- **Lactase persistence**: Strongest known signal in Europeans
+- **Skin pigmentation**: Multiple selective events
+- **High-altitude adaptation**: Tibetan, Andean, Ethiopian
+- **Infectious disease resistance**: Malaria, plague, smallpox
+
+**Methods for detection**:
+
+- **Extended haplotype homozygosity**: Long stretches of identical DNA
+- **Population differentiation**: Fst outliers
+- **Ancient DNA comparison**: Changes over time
+
+### Are Humans Still Evolving?
+
+**Arguments for**:
+
+- Selection still operates (e.g., age at first birth)
+- Mutation still occurs
+- Some traits changing (e.g., age at menarche, height)
+- New selective pressures (e.g., diet, modern diseases)
+
+**Arguments against**:
+
+- Medical care reduces selection
+- Birth control affects reproductive patterns
+- Globalization increases gene flow
+- Cultural evolution may dominate
+
+**Probably yes**, but differently than in past
+
+### Future Human Evolution
+
+**Possible directions**:
+
+- **Resistance**: To new diseases, environmental toxins
+- **Adaptation**: To changing climate, new diets
+- **Cognitive traits**: If correlated with reproductive success
+- **Artificial selection**: Through genetic technologies
+
+**Uncertainties**:
+
+- Environmental changes
+- Technological developments
+- Social and cultural factors
+
+---
+
+## Misconceptions and Controversies
+
+### Common Misconceptions
+
+1. **"Humans evolved from chimpanzees"**: No, we share a common ancestor
+2. **"Evolution is progressive"**: No direction or goal
+3. **"Missing links"**: All fossils are transitional
+4. **"Evolution is just a theory"**: Theory in scientific sense
+5. **"If we evolved from monkeys, why are there still monkeys?"**: Branches, not linear progression
+
+### Race and Human Variation
+
+**Genetic variation**:
+
+- **Within populations**: ∼85% of total human genetic variation
+- **Between populations**: ∼15%
+- **Between continents**: ∼10%
+
+**Race as biological concept**:
+
+- No clear genetic boundaries
+- Continuous variation, not discrete categories
+- More variation within than between "races"
+- Social construction with biological consequences
+
+### Evolutionary Psychology
+
+**Study of**: Psychological adaptations
+
+**Controversies**:
+
+- **Just-so stories**: Unfalsifiable explanations
+- **Genetic determinism**: Ignoring culture, plasticity
+- **Adaptationism**: Assuming all traits are adaptations
+
+**Valid insights**: Some universal human behaviors may have evolutionary basis
+
+### Creationism and Intelligent Design
+
+**Scientific response**:
+
+- Evolution is well-supported by multiple lines of evidence
+- No scientific controversy about fact of evolution
+- Intelligent design not testable science
+
+**Teaching evolution**:
+
+- Important for scientific literacy
+- Does not conflict with religious belief for many
+- Understanding evolution essential for biology, medicine
+
+---
+
+## Chapter Summary
+
+### Key Concepts
+
+1. **Primate heritage**: We share characteristics with other primates
+2. **Hominin evolution**: From bipedal apes to modern humans over ∼7 million years
+3. **Key adaptations**: Bipedalism, tool use, brain expansion, language
+4. **Multiple Homo species**: Coexistence and interbreeding
+5. **Modern human origins**: Mostly Out of Africa with interbreeding
+6. **Genetic evidence**: DNA confirms and extends fossil record
+7. **Human migrations**: Peopling of the world over last 60,000 years
+8. **Recent evolution**: Ongoing but changed by culture and technology
+9. **Human uniqueness**: Complex culture, language, cumulative technology
+10. **Misconceptions**: Need to correct common misunderstandings
+
+### Timeline of Human Evolution
+
+| Time | Event | Significance |
+|------|-------|-------------|
+| **∼7 mya** | Hominin-chimp split | Beginning of human lineage |
+| **∼4.4 mya** | Ardipithecus | Early bipedalism, woodland habitat |
+| **∼3.6 mya** | Laetoli footprints | Clear evidence of bipedalism |
+| **∼2.6 mya** | First stone tools | Beginning of technology |
+| **∼1.8 mya** | H. erectus out of Africa | First intercontinental migration |
+| **∼300 kya** | First H. sapiens | Anatomically modern humans |
+| **∼60 kya** | Modern humans out of Africa | Global dispersal begins |
+| **∼40 kya** | Neanderthal extinction | End of other Homo species in Eurasia |
+| **∼15 kya** | Peopling of Americas | Last major continents settled |
+
+### Major Hominin Species
+
+| Species | Time Range | Key Features |
+|---------|------------|-------------|
+| **Sahelanthropus** | ∼7 mya | Possible earliest hominin |
+| **Ardipithecus** | 5.8-4.4 mya | Mixed climbing/bipedal |
+| **A. afarensis** | 3.9-2.9 mya | "Lucy", definite bipedalism |
+| **H. habilis** | 2.4-1.4 mya | First stone tools |
+| **H. erectus** | 1.9 mya-110 kya | First out of Africa, larger brain |
+| **H. heidelbergensis** | 700-200 kya | Possible ancestor of Neanderthals and humans |
+| **H. neanderthalensis** | 400-40 kya | Cold-adapted, complex culture |
+| **H. sapiens** | 300 kya-present | Anatomically and behaviorally modern |
+
+### Genetic Evidence Summary
+
+| Type | What It Shows | Key Findings |
+|------|---------------|--------------|
+| **Nuclear DNA** | Overall relatedness | 98.8% identical to chimp |
+| **mtDNA** | Maternal lineage | "Mitochondrial Eve" in Africa |
+| **Y chromosome** | Paternal lineage | "Y-chromosomal Adam" |
+| **Ancient DNA** | Past populations | Neanderthal, Denisovan interbreeding |
+| **Selection scans** | Recent evolution | Lactase persistence, high-altitude adaptation |
+
+### Human Migration Routes
+
+1. **Africa → Middle East** (∼60,000 years ago)
+2. **Middle East → Asia, Europe** (∼50,000 years ago)
+3. **Coastal route to Australia** (∼50,000 years ago)
+4. **Central Asia → Americas** (∼20,000-15,000 years ago)
+5. **Taiwan → Pacific** (∼3,000 years ago)
+
+---
+
+## Review Questions
+
+### Level 1: Recall and Understanding
+
+1. What are the key characteristics that distinguish primates from other mammals?
+2. List the major groups in the human evolutionary lineage from earliest to latest.
+3. What evidence supports the Out of Africa model of modern human origins?
+4. How does genetic evidence complement fossil evidence for human evolution?
+5. What are three characteristics that make humans unique among primates?
+
+### Level 2: Application and Analysis
+
+6. Why is bipedalism considered a key adaptation in human evolution?
+7. How do Neanderthals differ from modern humans anatomically and behaviorally?
+8. What does it mean that non-Africans have 1-4% Neanderthal DNA?
+9. How has human evolution been influenced by cultural developments like agriculture?
+10. Why is the concept of biological race problematic from a genetic perspective?
+
+### Level 3: Synthesis and Evaluation
+
+11. Evaluate the statement: "Human evolution stopped when culture developed."
+12. How has the discovery of ancient DNA changed our understanding of human evolution?
+13. Why is understanding human evolution important for medicine and public health?
+14. Design a research project to investigate a question about recent human evolution.
+
+---
+
+## Key Terms
+
+- **Hominin**: Humans and all species more closely related to humans than to chimpanzees
+- **Bipedalism**: Walking on two legs
+- **Australopithecus**: Genus of early hominins that lived 4.2-1.9 million years ago
+- **Homo habilis**: Early species of Homo known for stone tool use
+- **Homo erectus**: First hominin to spread out of Africa
+- **Neanderthals**: Extinct species of Homo that lived in Europe and western Asia
+- **Out of Africa hypothesis**: Theory that modern humans originated in Africa and migrated elsewhere
+- **Mitochondrial Eve**: Most recent common ancestor of all living humans via maternal line
+- **Denisovans**: Extinct hominin group known from DNA evidence
+- **FOXP2 gene**: Gene involved in speech and language development
+- **Oldowan tools**: Earliest stone tool industry
+- **Acheulean tools**: Stone tool industry characterized by handaxes
+- **Behavioral modernity**: Set of traits including complex tools, art, and symbolic thought
+
+---
+
+## Further Reading
+
+### Books
+1. Stringer, C. (2012). *Lone Survivors: How We Came to Be the Only Humans on Earth*. Times Books.
+2. Reich, D. (2018). *Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past*. Pantheon.
+3. Dawkins, R. (2004). *The Ancestor's Tale: A Pilgrimage to the Dawn of Evolution*. Houghton Mifflin.
+
+### Scientific Articles
+1. White, T. D., et al. (2009). Ardipithecus ramidus and the paleobiology of early hominids. *Science*, 326(5949), 64-86.
+2. Green, R. E., et al. (2010). A draft sequence of the Neandertal genome. *Science*, 328(5979), 710-722.
+3. Sankararaman, S., et al. (2014). The genomic landscape of Neanderthal ancestry in present-day humans. *Nature*, 507(7492), 354-357.
+
+### Online Resources
+1. Smithsonian Human Origins Program: https://humanorigins.si.edu
+2. Becoming Human: http://www.becominghuman.org
+3. The Genographic Project: https://genographic.nationalgeographic.com
+
+---
+
+## Quantitative Problems
+
+1. **Genetic Divergence**:
+   Humans and chimpanzees diverged ∼7 million years ago.
+   Genetic divergence is ∼1.2%.
+   a) What is the average rate of genetic divergence per million years?
+   b) If mutation rate is constant, when did humans and Neanderthals diverge (∼0.1% difference)?
+   c) What are the limitations of this calculation?
+
+2. **Population Genetics**:
+   Lactase persistence allele frequency in northern Europeans is ∼0.9.
+   In the ancestral population (before dairy farming), it was ∼0.01.
+   a) If selection coefficient s=0.1, how many generations to reach current frequency?
+   b) If generation time is 25 years, how many years?
+   c) Does this match archaeological evidence for dairying (∼8,000 years ago)?
+
+3. **Fossil Dating**:
+   A hominin fossil is found between two volcanic layers.
+   Lower layer: 2.1 ± 0.1 million years (K-Ar dating)
+   Upper layer: 1.9 ± 0.1 million years
+   a) What is the age range of the fossil?
+   b) If similar fossils are known from 2.0-1.8 mya elsewhere, is this consistent?
+   c) How would additional dating methods improve precision?
+
+---
+
+## Case Study: The Hobbit - Homo floresiensis
+
+**Background**: Discovered in 2003 on Flores Island, Indonesia, this 1-meter tall hominin with a 400 cc brain lived ∼100,000-50,000 years ago.
+
+**Questions**:
+
+1. What are the possible explanations for H. floresiensis (dwarfed H. erectus, separate lineage, diseased modern human)?
+2. What evidence supports each hypothesis?
+3. How does this discovery challenge traditional views of brain size and intelligence?
+4. What does the coexistence with modern humans (until ∼50,000 years ago) suggest about human dispersal?
+
+**Data for analysis**:
+
+- Height: ∼1 m
+- Brain size: ∼400 cc (chimp-sized)
+- Tools: Stone tools associated
+- Other fauna: Dwarf elephants, giant rats (island rule)
+- Dating: 100,000-50,000 years ago
+- Controversy: Some argue it's a modern human with pathology
+
+---
+
+*End of Part IV: Evolution & Diversity*
+
+*Next Part: [Part V: Organismal & Systems Biology](../05-systems/17-ecology.qmd)*
