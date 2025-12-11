@@ -1,0 +1,52 @@
+<svg width="1600" height="2400" viewBox="0 0 1600 2400"
+     xmlns="http://www.w3.org/2000/svg" xml:space="preserve">
+
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#083344"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+
+    <!-- DNA Gradient (kept in case you want to reuse) -->
+    <linearGradient id="dna" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#d1fae5" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="2400" fill="url(#bg)"/>
+
+  <!-- (DNA helix group removed) -->
+
+  <!-- Title -->
+  <text x="800" y="350"
+        font-family="Georgia, serif"
+        font-size="120"
+        fill="white"
+        text-anchor="middle"
+        letter-spacing="3px">
+    Foundation of Biology
+  </text>
+
+  <!-- Subtitle -->
+  <text x="800" y="450"
+        font-family="Georgia, serif"
+        font-size="52"
+        fill="#d1fae5"
+        text-anchor="middle"
+        opacity="0.9">
+    Life Explained Through Energy &amp; Information
+  </text>
+
+  <!-- Author -->
+  <text x="800" y="2150"
+        font-family="Georgia, serif"
+        font-size="60"
+        fill="#ecfdf5"
+        text-anchor="middle">
+    Dany Mukesha
+  </text>
+
+</svg>

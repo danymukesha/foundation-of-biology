@@ -11,10 +11,12 @@ book:
   date: "12/2/2025"
   description: "Life explained through energy flow and information." 
   
+  site-url: https://danymukesha.github.io/foundation-of-biology
   repo-url: https://github.com/danymukesha/foundation-of-biology
   repo-actions: [edit, issue]
   
-  site-url: https://danymukesha.github.io/foundation-of-biology
+  cover-image: assets/cover.svg 
+  
   
   chapters:
     - index.qmd
@@ -76,8 +78,8 @@ bibliography: references.bib
 
 format:
   html:
-    theme: [cosmo]
-    css: style.css
+    theme: cosmo
+    css: assets/style.css
     toc: true
     toc-depth: 3
     number-sections: true
@@ -104,9 +106,6 @@ format:
         };
         </script>
     
-
-editor: visual
-
 pdf:
   documentclass: scrbook
   papersize: letter
@@ -115,3 +114,5 @@ pdf:
   toc: true
   number-sections: true 
 
+
+editor: visual

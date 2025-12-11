@@ -25,7 +25,7 @@
 - **Animated diagrams** explaining complex processes
 - **Self-assessment quizzes** at the end of each chapter
 - **Data exploration activities** with real biological data
-- **Computational thinking exercises**
+- **Intuitive thinking exercises**
 
 ## Acknowledgments
 
