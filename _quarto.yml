@@ -57,13 +57,14 @@ book:
         - content/05-systems/18-immunology.qmd
         - content/05-systems/19-neurobiology.qmd
         - content/05-systems/20-developmental-biology.qmd 
-    # 
-    # - part: "VI: Frontiers in Biology"
-    #   chapters:
-    #     - content/06-frontiers/21-synthetic-biology.qmd
-    #     - content/06-frontiers/22-bioinformatics.qmd
-    #     - content/06-frontiers/23-medical-applications.qmd
-    #     - content/06-frontiers/24-future-directions.qmd
+
+    - part: "VI: Frontiers in Biology"
+      chapters:
+        - content/06-frontiers/index.qmd
+        - content/06-frontiers/21-synthetic-biology.qmd
+        - content/06-frontiers/22-bioinformatics.qmd
+        - content/06-frontiers/23-medical-applications.qmd
+        - content/06-frontiers/24-future-directions.qmd
     # 
     # - part: "Appendices"
     #   chapters:

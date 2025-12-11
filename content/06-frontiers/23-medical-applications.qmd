@@ -1,0 +1,575 @@
+---
+title: "Medical Applications and Biotechnology"
+---
+
+## Learning Objectives
+
+By the end of this chapter, you should be able to:
+
+1. Explain how molecular biology principles translate into medical diagnostics and therapeutics
+2. Compare different types of biopharmaceuticals and their production methods
+3. Analyze the principles and applications of gene therapy and genome editing in medicine
+4. Evaluate regenerative medicine approaches including stem cell therapy and tissue engineering
+5. Describe how biomarkers enable personalized medicine and early disease detection
+6. Discuss the role of biotechnology in vaccine development and infectious disease control
+7. Analyze ethical, regulatory, and access considerations in medical biotechnology
+8. Propose biotechnology solutions to current medical challenges
+
+## Introduction
+
+The translation of biological knowledge into medical applications represents one of the most impactful intersections of science and society. Medical biotechnology harnesses our understanding of biological systems to develop diagnostics, therapies, and preventive measures that improve human health. From recombinant insulin to CRISPR-based therapies to mRNA vaccines, biotechnology has revolutionized medicine, offering new hope for previously untreatable conditions. This chapter explores how fundamental biological principles are applied to address medical challenges, examining both current applications and future directions at the forefront of healthcare innovation.
+
+---
+
+## Principles of Medical Biotechnology
+
+### From Bench to Bedside
+
+**Translational research**: Moving discoveries from laboratory to clinical application
+
+**Stages**:
+
+1. **Basic research**: Understanding biological mechanisms
+2. **Preclinical research**: Testing in model systems
+3. **Clinical trials**: Testing in humans (Phases I-IV)
+4. **Regulatory approval**: FDA, EMA, etc.
+5. **Post-marketing surveillance**: Monitoring after approval
+
+**Challenges**: Scientific, regulatory, manufacturing, commercial
+
+### Biotechnology vs. Traditional Pharmaceuticals
+
+**Small molecule drugs**: Chemical compounds, often synthetic
+
+- **Size**: Typically <900 daltons
+- **Targets**: Usually enzymes, receptors
+- **Production**: Chemical synthesis
+
+**Biologics**: Large, complex molecules from biological sources
+
+- **Size**: Typically >5,000 daltons
+- **Types**: Proteins, antibodies, nucleic acids, cells
+- **Production**: Biological systems (cells, organisms)
+
+---
+
+## Biopharmaceuticals
+
+### Recombinant Proteins
+
+**Production systems**:
+
+- **Bacteria (E. coli)**: Simple, cost-effective, but no post-translational modifications
+- **Yeast (S. cerevisiae)**: Eukaryotic, glycosylation, but different from human
+- **Mammalian cells (CHO, HEK293)**: Proper folding and human-like modifications
+- **Transgenic animals/plants**: Large-scale, low-cost production
+
+**Examples**:
+
+- **Insulin**: First recombinant drug (1982)
+- **Growth hormone**: For growth disorders
+- **Erythropoietin (EPO)**: For anemia
+- **Blood clotting factors**: For hemophilia
+
+### Monoclonal Antibodies
+
+**Structure**: Two heavy chains, two light chains, antigen-binding regions
+
+**Production**: Hybridoma technology (mouse) or recombinant methods
+
+**Types**:
+
+- **Murine**: Mouse antibodies (early generations)
+- **Chimeric**: Mouse variable + human constant regions
+- **Humanized**: Mostly human, mouse complementarity-determining regions
+- **Fully human**: From phage display or transgenic mice
+
+**Mechanisms of action**:
+
+- **Neutralization**: Block pathogen/receptor binding
+- **Opsonization**: Mark cells for destruction
+- **Complement activation**: Trigger immune attack
+- **Antibody-dependent cytotoxicity**: Direct cell killing
+- **Receptor modulation**: Activate or block signaling
+
+**Applications**: Cancer, autoimmune diseases, infectious diseases
+
+### Nucleic Acid Therapeutics
+
+**Antisense oligonucleotides**: Bind mRNA to prevent translation
+
+- **Mechanism**: RNase H degradation or steric blocking
+- **Example**: Nusinersen for spinal muscular atrophy
+
+**siRNA (small interfering RNA)**: Trigger RNA interference
+
+- **Mechanism**: RISC complex degrades target mRNA
+- **Example**: Patisiran for hereditary transthyretin amyloidosis
+
+**Aptamers**: Nucleic acids that bind targets like antibodies
+
+- **Advantages**: Small, stable, no immunogenicity
+- **Example**: Pegaptanib for age-related macular degeneration
+
+**mRNA therapeutics**: Deliver mRNA to produce therapeutic proteins
+
+- **Advantages**: Transient expression, no genome integration
+- **Applications**: Vaccines (COVID-19), protein replacement
+
+---
+
+## Gene and Cell Therapy
+
+### Gene Therapy Approaches
+
+**Ex vivo**: Cells removed, genetically modified, returned to patient
+
+- **Advantages**: Controlled conditions, selection possible
+- **Examples**: CAR-T cells, hematopoietic stem cells
+
+**In vivo**: Direct delivery of genetic material to patient
+
+- **Advantages**: Simpler delivery, broader applicability
+- **Challenges**: Targeting, immune response, duration
+
+**Viral vectors**:
+
+- **Retrovirus/Lentivirus**: Integrate into genome, long-term expression
+- **Adenovirus**: High transduction, transient expression
+- **AAV (Adeno-associated virus)**: Mild immune response, long-term in non-dividing cells
+- **Herpes simplex virus**: Large capacity, neural tropism
+
+**Non-viral delivery**:
+
+- **Naked DNA/RNA**: Simple but inefficient
+- **Liposomes/lipid nanoparticles**: Protect nucleic acids, enhance delivery
+- **Physical methods**: Electroporation, gene gun, ultrasound
+
+### Genome Editing Therapies
+
+**CRISPR-Cas systems**: RNA-guided nucleases for precise editing
+
+- **Applications**: Correct mutations, disrupt genes, insert sequences
+- **Clinical trials**: Sickle cell disease, β-thalassemia, inherited blindness
+
+**Base editors**: Convert one DNA base to another without double-strand breaks
+
+**Prime editors**: "Search-and-replace" editing with fewer off-target effects
+
+**Challenges**: Delivery, efficiency, off-target effects, immune responses
+
+### Cell-Based Therapies
+
+**Stem cell therapies**:
+
+- **Hematopoietic stem cells**: Bone marrow transplants for leukemia, immunodeficiencies
+- **Mesenchymal stem cells**: Immunomodulation, tissue repair
+- **Induced pluripotent stem cells (iPSCs)**: Patient-specific, avoid immune rejection
+
+**Engineered immune cells**:
+
+- **CAR-T cells**: Chimeric antigen receptor T cells for cancer
+- **TCR-engineered T cells**: T cell receptors for specific antigens
+- **NK cell therapies**: Natural killer cells for cancer
+
+---
+
+## Regenerative Medicine
+
+### Tissue Engineering
+
+**Key components**:
+
+1. **Cells**: Stem cells, progenitor cells, differentiated cells
+2. **Scaffolds**: Natural (collagen, fibrin) or synthetic (PGA, PLA) materials
+3. **Signals**: Growth factors, mechanical cues, electrical stimuli
+
+**Approaches**:
+
+- **In vitro engineering**: Grow tissues in bioreactors
+- **In vivo engineering**: Implant scaffolds that recruit host cells
+- **3D bioprinting**: Layer-by-layer deposition of cells and materials
+
+**Applications**: Skin grafts, cartilage, bone, blood vessels, simple organs
+
+### Organ Transplantation Alternatives
+
+**Xenotransplantation**: Organs from animals (genetically engineered pigs)
+
+**Organoids**: Miniature, simplified organs grown from stem cells
+
+- **Applications**: Disease modeling, drug testing, potential for transplantation
+- **Limitations**: Size, vascularization, complexity
+
+**Decellularization/recellularization**: Remove cells from donor organ, repopulate with patient cells
+
+**Bioartificial organs**: Combination of synthetic and biological components
+
+### Wound Healing and Repair
+
+**Growth factors**: PDGF, EGF, FGF for chronic wounds
+
+**Skin substitutes**: Temporary or permanent replacements
+
+**Bone regeneration**: BMPs, scaffolds, stem cells
+
+**Nerve regeneration**: Guidance channels, growth factors, stem cells
+
+---
+
+## Diagnostics and Personalized Medicine
+
+### Molecular Diagnostics
+
+**Genetic testing**:
+
+- **Carrier screening**: Identify risk of passing genetic disorders
+- **Predictive testing**: Assess risk of developing conditions
+- **Diagnostic testing**: Confirm suspected genetic disorders
+- **Pharmacogenetic testing**: Guide drug selection and dosing
+
+**Liquid biopsy**: Detect tumor DNA/RNA in blood
+
+- **Applications**: Early detection, monitoring treatment response, detecting recurrence
+- **Advantages**: Less invasive, repeated sampling possible
+
+**Point-of-care diagnostics**: Rapid tests at site of patient care
+
+- **Lateral flow assays**: Pregnancy tests, COVID-19 antigen tests
+- **Microfluidics**: Lab-on-a-chip devices
+- **Biosensors**: Detect biomarkers with high sensitivity
+
+### Biomarkers
+
+**Types**: Genomic, transcriptomic, proteomic, metabolomic, imaging
+
+**Applications**:
+
+- **Diagnosis**: Identify disease presence
+- **Prognosis**: Predict disease course
+- **Predictive**: Indicate likely response to treatment
+- **Monitoring**: Track disease progression or treatment response
+
+**Validation**: Analytical validation, clinical validation, utility assessment
+
+### Personalized Medicine
+
+**Definition**: Tailoring medical treatment to individual characteristics
+
+**Components**:
+
+- **Genomics**: Genetic variants affecting drug metabolism, targets
+- **Proteomics/ Metabolomics**: Current physiological state
+- **Environmental/lifestyle factors**: Diet, exercise, exposures
+- **Precision oncology**: Matching cancer treatments to tumor genetics
+
+**Challenges**: Cost, evidence generation, implementation, equity
+
+---
+
+## Vaccines and Infectious Disease Control
+
+### Vaccine Platforms
+
+**Traditional**:
+
+- **Live attenuated**: Weakened pathogen (MMR, yellow fever)
+- **Inactivated/killed**: Dead pathogen (polio injection, rabies)
+- **Subunit**: Parts of pathogen (hepatitis B, HPV)
+- **Toxoid**: Inactivated toxin (tetanus, diphtheria)
+
+**Modern**:
+
+- **Viral vector**: Non-replicating virus carrying pathogen genes (COVID-19 adenovirus vaccines)
+- **mRNA**: Lipid nanoparticles with mRNA encoding antigen (COVID-19 mRNA vaccines)
+- **DNA**: Plasmid DNA encoding antigen (experimental)
+- **VLP (Virus-like particles)**: Empty viral shells (hepatitis B, HPV)
+
+### Pandemic Response
+
+**Speed of development**: Traditional 10-15 years vs. COVID-19 vaccines <1 year
+
+**Platform approach**: Developing flexible platforms for rapid response
+
+**Manufacturing scale-up**: Challenges in producing billions of doses
+
+**Distribution and equity**: Global access disparities
+
+### Antimicrobial Resistance
+
+**Novel antibiotics**: New classes, combination therapies
+
+**Alternatives to antibiotics**:
+
+- **Phage therapy**: Viruses that infect bacteria
+- **Antimicrobial peptides**: Natural defense molecules
+- **Monoclonal antibodies**: Target bacterial toxins or surfaces
+- **Probiotics/Prebiotics**: Modulate microbiome
+
+**Diagnostics**: Rapid identification of pathogens and resistance genes
+
+---
+
+## Neurotechnology and Brain Health
+
+### Neurodegenerative Diseases
+
+**Alzheimer's disease**:
+
+- **Biomarkers**: Amyloid and tau imaging, CSF markers
+- **Therapies**: Monoclonal antibodies against amyloid, tau
+- **Prevention**: Risk factor modification, early detection
+
+**Parkinson's disease**:
+
+- **Cell therapies**: Dopamine neuron transplantation
+- **Gene therapies**: Delivery of neurotrophic factors, enzyme replacement
+- **Deep brain stimulation**: Electrical stimulation to modulate circuits
+
+### Neuroprosthetics and Interfaces
+
+**Cochlear implants**: Convert sound to electrical signals for auditory nerve
+
+**Retinal implants**: Stimulate retinal cells to restore vision
+
+**Brain-computer interfaces (BCIs)**:
+
+- **Non-invasive**: EEG-based control of devices
+- **Invasive**: Electrode arrays for motor control, sensory feedback
+- **Applications**: Paralysis, communication, rehabilitation
+
+### Mental Health
+
+**Biomarkers**: Neuroimaging, genetics, physiology
+
+**Novel therapeutics**: Ketamine, psilocybin, neuromodulation
+
+**Digital health**: Apps, wearables, telemedicine
+
+---
+
+## Ethical, Regulatory, and Access Considerations
+
+### Ethical Issues
+
+**Gene editing**: Germline vs. somatic, enhancement vs. therapy
+
+**Stem cells**: Source of cells (embryonic, fetal, adult), consent
+
+**Neurotechnology**: Privacy, identity, enhancement
+
+**Data privacy**: Genetic information, health records
+
+### Regulatory Frameworks
+
+**Drug approval**: FDA (US), EMA (EU), other national agencies
+
+**Clinical trials**: Phases I-IV, informed consent, safety monitoring
+
+**Orphan drugs**: Incentives for rare disease treatments
+
+**Biosimilars**: Similar but not identical to reference biologics
+
+### Access and Equity
+
+**Cost**: High prices of biologics and gene therapies
+
+**Distribution**: Global disparities in access
+
+**Health disparities**: Differential burden and access across populations
+
+**Solutions**: Tiered pricing, voluntary licensing, technology transfer
+
+### Intellectual Property
+
+**Patents**: Protection for inventions, but can limit access
+
+**Open science**: Sharing data, materials, methods
+
+**Technology transfer**: Moving discoveries from academia to industry
+
+---
+
+## Chapter Summary
+
+### Key Concepts
+
+1. **Medical biotechnology** translates biological knowledge into healthcare applications
+2. **Biopharmaceuticals** include recombinant proteins, monoclonal antibodies, and nucleic acid therapeutics
+3. **Gene and cell therapies** offer potential cures for genetic and acquired diseases
+4. **Regenerative medicine** aims to repair or replace damaged tissues and organs
+5. **Personalized medicine** tailors treatment to individual characteristics
+6. **Vaccine biotechnology** enables rapid response to emerging infectious diseases
+7. **Neurotechnology** addresses brain disorders and enables brain-computer interfaces
+8. **Ethical, regulatory, and access considerations** are critical for responsible innovation
+
+### Major Biopharmaceutical Categories
+
+| Category | Examples | Production System | Key Features |
+|----------|----------|-------------------|--------------|
+| **Recombinant proteins** | Insulin, EPO, growth hormone | E. coli, yeast, mammalian cells | Replace deficient proteins, therapeutic enzymes |
+| **Monoclonal antibodies** | Rituximab, trastuzumab, adalimumab | Hybridoma, recombinant mammalian cells | High specificity, multiple mechanisms of action |
+| **Nucleic acid therapeutics** | Nusinersen, patisiran, mRNA vaccines | Chemical synthesis, in vitro transcription | Target previously "undruggable" targets, gene expression modulation |
+| **Cell therapies** | CAR-T cells, stem cell transplants | Cell culture, genetic engineering | Living drugs, potential for durable responses |
+
+### Gene Therapy Approaches
+
+| Approach | Delivery Method | Duration | Advantages | Risks |
+|----------|----------------|----------|------------|-------|
+| **Ex vivo** | Cells modified outside body, then infused | Long if stem cells | Controlled conditions, selection possible | Complex manufacturing, expensive |
+| **In vivo viral** | Viral vectors directly administered | Varies (AAV: years) | Simpler administration, broad applicability | Immune response, insertional mutagenesis |
+| **In vivo non-viral** | Lipid nanoparticles, naked DNA | Usually transient | Safer, less immunogenic | Lower efficiency, shorter duration |
+| **Genome editing** | CRISPR, base editors | Potentially permanent | Correct mutations at DNA level | Off-target effects, delivery challenges |
+
+### Vaccine Platform Comparison
+
+| Platform | Examples | Development Time | Manufacturing | Storage | Immune Response |
+|----------|----------|------------------|--------------|---------|----------------|
+| **Live attenuated** | MMR, yellow fever | Long | Complex | Refrigeration | Strong, durable |
+| **Inactivated** | Polio injection, rabies | Long | Complex | Refrigeration | Weaker, boosters needed |
+| **Subunit** | Hepatitis B, HPV | Medium | Moderate | Refrigeration | Protein-specific |
+| **mRNA** | COVID-19 mRNA vaccines | Fast | Scalable | Ultra-cold | Strong, cellular & humoral |
+| **Viral vector** | COVID-19 adenovirus vaccines | Medium | Complex | Refrigeration | Strong, pre-existing immunity issue |
+
+### Regenerative Medicine Strategies
+
+| Strategy | Approach | Current Applications | Future Directions |
+|----------|----------|---------------------|-------------------|
+| **Cell therapy** | Inject cells to repair tissue | Bone marrow transplant, cartilage repair | Organ repair, neurodegenerative diseases |
+| **Scaffold-based** | Implant materials that guide regeneration | Skin grafts, bone void fillers | Complex tissue regeneration |
+| **3D bioprinting** | Layer-by-layer deposition of cells/materials | Skin, cartilage, simple tissues | Vascularized tissues, organs |
+| **Organoids** | Grow mini-organs from stem cells | Disease modeling, drug testing | Transplantation, organ replacement |
+| **Decellularization** | Remove cells from donor organ, repopulate | Experimental trachea, blood vessels | Whole organ engineering |
+
+### Diagnostic Technologies
+
+| Technology | Principle | Applications | Advantages |
+|------------|-----------|--------------|------------|
+| **PCR** | Amplify specific DNA sequences | Infectious disease, genetic testing | High sensitivity, specificity |
+| **Next-generation sequencing** | Massively parallel sequencing | Whole genome, cancer genomics, microbiome | Comprehensive, discovery potential |
+| **Microarrays** | Hybridization to immobilized probes | Gene expression, genotyping | High throughput, established |
+| **Mass spectrometry** | Measure mass-to-charge ratio | Proteomics, metabolomics, drug monitoring | High specificity, quantitative |
+| **Biosensors** | Biological recognition + transducer | Glucose monitoring, pathogen detection | Real-time, point-of-care |
+| **Liquid biopsy** | Analyze circulating biomarkers | Cancer detection, monitoring | Non-invasive, serial sampling |
+
+---
+
+## Review Questions
+
+### Level 1: Recall and Understanding
+
+1. What are the main differences between small molecule drugs and biologics?
+2. Describe three different types of monoclonal antibodies and their characteristics.
+3. What are the advantages and disadvantages of viral versus non-viral gene delivery methods?
+4. List the key components of tissue engineering and their functions.
+5. How do mRNA vaccines differ from traditional vaccine platforms?
+
+### Level 2: Application and Analysis
+
+6. A patient has a genetic disorder caused by a single base pair mutation. What biotechnology approaches could potentially treat this condition, and what are their relative advantages and risks?
+7. Compare and contrast CAR-T cell therapy with checkpoint inhibitor antibodies for cancer treatment.
+8. How can biomarker discovery and validation transform chronic disease management?
+9. What are the main challenges in scaling up production of cell and gene therapies, and how might they be addressed?
+10. Why might personalized medicine approaches exacerbate health disparities, and what can be done to prevent this?
+
+### Level 3: Synthesis and Evaluation
+
+11. Design a development pathway for a novel biologic from target identification to market approval, including key milestones and decision points.
+12. Evaluate the ethical considerations of germline genome editing for disease prevention versus enhancement.
+13. How might advances in biotechnology address the growing problem of antimicrobial resistance?
+14. Propose a framework for ensuring equitable global access to expensive gene therapies.
+
+---
+
+## Key Terms
+
+- **Biologics**: Therapeutic agents derived from biological sources
+- **Monoclonal antibody**: Antibody produced by a single clone of cells, specific to one epitope
+- **Gene therapy**: Introduction of genetic material into cells to treat disease
+- **Stem cell**: Undifferentiated cell capable of self-renewal and differentiation
+- **Tissue engineering**: Combining cells, scaffolds, and signals to create functional tissues
+- **Biomarker**: Measurable indicator of biological state or condition
+- **Personalized medicine**: Tailoring medical treatment to individual characteristics
+- **CRISPR**: Clustered regularly interspaced short palindromic repeats, used for genome editing
+- **Vaccine**: Biological preparation that provides active immunity to disease
+- **Regenerative medicine**: Approaches to repair or replace damaged tissues and organs
+- **Clinical trial**: Research study to evaluate medical interventions in humans
+- **Pharmacogenomics**: Study of how genes affect individual responses to drugs
+
+---
+
+## Further Reading
+
+### Books
+1. Kayser, O., & Warzecha, H. (Eds.). (2012). *Pharmaceutical Biotechnology: Drug Discovery and Clinical Applications* (2nd ed.). Wiley-VCH.
+2. Nair, A. S. (Ed.). (2020). *Biotechnology in Medical Sciences*. CRC Press.
+3. Friedmann, T., & Roblin, R. (1972). Gene therapy for human genetic disease? *Science*, 175(4025), 949-955.
+
+### Scientific Articles
+1. Mullard, A. (2021). FDA approves 100th monoclonal antibody product. *Nature Reviews Drug Discovery*, 20(7), 491-495.
+2. Doudna, J. A., & Charpentier, E. (2014). The new frontier of genome engineering with CRISPR-Cas9. *Science*, 346(6213), 1258096.
+3. Topol, E. J. (2019). High-performance medicine: the convergence of human and artificial intelligence. *Nature Medicine*, 25(1), 44-56.
+
+### Online Resources
+1. FDA Biologics: https://www.fda.gov/vaccines-blood-biologics
+2. ClinicalTrials.gov: https://clinicaltrials.gov
+3. Alliance for Regenerative Medicine: https://alliancerm.org
+4. Personalized Medicine Coalition: https://www.personalizedmedicinecoalition.org
+
+---
+
+## Quantitative Problems
+
+1. **Drug Development Probability**:
+   Probabilities: Preclinical success = 0.1, Phase I success = 0.6, Phase II = 0.3, Phase III = 0.6, Approval = 0.9
+   Cost: Preclinical = $5M, Phase I = $15M, Phase II = $30M, Phase III = $100M
+   a) What's overall probability of approval from start?
+   b) What's expected cost per approved drug?
+   c) If sales are $500M/year for 10 years, what's expected ROI?
+
+2. **Viral Vector Dose Calculation**:
+   Gene therapy uses AAV at 10¹⁴ vector genomes/kg
+   Patient weight = 70 kg, manufacturing yield = 10¹³ vg/L
+   a) How many vector genomes needed?
+   b) What volume of manufactured product?
+   c) If purification efficiency = 20%, what starting volume needed?
+
+3. **Biomarker Sensitivity/Specificity**:
+   Disease prevalence = 1%, test sensitivity = 95%, specificity = 90%
+   Population = 1,000,000
+   a) How many true positives, false positives, true negatives, false negatives?
+   b) What is positive predictive value (PPV)?
+   c) If specificity increases to 99%, how does PPV change?
+
+4. **mRNA Vaccine Stability**:
+   mRNA degradation follows first-order kinetics: [mRNA] = [mRNA]₀ e^(-kt)
+   Half-life at -20°C = 1 year, at 4°C = 30 days, at 25°C = 1 day
+   a) Calculate k for each temperature
+   b) If 95% integrity needed, what's maximum storage time at each temperature?
+   c) During shipping (5 days at 25°C), what percentage degrades?
+
+---
+
+## Case Study: CAR-T Cell Therapy for Cancer
+
+**Background**: Chimeric Antigen Receptor T-cell (CAR-T) therapy involves engineering a patient's own T cells to recognize and attack cancer cells. It has shown remarkable success against certain blood cancers but faces challenges including high cost, severe side effects, and limited efficacy against solid tumors.
+
+**Questions**:
+
+1. How are CAR-T cells manufactured, and what are the key steps in the process?
+2. What are the mechanisms behind cytokine release syndrome and neurotoxicity, the main side effects of CAR-T therapy?
+3. Why have CAR-T therapies been more successful against blood cancers than solid tumors?
+4. What strategies are being developed to make CAR-T therapy safer, more effective, and more accessible?
+5. How does the cost of CAR-T therapy (~$400,000 per treatment) challenge healthcare systems, and what solutions have been proposed?
+
+**Data for analysis**:
+
+- **Response rates**: 80-90% for relapsed/refractory ALL, 40-50% for lymphoma
+- **Manufacturing time**: 2-3 weeks from cell collection to infusion
+- **Side effects**: Cytokine release syndrome (70-90%), neurotoxicity (40-60%)
+- **Cost**: $373,000 for tisagenlecleucel (Kymriah), $475,000 for axicabtagene ciloleucel (Yescarta)
+- **Market**: Projected to reach $10+ billion by 2025
+
+---
+
+*Next Chapter: [Future Directions and Ethical Considerations](24-future-directions.qmd)*
