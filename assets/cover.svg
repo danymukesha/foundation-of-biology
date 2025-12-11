@@ -8,17 +8,102 @@
       <stop offset="100%" stop-color="#0f766e"/>
     </linearGradient>
 
-    <!-- DNA Gradient (kept in case you want to reuse) -->
-    <linearGradient id="dna" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#d1fae5" stop-opacity="0.9"/>
+    <!-- DNA Strand Gradients -->
+    <linearGradient id="strand1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A6FB5"/>
+      <stop offset="100%" stop-color="#0A6FB5"/>
     </linearGradient>
+    <linearGradient id="strand2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F28C28"/>
+      <stop offset="100%" stop-color="#F28C28"/>
+    </linearGradient>
+
+    <!-- Base Bond Gradient -->
+    <linearGradient id="bond" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E1EEDD"/>
+      <stop offset="100%" stop-color="#E1EEDD"/>
+    </linearGradient>
+
+    <!-- Glow / Aura Gradient -->
+    <radialGradient id="dnaGlow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Sunburst Gradient -->
+    <radialGradient id="sunburst" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff9d8" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#fff9d8" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
   <!-- Background -->
   <rect width="1600" height="2400" fill="url(#bg)"/>
 
-  <!-- (DNA helix group removed) -->
+  <!-- Sunburst / Star behind DNA -->
+  <g transform="translate(800, 1400)">
+    <!-- Radiating rays -->
+    <g stroke="#fff9d8" stroke-opacity="0.1" stroke-width="4">
+      <line x1="0" y1="-700" x2="0" y2="-900"/>
+      <line x1="0" y1="700" x2="0" y2="900"/>
+      <line x1="-700" y1="0" x2="-900" y2="0"/>
+      <line x1="700" y1="0" x2="900" y2="0"/>
+      <line x1="-500" y1="-500" x2="-700" y2="-700"/>
+      <line x1="500" y1="-500" x2="700" y2="-700"/>
+      <line x1="-500" y1="500" x2="-700" y2="700"/>
+      <line x1="500" y1="500" x2="700" y2="700"/>
+    </g>
+    <!-- Soft circular glow -->
+    <circle cx="0" cy="0" r="400" fill="url(#sunburst)" />
+  </g>
+
+  <!-- Glowing Aura behind DNA -->
+  <circle cx="800" cy="1400" r="800" fill="url(#dnaGlow)" />
+
+  <!-- DNA Helix (shortened, same shape) -->
+  <g transform="translate(800, 1400) scale(1, 0.7)">
+    <!-- Left strand -->
+    <path d="
+      M 0 -900
+      C -60 -810 -60 -690 0 -600
+      C 60 -510 60 -390 0 -300
+      C -60 -210 -60 -90 0 0
+      C 60 90 60 210 0 300
+      C -60 390 -60 510 0 600
+      C 60 690 60 810 0 900
+    " stroke="url(#strand1)" stroke-width="12" fill="none"/>
+    
+    <!-- Right strand -->
+    <path d="
+      M 0 -900
+      C 60 -810 60 -690 0 -600
+      C -60 -510 -60 -390 0 -300
+      C 60 -210 60 -90 0 0
+      C -60 90 -60 210 0 300
+      C 60 390 60 510 0 600
+      C -60 690 -60 810 0 900
+    " stroke="url(#strand2)" stroke-width="12" fill="none"/>
+    
+    <!-- Base pair bonds -->
+    <g stroke="url(#bond)" stroke-width="6">
+      <line x1="-60" y1="-810" x2="60" y2="-800"/>
+      <line x1="-60" y1="-690" x2="60" y2="-700"/>
+      <line x1="-60" y1="-570" x2="60" y2="-560"/>
+      <line x1="-60" y1="-450" x2="60" y2="-460"/>
+      <line x1="-60" y1="-330" x2="60" y2="-340"/>
+      <line x1="-60" y1="-210" x2="60" y2="-220"/>
+      <line x1="-60" y1="-90" x2="60" y2="-100"/>
+      <line x1="-60" y1="30" x2="60" y2="20"/>
+      <line x1="-60" y1="150" x2="60" y2="140"/>
+      <line x1="-60" y1="270" x2="60" y2="260"/>
+      <line x1="-60" y1="390" x2="60" y2="380"/>
+      <line x1="-60" y1="510" x2="60" y2="500"/>
+      <line x1="-60" y1="630" x2="60" y2="620"/>
+      <line x1="-60" y1="750" x2="60" y2="740"/>
+      <line x1="-60" y1="870" x2="60" y2="860"/>
+    </g>
+  </g>
 
   <!-- Title -->
   <text x="800" y="350"
@@ -34,7 +119,7 @@
   <text x="800" y="450"
         font-family="Georgia, serif"
         font-size="52"
-        fill="#d1fae5"
+        fill="#E1EEDD"
         text-anchor="middle"
         opacity="0.9">
     Life Explained Through Energy &amp; Information
@@ -44,7 +129,7 @@
   <text x="800" y="2150"
         font-family="Georgia, serif"
         font-size="60"
-        fill="#ecfdf5"
+        fill="#E1EEDD"
         text-anchor="middle">
     Dany Mukesha
   </text>
