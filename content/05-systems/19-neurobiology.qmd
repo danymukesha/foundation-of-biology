@@ -1,0 +1,550 @@
+---
+title: "Neurobiology and Information Processing"
+---
+
+## Learning Objectives
+
+By the end of this chapter, you should be able to:
+
+1. Describe the cellular components of nervous systems (neurons and glia) and their functions
+2. Explain the molecular and ionic basis of the resting membrane potential and action potentials
+3. Trace the steps of chemical and electrical synaptic transmission
+4. Distinguish the structure and function of major divisions of the vertebrate nervous system
+5. Describe how sensory systems transduce physical and chemical stimuli into neural signals
+6. Explain the neural control of movement through motor systems and reflexes
+7. Outline the neural basis of learning, memory, and higher cognitive functions in selected models
+8. Apply principles of neurobiology to understand neurological disorders and brain-machine interfaces
+
+## Introduction
+
+The nervous system is the biological information processing network that allows organisms to sense their environment, integrate signals, and generate adaptive responses. From simple nerve nets to complex brains, nervous systems embody the principles of information flow in biology. This chapter explores how specialized cells called neurons use electrical and chemical signals to communicate, how neural circuits process information, and how these processes give rise to behavior, learning, and consciousness. Understanding neurobiology bridges cellular mechanisms with organismal behavior and cognitive function.
+
+---
+
+## Cellular Components of Nervous Systems
+
+### Neurons: The Signaling Units
+
+**Basic structure**:
+
+- **Cell body (soma)**: Contains nucleus and organelles
+- **Dendrites**: Receive signals (input zone)
+- **Axon**: Conducts signals (conducting zone)
+- **Axon terminals**: Transmit signals (output zone)
+- **Synapse**: Junction between neurons
+
+**Functional classification**:
+
+- **Sensory (afferent)**: Carry information toward CNS
+- **Motor (efferent)**: Carry commands away from CNS
+- **Interneurons**: Connect neurons within CNS (90% of neurons)
+
+**Structural classification**:
+
+- **Multipolar**: Multiple dendrites, one axon (most common)
+- **Bipolar**: One dendrite, one axon (sensory systems)
+- **Unipolar (pseudounipolar)**: Single process that divides (sensory neurons)
+
+### Glial Cells: The Support Cells
+
+**Central nervous system glia**:
+
+- **Astrocytes**: Support, regulate extracellular environment, form blood-brain barrier
+- **Oligodendrocytes**: Form myelin sheaths (insulation)
+- **Microglia**: Immune surveillance and phagocytosis
+- **Ependymal cells**: Line ventricles, produce cerebrospinal fluid (CSF)
+
+**Peripheral nervous system glia**:
+
+- **Schwann cells**: Form myelin sheaths
+- **Satellite cells**: Support cell bodies in ganglia
+
+### Myelination and Signal Conduction
+
+**Myelin**: Lipid-rich wrapping that insulates axons
+
+- **Nodes of Ranvier**: Gaps between myelin segments
+- **Saltatory conduction**: Action potentials "jump" between nodes (faster)
+
+**Conduction velocity factors**:
+
+- **Axon diameter**: Larger = faster
+- **Myelination**: Myelinated = faster
+- **Temperature**: Warmer = faster (within physiological range)
+
+---
+
+## Electrical Properties of Neurons
+
+### Resting Membrane Potential
+
+**Definition**: Electrical charge difference across membrane (~-70 mV)
+
+**Ionic basis**:
+
+- **Na⁺/K⁺ ATPase**: Pumps 3 Na⁺ out, 2 K⁺ in (establishes gradients)
+- **Potassium leak channels**: Allow K⁺ to diffuse out (main determinant)
+- **Sodium leak channels**: Allow some Na⁺ to diffuse in
+
+**Nernst equation**: Calculates equilibrium potential for single ion
+
+- $E_{ion} = \frac{RT}{zF} \ln \frac{[ion]_{out}}{[ion]_{in}}$
+
+**Goldman-Hodgkin-Katz equation**: Calculates membrane potential considering multiple ions
+
+### Graded Potentials
+
+**Characteristics**:
+
+- **Variable magnitude**: Proportional to stimulus strength
+- **Decremental**: Decrease with distance
+- **Local**: Don't travel far
+- **Summation**: Can add together (temporal and spatial)
+
+**Types**: Receptor potentials, synaptic potentials, pacemaker potentials
+
+### Action Potentials
+
+**Definition**: All-or-none electrical signal that travels along axon
+
+**Threshold**: ~-55 mV (must be reached to trigger)
+
+**Phases**:
+
+1. **Resting state**: All voltage-gated channels closed
+2. **Depolarization**: Na⁺ channels open → Na⁺ influx
+3. **Peak**: Na⁺ channels inactivate, K⁺ channels open
+4. **Repolarization**: K⁺ efflux
+5. **Hyperpolarization (afterpotential)**: K⁺ channels close slowly
+6. **Refractory periods**:
+   - **Absolute**: Cannot fire another AP (Na⁺ channels inactivated)
+   - **Relative**: Harder to fire (membrane hyperpolarized)
+
+**Voltage-gated ion channels**:
+
+- **Na⁺ channels**: Fast activation and inactivation
+- **K⁺ channels**: Slower activation, no inactivation
+- **Ca²⁺ channels**: Important at synapses
+
+**Propagation**: Local currents depolarize adjacent membrane
+
+---
+
+## Synaptic Transmission
+
+### Types of Synapses
+
+**Electrical synapses**:
+
+- **Gap junctions**: Direct cytoplasmic connection
+- **Fast, bidirectional**
+- **Synchronize activity** (cardiac muscle, some neurons)
+
+**Chemical synapses**:
+
+- **Synaptic cleft**: ~20-40 nm gap
+- **Unidirectional**
+- **Amplification, modulation possible**
+
+### Chemical Synaptic Transmission
+
+**Steps**:
+
+1. **AP arrives** at presynaptic terminal
+2. **Voltage-gated Ca²⁺ channels open**
+3. **Ca²⁺ influx** triggers vesicle fusion
+4. **Neurotransmitter release** by exocytosis
+5. **Diffusion** across cleft
+6. **Binding** to postsynaptic receptors
+7. **Postsynaptic response** (EPSP or IPSP)
+8. **Termination** (reuptake, degradation, diffusion)
+
+### Neurotransmitters
+
+**Small molecule neurotransmitters**:
+
+- **Acetylcholine (ACh)**: Neuromuscular junction, autonomic NS, CNS
+- **Biogenic amines**: Dopamine, norepinephrine, epinephrine, serotonin, histamine
+- **Amino acids**: Glutamate (excitatory), GABA (inhibitory), glycine (inhibitory)
+
+**Neuropeptides**: Endorphins, substance P, oxytocin (modulatory)
+
+**Gases**: Nitric oxide (NO), carbon monoxide (CO) (retrograde signals)
+
+### Postsynaptic Potentials
+
+**Excitatory postsynaptic potential (EPSP)**: Depolarization (makes AP more likely)
+
+**Inhibitory postsynaptic potential (IPSP)**: Hyperpolarization (makes AP less likely)
+
+**Receptor types**:
+
+- **Ionotropic**: Ligand-gated ion channels (fast, ~1 ms)
+- **Metabotropic**: G-protein coupled receptors (slow, seconds to minutes)
+
+**Integration**: Spatial and temporal summation determines if threshold reached
+
+---
+
+## Organization of Nervous Systems
+
+### Evolution of Nervous Systems
+
+**Simple systems**: Nerve nets (cnidarians), nerve cords (flatworms)
+
+**Complex systems**: Ganglia, brains, specialized regions
+
+### Vertebrate Central Nervous System
+
+**Brain development**: Neural tube → forebrain, midbrain, hindbrain
+
+**Major brain regions**:
+
+- **Forebrain**: Cerebrum (cerebral cortex, basal ganglia, limbic system), thalamus, hypothalamus
+- **Midbrain**: Visual and auditory reflexes, motor control
+- **Hindbrain**: Pons, medulla oblongata, cerebellum
+- **Brainstem**: Midbrain + pons + medulla (vital functions)
+
+**Spinal cord**: Reflex pathways, ascending/descending tracts
+
+**Ventricles and CSF**: Circulation, cushioning, waste removal
+
+### Peripheral Nervous System
+
+**Somatic nervous system**: Voluntary control of skeletal muscles
+
+**Autonomic nervous system**: Involuntary control of glands, organs, smooth/cardiac muscle
+
+- **Sympathetic**: "Fight or flight"
+- **Parasympathetic**: "Rest and digest"
+- **Enteric**: "Second brain" of gut
+
+**Cranial and spinal nerves**
+
+### Blood-Brain Barrier
+
+**Function**: Selective barrier protects CNS
+
+**Structure**: Tight junctions between endothelial cells
+
+**Transport**: Selective carriers for nutrients
+
+**Circumventricular organs**: Areas without BBB (monitor blood)
+
+---
+
+## Sensory Systems
+
+### General Principles
+
+**Sensory transduction**: Convert stimulus energy to neural signals
+
+**Receptor types**: Mechanoreceptors, thermoreceptors, photoreceptors, chemoreceptors, nociceptors
+
+**Adaptation**: Decreased response to constant stimulus
+
+- **Phasic receptors**: Adapt quickly (smell, touch)
+- **Tonic receptors**: Adapt slowly (pain, body position)
+
+### Specific Sensory Systems
+
+**Vision**:
+
+- **Photoreceptors**: Rods (dim light) and cones (color)
+- **Retinal processing**: Horizontal, bipolar, amacrine cells
+- **Visual pathways**: Retina → thalamus → visual cortex
+
+**Audition**:
+
+- **Sound transduction**: Hair cells in cochlea
+- **Frequency coding**: Basilar membrane tonotopy
+- **Auditory pathways**: Cochlea → brainstem → thalamus → auditory cortex
+
+**Somatosensation**:
+
+- **Touch**: Mechanoreceptors (Merkel, Meissner, Pacinian, Ruffini)
+- **Pain**: Nociceptors (fast vs. slow pain)
+- **Temperature**: Thermoreceptors
+- **Pathways**: Dorsal column-medial lemniscus (touch), spinothalamic (pain/temp)
+
+**Chemical senses**:
+
+- **Taste**: Taste buds (sweet, salty, sour, bitter, umami)
+- **Smell**: Olfactory receptors → olfactory bulb
+
+**Vestibular system**: Balance, head position, acceleration
+
+---
+
+## Motor Systems
+
+### Spinal Reflexes
+
+**Reflex arc**: Sensor → afferent neuron → integration → efferent neuron → effector
+
+**Stretch reflex** (monosynaptic): Muscle spindle → muscle contraction
+
+**Withdrawal reflex** (polysynaptic): Pain receptor → flexor contraction, extensor inhibition
+
+### Brain Motor Areas
+
+**Primary motor cortex**: Voluntary movement execution
+
+**Premotor cortex**: Movement planning
+
+**Supplementary motor area**: Complex sequences
+
+**Basal ganglia**: Movement initiation, smoothing
+
+**Cerebellum**: Coordination, timing, motor learning
+
+### Descending Motor Pathways
+
+**Pyramidal (corticospinal)**: Direct cortical control of movement
+
+**Extrapyramidal**: Indirect control via brainstem
+
+**Motor neuron pools**: Alpha motor neurons → skeletal muscle
+
+---
+
+## Neural Basis of Behavior
+
+### Learning and Memory
+
+**Hebbian plasticity**: "Cells that fire together wire together"
+
+**Synaptic plasticity**:
+
+- **Long-term potentiation (LTP)**: Increased synaptic strength (glutamate, NMDA receptors)
+- **Long-term depression (LTD)**: Decreased synaptic strength
+
+**Memory systems**:
+
+- **Declarative (explicit)**: Facts, events (hippocampus-dependent)
+- **Non-declarative (implicit)**: Skills, habits, conditioning
+- **Working memory**: Temporary storage (prefrontal cortex)
+
+### Biological Rhythms
+
+**Circadian rhythms**: ~24-hour cycles (suprachiasmatic nucleus)
+
+**Sleep stages**: REM (rapid eye movement) and NREM (non-REM)
+
+**Sleep functions**: Memory consolidation, neural repair, energy conservation
+
+### Emotion and Motivation
+
+**Limbic system**: Amygdala (emotion), hippocampus (memory), hypothalamus (motivation)
+
+**Reward system**: Dopamine pathways (ventral tegmental area → nucleus accumbens)
+
+### Language and Cognition
+
+**Language areas**: Broca's (production), Wernicke's (comprehension)
+
+**Lateralization**: Left hemisphere (language, logic), right (spatial, emotional)
+
+**Consciousness**: Neural correlates, theories (integrated information, global workspace)
+
+---
+
+## Disorders and Diseases
+
+### Neurodegenerative Diseases
+
+**Alzheimer's disease**: Amyloid plaques, neurofibrillary tangles, memory loss
+
+**Parkinson's disease**: Dopamine neuron loss, movement problems
+
+**Huntington's disease**: Genetic, chorea, cognitive decline
+
+**Amyotrophic lateral sclerosis (ALS)**: Motor neuron degeneration
+
+### Other Disorders
+
+**Stroke**: Ischemic (blockage) or hemorrhagic (bleeding)
+
+**Epilepsy**: Abnormal electrical activity, seizures
+
+**Multiple sclerosis**: Autoimmune demyelination
+
+**Mental health disorders**: Depression, anxiety, schizophrenia (neural correlates)
+
+**Neurodevelopmental disorders**: Autism spectrum, ADHD
+
+---
+
+## Chapter Summary
+
+### Key Concepts
+
+1. **Neurons and glia** form the cellular basis of nervous systems
+2. **Resting potential** results from ion gradients maintained by pumps and channels
+3. **Action potentials** are all-or-none signals propagated along axons
+4. **Synapses** transmit signals chemically or electrically between neurons
+5. **Nervous systems** are organized hierarchically from simple to complex
+6. **Sensory systems** transduce physical and chemical stimuli into neural codes
+7. **Motor systems** generate and control movement through reflexes and voluntary pathways
+8. **Neural plasticity** underlies learning, memory, and adaptation
+9. **Neural disorders** reveal important principles of normal function
+
+### Action Potential Phases
+
+| Phase | Membrane Potential | Na⁺ Channels | K⁺ Channels |
+|-------|-------------------|--------------|-------------|
+| Resting | -70 mV | Closed | Closed |
+| Depolarization | Rising toward +30 mV | Open | Closed |
+| Repolarization | Falling toward -70 mV | Inactivated | Open |
+| After-hyperpolarization | Below -70 mV | Closed | Closing slowly |
+
+### Major Neurotransmitters
+
+| Neurotransmitter | Type | Main Functions | Disorders |
+|------------------|------|---------------|-----------|
+| **Glutamate** | Excitatory amino acid | Learning, memory | Epilepsy, excitotoxicity |
+| **GABA** | Inhibitory amino acid | Reducing neuronal excitability | Anxiety, epilepsy |
+| **Acetylcholine** | Ester | Muscle contraction, learning, attention | Myasthenia gravis, Alzheimer's |
+| **Dopamine** | Biogenic amine | Reward, movement, motivation | Parkinson's, schizophrenia |
+| **Serotonin** | Biogenic amine | Mood, sleep, appetite | Depression, anxiety |
+
+### Brain Regions and Functions
+
+| Region | Main Structures | Primary Functions |
+|--------|----------------|-------------------|
+| **Forebrain** | Cerebral cortex, thalamus, hypothalamus | Cognition, sensation, homeostasis |
+| **Midbrain** | Tectum, tegmentum | Visual/auditory reflexes, motor control |
+| **Hindbrain** | Pons, medulla, cerebellum | Vital functions, coordination, balance |
+| **Spinal Cord** | Gray matter, white matter | Reflexes, pathway to/from brain |
+
+### Sensory Receptor Types
+
+| Stimulus | Receptor Type | Example Locations |
+|----------|---------------|-------------------|
+| **Light** | Photoreceptor | Retina |
+| **Sound** | Mechanoreceptor | Cochlea |
+| **Touch/Pressure** | Mechanoreceptor | Skin |
+| **Temperature** | Thermoreceptor | Skin, hypothalamus |
+| **Chemicals** | Chemoreceptor | Taste buds, olfactory epithelium |
+| **Pain** | Nociceptor | Throughout body |
+
+---
+
+## Review Questions
+
+### Level 1: Recall and Understanding
+
+1. Describe the structural components of a typical neuron and their functions.
+2. What ions are primarily responsible for the resting membrane potential, and how are their gradients maintained?
+3. List the steps in chemical synaptic transmission from action potential arrival to postsynaptic response.
+4. Name the major divisions of the vertebrate nervous system and their general functions.
+5. What are the main differences between ionotropic and metabotropic receptors?
+
+### Level 2: Application and Analysis
+
+6. A neuron has a resting potential of -70 mV. If GABA (which opens Cl⁻ channels) is applied, what happens to the membrane potential? What if glutamate (which opens Na⁺ channels) is applied instead?
+7. Explain why action potentials are said to be "all-or-none" and how intensity of stimulus is encoded in the nervous system.
+8. Trace the neural pathway for a visual stimulus from the retina to the visual cortex.
+9. Compare and contrast the sympathetic and parasympathetic divisions of the autonomic nervous system.
+10. How does myelination increase the speed of action potential conduction, and what disease disrupts this process?
+
+### Level 3: Synthesis and Evaluation
+
+11. Design an experiment to test whether long-term potentiation (LTP) is necessary for a specific type of learning.
+12. Evaluate the hypothesis that consciousness emerges from specific neural circuits rather than being a property of all neural activity.
+13. How might understanding the neural basis of addiction lead to more effective treatments?
+14. Propose a model for how different brain regions might work together to produce a coordinated movement like reaching for an object.
+
+---
+
+## Key Terms
+
+- **Neuron**: Nerve cell specialized for electrical signaling
+- **Action potential**: All-or-none electrical signal propagated along axons
+- **Resting membrane potential**: Voltage difference across membrane at rest (~-70 mV)
+- **Synapse**: Functional connection between neurons
+- **Neurotransmitter**: Chemical messenger released at synapses
+- **Dendrite**: Neuronal process that receives signals
+- **Axon**: Neuronal process that conducts action potentials
+- **Myelin**: Insulating sheath around axons that increases conduction velocity
+- **Neuroglia**: Support cells in nervous system
+- **Ion channel**: Protein pore that allows ions to cross membrane
+- **Sensory receptor**: Specialized cell that transduces stimuli
+- **Reflex**: Automatic response to stimulus
+- **Plasticity**: Ability of nervous system to change
+- **Central nervous system (CNS)**: Brain and spinal cord
+- **Peripheral nervous system (PNS)**: Nerves outside CNS
+- **Cerebral cortex**: Outer layer of cerebrum involved in higher functions
+
+---
+
+## Further Reading
+
+### Books
+1. Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). *Principles of Neural Science* (5th ed.). McGraw-Hill.
+2. Purves, D., Augustine, G. J., Fitzpatrick, D., et al. (2018). *Neuroscience* (6th ed.). Oxford University Press.
+3. Bear, M. F., Connors, B. W., & Paradiso, M. A. (2020). *Neuroscience: Exploring the Brain* (4th ed.). Jones & Bartlett.
+
+### Scientific Articles
+1. Hodgkin, A. L., & Huxley, A. F. (1952). A quantitative description of membrane current and its application to conduction and excitation in nerve. *Journal of Physiology*, 117(4), 500-544.
+2. Hebb, D. O. (1949). *The Organization of Behavior: A Neuropsychological Theory*. Wiley.
+3. Bliss, T. V., & Lømo, T. (1973). Long-lasting potentiation of synaptic transmission in the dentate area of the anaesthetized rabbit following stimulation of the perforant path. *Journal of Physiology*, 232(2), 331-356.
+
+### Online Resources
+1. Neurotree: Academic genealogy of neuroscientists: https://neurotree.org
+2. Brain Facts (Society for Neuroscience): https://www.brainfacts.org
+3. Neuropod (Nature podcast): https://www.nature.com/neuropod
+4. Allen Brain Atlas: https://portal.brain-map.org
+
+---
+
+## Quantitative Problems
+
+1. **Resting Potential Calculation**:
+   Given: [K⁺]in = 150 mM, [K⁺]out = 5 mM, [Na⁺]in = 15 mM, [Na⁺]out = 150 mM, [Cl⁻]in = 10 mM, [Cl⁻]out = 125 mM
+   Relative permeabilities: PK:PNa:PCl = 1:0.05:0.5
+   Temperature = 37°C
+   a) Calculate the Nernst potential for each ion.
+   b) Use the Goldman-Hodgkin-Katz equation to calculate the resting membrane potential.
+
+2. **Synaptic Integration**:
+   A neuron receives three synaptic inputs:
+   - Input A: EPSP of 5 mV (10 ms duration)
+   - Input B: EPSP of 8 mV (15 ms after A starts)
+   - Input C: IPSP of 4 mV (5 ms after B starts)
+   The neuron's resting potential is -65 mV, threshold is -55 mV.
+   a) Plot the membrane potential over time.
+   b) Does the neuron reach threshold? Why or why not?
+   c) What would happen if Input C occurred 25 ms after A instead?
+
+3. **Action Potential Propagation**:
+   An unmyelinated axon has a conduction velocity of 1 m/s.
+   A myelinated axon of the same diameter conducts at 50 m/s.
+   a) How long does it take for a signal to travel 1 meter in each axon?
+   b) If a reflex requires signals to travel 0.5 m to spinal cord and back, what's the minimum total time for each axon type?
+   c) Multiple sclerosis demyelinates axons, reducing conduction velocity to 10% of normal. How would this affect the reflex time?
+
+---
+
+## Case Study: Phantom Limb Sensations
+
+**Background**: After amputation, many patients experience sensations (including pain) in the missing limb. This phenomenon reveals important principles of neural organization and plasticity.
+
+**Questions**:
+
+1. How does the somatosensory cortex normally represent different body parts?
+2. What neural changes might explain phantom limb sensations?
+3. How has mirror therapy been used to treat phantom limb pain?
+4. What does this case reveal about the relationship between neural maps and subjective experience?
+5. How might this knowledge inform rehabilitation after nerve damage or spinal cord injury?
+
+**Data for analysis**:
+
+- **Cortical reorganization**: Adjacent areas expand into territory of missing limb
+- **Mirror neurons**: Fire when performing or observing actions
+- **Treatment efficacy**: Mirror therapy reduces pain in ~60% of patients
+- **fMRI studies**: Show changes in cortical activation patterns
+
+---
+
+*Next Chapter: [Developmental Biology and Morphogenesis](20-developmental-biology.qmd)*

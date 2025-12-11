@@ -1,0 +1,132 @@
+# Part V Organismal & Systems Biology {.unnumbered}
+
+## Introduction to Organismal Biology and Systems
+
+Having explored the fundamental processes of life at molecular, cellular, and evolutionary scales, we now turn our attention to how these components integrate to form functional organisms and how organisms interact within ecological systems. This part examines biology at the whole-organism level, focusing on how complex systems emerge from the interaction of simpler components. We will explore how organisms function as integrated systems, how they develop from single cells, how they defend themselves, how their nervous systems process information, and how they interact with their environments and each other.
+
+### From Molecules to Organisms
+
+Organismal biology represents the synthesis of knowledge from previous parts:
+
+- **From Part I**: Energy and information principles at organismal scale
+- **From Part II**: Cellular processes integrated into tissues and organs
+- **From Part III**: Genetic programs directing development and function
+- **From Part IV**: Evolutionary adaptations shaping organismal design
+- **To Part VI**: Applications and frontiers building on this foundation
+
+### The Systems Approach
+
+Modern organismal biology increasingly adopts a **systems perspective**:
+
+- **Integration**: Understanding how parts work together
+- **Emergence**: Properties that arise from interactions
+- **Robustness**: Systems that function despite perturbations
+- **Trade-offs**: Optimization for multiple functions
+- **Scale**: From molecular networks to ecological systems
+
+### Organization of Part V
+
+This part examines key biological systems at the organismal level:
+
+**Chapter 17: Ecology and Ecosystems**  
+Explores how organisms interact with each other and their environment, forming complex ecological systems.
+
+**Chapter 18: Immunology and Defense Systems**  
+Examines how organisms protect themselves from pathogens and maintain internal integrity.
+
+**Chapter 19: Neurobiology and Information Processing**  
+Investigates how nervous systems collect, process, and respond to information.
+
+**Chapter 20: Developmental Biology and Morphogenesis**  
+Explores how complex organisms develop from single cells through regulated genetic programs.
+
+### Key Themes in Organismal Biology
+
+1. **Structure-Function Relationships**: How anatomy enables physiology
+2. **Homeostasis**: Maintenance of internal stability
+3. **Adaptation**: Traits that enhance survival and reproduction
+4. **Integration**: Coordination among systems
+5. **Trade-offs**: Balancing competing demands
+
+### Levels of Biological Organization
+
+This part connects multiple organizational levels:
+
+- **Molecules → Cells → Tissues → Organs → Organ Systems → Organisms**
+- **Organisms → Populations → Communities → Ecosystems → Biosphere**
+
+Understanding these connections is essential for:
+
+- **Medicine**: Treating whole patients, not just diseases
+- **Conservation**: Protecting species and ecosystems
+- **Agriculture**: Improving crop and livestock systems
+- **Biotechnology**: Engineering biological systems
+
+### The Organism as an Integrated System
+
+Consider these remarkable integrations:
+
+- **Circulatory system**: Delivers oxygen (respiratory), nutrients (digestive), hormones (endocrine), immune cells (immune)
+- **Nervous system**: Coordinates movement (muscular), receives sensory input (sensory), regulates internal functions (autonomic)
+- **Endocrine system**: Communicates via hormones, interacts with nervous system (neuroendocrine)
+- **Immune system**: Distinguishes self from non-self, interacts with all other systems
+
+### Learning Objectives for Part V
+
+By completing this part, you should be able to:
+
+1. Analyze ecological interactions and energy flow through ecosystems
+2. Explain how immune systems protect organisms from pathogens
+3. Describe how nervous systems process information and control behavior
+4. Trace developmental processes from fertilization to adult organism
+5. Apply systems thinking to understand biological complexity
+6. Analyze trade-offs and adaptations in organismal design
+7. Connect molecular mechanisms to organismal functions
+8. Apply organismal biology principles to real-world problems
+
+### Scale and Complexity
+
+Organismal biology spans tremendous scales:
+
+- **Size**: From microscopic rotifers to blue whales
+- **Lifespan**: From mayflies (24 hours) to bristlecone pines (5,000+ years)
+- **Complexity**: From sponges (no tissues) to mammals (complex organ systems)
+- **Behavior**: From tropisms in plants to culture in humans
+
+### The Importance of Comparative Biology
+
+**Comparative approach**: Studying different organisms to understand:
+
+- **Unity**: Common solutions to biological problems
+- **Diversity**: Different adaptations to different challenges
+- **Evolution**: How traits evolve and diversify
+
+**Model organisms** (e.g., Drosophila, C. elegans, zebrafish, mouse):
+
+- Reveal general principles
+- Allow experimental manipulation
+- Provide insights into human biology
+
+### How to Approach This Part
+
+1. **Think integratively**: Consider how systems work together
+2. **Consider trade-offs**: Organisms balance competing demands
+3. **Appreciate diversity**: Different solutions to similar problems
+4. **Connect scales**: Link molecules to organisms to ecosystems
+5. **Apply principles**: Use biological knowledge to solve problems
+
+As you explore these chapters, remember that organismal biology represents the culmination of biological organization—the point where molecules, cells, and genes come together to create the remarkable diversity of life that inhabits our planet.
+
+---
+
+## Key Concepts to Carry Forward
+
+- **Integration**: Systems working together create emergent properties
+- **Homeostasis**: Maintenance of internal stability despite external change
+- **Adaptation**: Traits shaped by natural selection for specific functions
+- **Trade-offs**: Optimization requires balancing competing demands
+- **Scale**: Biological processes operate across multiple spatial and temporal scales
+
+---
+
+*Begin with [Chapter 17: Ecology and Ecosystems](17-ecology.qmd)*

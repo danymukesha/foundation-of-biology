@@ -1,0 +1,638 @@
+---
+title: "Ecology and Ecosystems"
+---
+
+## Learning Objectives
+
+By the end of this chapter, you should be able to:
+
+1. Define ecology and distinguish between different levels of ecological organization
+2. Explain how abiotic factors influence the distribution and abundance of organisms
+3. Analyze population growth models and factors regulating population size
+4. Describe different types of species interactions and their ecological consequences
+5. Trace energy flow and nutrient cycling through ecosystems
+6. Explain patterns of biodiversity and factors affecting community structure
+7. Analyze human impacts on ecosystems and conservation strategies
+8. Apply ecological principles to real-world environmental problems
+
+## Introduction
+
+Ecology is the scientific study of interactions between organisms and their environment. This chapter explores how living organisms interact with each other and with their physical surroundings, from individual populations to entire ecosystems. Understanding ecology is essential for addressing pressing environmental challenges such as climate change, biodiversity loss, and sustainable resource management. Ecology connects the biological principles from previous chapters to the larger scale of populations, communities, and ecosystems, showing how energy and information flow through living systems at planetary scales.
+
+---
+
+## Introduction to Ecology
+
+### Defining Ecology
+
+**Ecology**: Scientific study of interactions between organisms and their environment
+
+**Ernst Haeckel** (1866): Coined term "ecology" (oikos = house, logos = study)
+
+### Levels of Ecological Organization
+
+1. **Organismal ecology**: How individuals interact with environment
+2. **Population ecology**: Dynamics of populations
+3. **Community ecology**: Interactions among species
+4. **Ecosystem ecology**: Energy flow and nutrient cycling
+5. **Landscape ecology**: Patterns across multiple ecosystems
+6. **Global ecology**: Biosphere-level processes
+
+### Ecological Questions
+
+**Distribution**: Where organisms occur and why
+
+**Abundance**: How many organisms and why
+
+**Interactions**: How organisms affect each other
+
+**Energy flow**: How energy moves through systems
+
+**Nutrient cycling**: How elements are recycled
+
+### Historical Development
+
+**Early naturalists**: Linnaeus, Darwin, Wallace
+
+**20th century**: Quantitative approaches, systems thinking
+
+**Modern era**: Global change ecology, conservation biology
+
+---
+
+## The Physical Environment
+
+### Climate and Weather
+
+**Climate**: Long-term patterns of temperature, precipitation
+
+**Weather**: Short-term atmospheric conditions
+
+**Factors determining climate**:
+1. **Solar radiation**: Latitude, season
+2. **Atmospheric circulation**: Hadley, Ferrel, Polar cells
+3. **Ocean currents**: Heat distribution
+4. **Topography**: Rain shadows, elevation effects
+5. **Continental position**
+
+### Biomes
+
+**Definition**: Major ecological communities determined by climate
+
+**Terrestrial biomes**:
+
+- **Tropical forest**: High rainfall, high biodiversity
+- **Savanna**: Seasonal rainfall, grasses with trees
+- **Desert**: Low precipitation, specialized adaptations
+- **Chaparral**: Mediterranean climate, fire-adapted
+- **Temperate grassland**: Moderate rainfall, fertile soils
+- **Temperate forest**: Seasonal, deciduous/coniferous
+- **Boreal forest (taiga)**: Cold, coniferous
+- **Tundra**: Permafrost, low vegetation
+
+**Aquatic biomes**:
+
+- **Freshwater**: Lakes, rivers, wetlands
+- **Marine**: Ocean zones (intertidal, neritic, oceanic, benthic)
+
+### Abiotic Factors
+
+**Temperature**: Affects metabolism, distribution
+
+**Water availability**: Critical for all life
+
+**Sunlight**: Energy for photosynthesis, behavior
+
+**Wind**: Dispersal, evaporation, structure
+
+**Soil characteristics**: Texture, pH, nutrients
+
+**Disturbance**: Fire, storms, floods
+
+### Physiological Ecology
+
+**Adaptations to environment**:
+
+- **Temperature regulation**: Endothermy vs. ectothermy
+- **Water balance**: Osmoregulation, water conservation
+- **Energy acquisition**: Photosynthesis, chemosynthesis
+
+**Tolerance ranges**: Organisms have limits for each factor
+
+**Liebig's Law of the Minimum**: Growth limited by scarcest resource
+
+---
+
+## Population Ecology
+
+### Population Characteristics
+
+**Population**: Group of same species in same area
+
+**Density**: Number per unit area
+
+**Dispersion**: Spatial pattern (clumped, uniform, random)
+
+**Demography**: Study of population dynamics
+
+### Population Growth Models
+
+**Exponential growth**: Unlimited resources
+
+- dN/dt = rN
+- N: Population size
+- r: Per capita growth rate
+- **J-shaped curve**
+
+**Logistic growth**: Limited resources
+
+- dN/dt = rN(1 - N/K)
+- K: Carrying capacity
+- **S-shaped (sigmoid) curve**
+
+**Factors affecting growth**:
+
+- **Density-dependent**: Competition, predation, disease
+- **Density-independent**: Weather, natural disasters
+
+### Life Tables and Survivorship
+
+**Life table**: Age-specific survival and reproduction
+
+**Survivorship curves**:
+
+- **Type I**: High survival until old age (humans, large mammals)
+- **Type II**: Constant mortality (birds, rodents)
+- **Type III**: High early mortality (plants, marine invertebrates)
+
+**Reproductive strategies**:
+
+- **r-selected**: Many offspring, little care (opportunists)
+- **K-selected**: Few offspring, much care (competitors)
+
+### Population Regulation
+
+**Top-down control**: Predation, herbivory
+
+**Bottom-up control**: Resource limitation
+
+**Metapopulations**: Linked populations in patchy habitat
+
+- **Source-sink dynamics**: Some patches produce excess individuals
+
+**Human population growth**:
+
+- **Current**: ∼8 billion
+- **Growth rate**: Slowing but still positive
+- **Demographic transition**: High birth/death → low birth/death
+
+---
+
+## Community Ecology
+
+### Species Interactions
+
+**Competition** (-/-):
+
+- **Intraspecific**: Within same species
+- **Interspecific**: Between different species
+- **Competitive exclusion**: One species outcompetes another
+- **Resource partitioning**: Different use of resources
+- **Character displacement**: Evolution of differences
+
+**Predation** (+/-):
+
+- **True predators**: Kill prey immediately
+- **Herbivores**: Eat part of plant
+- **Parasites**: Live on/in host
+- **Parasitoids**: Lay eggs in host, larvae kill host
+
+**Defenses against predation**:
+
+- **Cryptic coloration**: Camouflage
+- **Aposematic coloration**: Warning colors
+- **Mimicry**: Batesian (harmless mimics harmful), Müllerian (harmful mimic each other)
+
+**Mutualism** (+/+):
+
+- **Obligate**: Required for survival
+- **Facultative**: Beneficial but not required
+- **Examples**: Pollination, mycorrhizae, nitrogen-fixing bacteria
+
+**Commensalism** (+/0):
+
+- One benefits, other unaffected
+- **Examples**: Epiphytes on trees, barnacles on whales
+
+**Amensalism** (0/-):
+
+- One harmed, other unaffected
+- **Examples**: Allelopathy, trampling
+
+### Community Structure
+
+**Species richness**: Number of species
+
+**Species evenness**: Relative abundance
+
+**Diversity indices**: Shannon, Simpson
+
+**Keystone species**: Disproportionate effect on community
+
+**Ecosystem engineers**: Modify environment (beavers, corals)
+
+**Succession**: Change in community composition over time
+
+- **Primary**: On new substrate (rock, lava)
+- **Secondary**: After disturbance (fire, clear-cut)
+- **Pioneer species**: Early colonists
+- **Climax community**: Stable endpoint
+
+**Disturbance**: Event that changes community
+
+- **Intermediate disturbance hypothesis**: Max diversity at intermediate disturbance
+
+### Food Webs and Trophic Structure
+
+**Trophic levels**:
+
+1. **Primary producers**: Autotrophs
+2. **Primary consumers**: Herbivores
+3. **Secondary consumers**: Carnivores
+4. **Tertiary consumers**: Top carnivores
+5. **Decomposers/detritivores**: Break down dead matter
+
+**Energy transfer efficiency**: ∼10% between levels
+
+- **Explanation**: Heat loss, incomplete digestion, metabolic costs
+- **Consequences**: Limits food chain length (typically 4-5 levels)
+
+**Biomass pyramids**: Usually upright, but can be inverted (aquatic)
+
+---
+
+## Ecosystem Ecology
+
+### Energy Flow
+
+**Primary production**: Energy captured by autotrophs
+
+- **Gross primary production (GPP)**: Total energy fixed
+- **Net primary production (NPP)**: GPP minus respiration
+- **Global patterns**: Highest in tropics, coastal zones
+
+**Secondary production**: Energy in consumer biomass
+
+**Ecological efficiency**: Energy transfer between trophic levels
+
+**Productivity measurements**:
+
+- **Biomass**: Dry weight per area
+- **Turnover rate**: How quickly biomass is replaced
+
+### Nutrient Cycling
+
+**Biogeochemical cycles**: Movement of elements between living and non-living
+
+**Reservoirs**: Where elements are stored
+
+**Fluxes**: Movement between reservoirs
+
+**Major cycles**:
+
+1. **Water cycle**: Evaporation, precipitation, transpiration
+2. **Carbon cycle**: Photosynthesis, respiration, combustion, ocean uptake
+3. **Nitrogen cycle**: Fixation, nitrification, denitrification, ammonification
+4. **Phosphorus cycle**: Weathering, sedimentation, no gaseous phase
+5. **Sulfur cycle**: Volcanic emissions, bacterial transformations
+
+**Human impacts**: Accelerated cycling, pollution
+
+### Ecosystem Services
+
+**Categories**:
+
+1. **Provisioning**: Food, water, timber, fiber
+2. **Regulating**: Climate, flood control, water purification
+3. **Cultural**: Recreation, aesthetic, spiritual
+4. **Supporting**: Nutrient cycling, soil formation, primary production
+
+**Economic value**: Estimated $125 trillion/year globally
+
+---
+
+## Landscape and Global Ecology
+
+### Landscape Ecology
+
+**Study of**: Spatial patterns and processes across large areas
+
+**Patches**: Discrete areas of habitat
+
+**Corridors**: Strips connecting patches
+
+**Matrix**: Dominant habitat type
+
+**Edge effects**: Differences between edge and interior
+
+**Habitat fragmentation**: Breaking continuous habitat into patches
+
+- **Consequences**: Reduced area, increased edge, isolation
+
+### Biogeography
+
+**Study of**: Geographic distribution of species
+
+**Island biogeography theory** (MacArthur & Wilson):
+
+- **Species richness** increases with island size
+- **Decreases** with distance from mainland
+- **Equilibrium** between immigration and extinction
+
+**Continental drift**: Explains distribution patterns
+
+**Dispersal**: Movement to new areas
+
+**Vicariance**: Geographical separation
+
+### Global Change Ecology
+
+**Climate change**:
+
+- **Causes**: Greenhouse gas increase, land use change
+- **Effects**: Temperature rise, sea level, precipitation changes, phenology shifts
+
+**Biodiversity loss**:
+
+- **Current extinction rate**: 100-1000× background
+- **Causes**: Habitat loss, climate change, invasive species, overexploitation, pollution
+
+**Nitrogen cycle disruption**: Fertilizer use → eutrophication
+
+**Ocean acidification**: CO₂ absorption → pH decrease
+
+---
+
+## Conservation Biology
+
+### Biodiversity Crisis
+
+**Estimates**: 8.7 million eukaryotic species, 1.5 million described
+
+**Threats**: Habitat loss (greatest threat), climate change, invasive species
+
+**Hotspots**: Areas with high endemism and threat
+
+### Conservation Strategies
+
+**Protected areas**: Parks, reserves, marine protected areas
+
+**Restoration ecology**: Reestablishing degraded ecosystems
+
+**Species-focused conservation**:
+
+- **Captive breeding**: For reintroduction
+- **Genetic rescue**: Increasing genetic diversity
+- **Conservation genetics**: Managing small populations
+
+**Ecosystem management**: Considering whole systems
+
+**Sustainable use**: Balancing human needs and conservation
+
+### Ethical Foundations
+
+**Instrumental value**: Useful to humans
+
+**Intrinsic value**: Value independent of human use
+
+**Stewardship**: Responsibility to care for nature
+
+**Intergenerational equity**: Future generations' rights
+
+### Success Stories
+
+**Bald eagle**: DDT ban, habitat protection
+
+**California condor**: Captive breeding, reintroduction
+
+**Gray whale**: International protection
+
+**Yellowstone wolves**: Reintroduction, trophic cascade effects
+
+---
+
+## Applied Ecology
+
+### Resource Management
+
+**Fisheries**: Maximum sustainable yield, aquaculture
+
+**Forestry**: Sustainable harvest, certification
+
+**Agriculture**: Integrated pest management, organic farming
+
+**Water resources**: Watershed management, wetlands protection
+
+### Environmental Problem-Solving
+
+**Pollution control**: Bioremediation, phytoremediation
+
+**Invasive species management**: Prevention, control, eradication
+
+**Climate change mitigation**: Carbon sequestration, renewable energy
+
+**Urban ecology**: Green infrastructure, sustainable cities
+
+### Ecological Economics
+
+**Valuing ecosystem services**
+
+**Cost-benefit analysis** of environmental policies
+
+**Payment for ecosystem services** (PES): Compensating conservation
+
+
+### Citizen Science and Education
+
+**Public participation** in data collection
+
+**Environmental education**: Building ecological literacy
+
+**Policy engagement**: Science-informed decision making
+
+---
+
+## Chapter Summary
+
+### Key Concepts
+
+1. **Ecology**: Study of organism-environment interactions at multiple scales
+2. **Physical environment**: Climate, biomes, abiotic factors influence distributions
+3. **Population ecology**: Growth models, regulation, life history strategies
+4. **Community ecology**: Species interactions, diversity, succession
+5. **Ecosystem ecology**: Energy flow, nutrient cycling, productivity
+6. **Landscape/global ecology**: Spatial patterns, biogeography, global change
+7. **Conservation biology**: Biodiversity protection, sustainable management
+8. **Applied ecology**: Solving environmental problems, managing resources
+
+### Population Growth Models
+
+| Model | Equation | Assumptions | Pattern |
+|-------|----------|-------------|---------|
+| **Exponential** | dN/dt = rN | Unlimited resources | J-shaped |
+| **Logistic** | dN/dt = rN(1-N/K) | Limited resources | S-shaped |
+
+### Species Interactions
+
+| Type | Effect on Species 1 | Effect on Species 2 | Example |
+|------|---------------------|---------------------|---------|
+| **Competition** | - | - | Lions and hyenas |
+| **Predation** | + | - | Wolf and deer |
+| **Mutualism** | + | + | Bee and flower |
+| **Commensalism** | + | 0 | Barnacle and whale |
+| **Amensalism** | 0 | - | Walnut tree and other plants |
+
+### Energy Transfer Efficiency
+
+| Trophic Level | Energy Available (kcal/m²/yr) | % Transfer |
+|---------------|-------------------------------|------------|
+| **Producers** | 20,000 | - |
+| **Primary consumers** | 2,000 | 10% |
+| **Secondary consumers** | 200 | 10% |
+| **Tertiary consumers** | 20 | 10% |
+
+### Major Biogeochemical Cycles
+
+| Cycle | Key Processes | Human Impacts |
+|-------|---------------|---------------|
+| **Carbon** | Photosynthesis, respiration, combustion | CO₂ increase, climate change |
+| **Nitrogen** | Fixation, nitrification, denitrification | Fertilizer runoff, eutrophication |
+| **Phosphorus** | Weathering, sedimentation | Mining, fertilizer use |
+| **Water** | Evaporation, precipitation, transpiration | Dams, irrigation, climate change |
+
+### Conservation Status Categories (IUCN)
+
+| Category | Criteria | Example |
+|----------|----------|---------|
+| **Extinct** | No individuals remain | Dodo |
+| **Critically Endangered** | Extreme risk of extinction | Sumatran rhino |
+| **Endangered** | Very high risk | Tiger |
+| **Vulnerable** | High risk | Polar bear |
+| **Near Threatened** | Close to qualifying | Emperor penguin |
+| **Least Concern** | Widespread, abundant | House sparrow |
+
+---
+
+## Review Questions
+
+### Level 1: Recall and Understanding
+
+1. Define ecology and list the different levels of ecological organization.
+2. What are the main abiotic factors that influence the distribution of organisms?
+3. Compare exponential and logistic population growth models.
+4. List and define five types of species interactions.
+5. What is the 10% rule in energy transfer between trophic levels?
+
+### Level 2: Application and Analysis
+
+6. A population of 1000 birds has a per capita growth rate of 0.1 per year. What will be the population size after one year if resources are unlimited? If carrying capacity is 2000?
+7. Explain why food chains are typically limited to 4-5 trophic levels.
+8. How does the intermediate disturbance hypothesis explain patterns of species diversity?
+9. Trace a carbon atom from the atmosphere through photosynthesis, consumption, respiration, and back to the atmosphere.
+10. Why are invasive species often so successful in new environments?
+
+### Level 3: Synthesis and Evaluation
+
+11. Evaluate the statement: "Human population growth is the root cause of all environmental problems."
+12. How does island biogeography theory inform conservation planning for habitat fragments?
+13. Design an experiment to test the competitive exclusion principle using two species of microorganisms.
+14. Propose a comprehensive conservation strategy for an endangered species considering both ecological and socioeconomic factors.
+
+---
+
+## Key Terms
+
+- **Ecology**: Scientific study of interactions between organisms and their environment
+- **Population**: Group of individuals of the same species living in the same area
+- **Community**: All populations of different species living in a particular area
+- **Ecosystem**: Community of organisms plus their physical environment
+- **Biome**: Major ecological community type determined by climate
+- **Carrying capacity (K)**: Maximum population size an environment can sustain
+- **Competition**: Interaction between organisms for limited resources
+- **Predation**: Interaction where one organism kills and eats another
+- **Mutualism**: Interaction where both species benefit
+- **Succession**: Process of community change over time
+- **Food web**: Network of feeding relationships in an ecosystem
+- **Trophic level**: Position in a food chain determined by number of energy transfers
+- **Primary production**: Rate at which energy is converted to organic compounds
+- **Biogeochemical cycle**: Movement of elements between living and non-living components
+- **Biodiversity**: Variety of life at all levels of organization
+- **Conservation biology**: Scientific study of biodiversity protection
+
+---
+
+## Further Reading
+
+### Books
+1. Begon, M., Townsend, C. R., & Harper, J. L. (2014). *Ecology: From Individuals to Ecosystems* (5th ed.). Wiley-Blackwell.
+2. Odum, E. P., & Barrett, G. W. (2005). *Fundamentals of Ecology* (5th ed.). Brooks/Cole.
+3. Wilson, E. O. (1992). *The Diversity of Life*. Harvard University Press.
+
+### Scientific Articles
+1. Hutchinson, G. E. (1957). Concluding remarks. *Cold Spring Harbor Symposia on Quantitative Biology*, 22, 415-427.
+2. MacArthur, R. H., & Wilson, E. O. (1967). *The Theory of Island Biogeography*. Princeton University Press.
+3. Vitousek, P. M., et al. (1997). Human domination of Earth's ecosystems. *Science*, 277(5325), 494-499.
+
+### Online Resources
+1. Encyclopedia of Life: https://eol.org
+2. IUCN Red List: https://www.iucnredlist.org
+3. NASA Earth Observatory: https://earthobservatory.nasa.gov
+4. Ecological Society of America: https://www.esa.org
+
+---
+
+## Quantitative Problems
+
+1. **Population Growth**:
+   A population of rabbits starts with 100 individuals and has an intrinsic growth rate r = 0.5 per year.
+   a) Calculate population size after 5 years with exponential growth.
+   b) If carrying capacity K = 1000, calculate population size after 5 years with logistic growth.
+   c) At what population size is growth rate maximized in logistic model?
+
+2. **Energy Flow**:
+   An ecosystem has primary production of 10,000 kcal/m²/yr.
+   a) How much energy is available to primary consumers? Secondary consumers?
+   b) If humans eat at the secondary consumer level, how many people could be supported per km² if each needs 2000 kcal/day?
+   c) What if humans eat at the primary consumer level?
+
+3. **Island Biogeography**:
+   For an island 100 km from mainland, immigration rate I = 10 - 0.1S, extinction rate E = 0.05S.
+   a) What is equilibrium species richness?
+   b) If island area doubles, extinction becomes E = 0.025S. New equilibrium?
+   c) If a bridge is built, immigration becomes I = 15 - 0.1S. New equilibrium?
+
+---
+
+## Case Study: Yellowstone Wolf Reintroduction
+
+**Background**: Wolves were reintroduced to Yellowstone National Park in 1995 after being absent for 70 years.
+
+**Questions**:
+
+1. How did wolf reintroduction trigger a trophic cascade?
+2. What changes occurred in elk behavior and vegetation?
+3. How did other species (beavers, songbirds, scavengers) benefit?
+4. What does this case study teach us about ecosystem management?
+5. What are the socioeconomic implications (tourism, livestock)?
+
+**Data for analysis**:
+
+- Wolf population: From 0 to ∼100 in 20 years
+- Elk population: Decreased from ∼20,000 to ∼5,000
+- Aspen recruitment: Increased where wolves present
+- Beaver colonies: Increased from 1 to 12
+- Scavengers: More stable food supply from wolf kills
+
+---
+
+*Next Chapter: [Immunology and Defense Systems](18-immunology.qmd)*

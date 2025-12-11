@@ -50,12 +50,13 @@ book:
         - content/04-evolution/15-phylogenetics.qmd
         - content/04-evolution/16-human-evolution.qmd
 
-    # - part: "V: Organismal & Systems Biology"
-    #   chapters:
-    #     - content/05-systems/17-ecology.qmd
-    #     - content/05-systems/18-immunology.qmd
-    #     - content/05-systems/19-neurobiology.qmd
-    #     - content/05-systems/20-developmental-biology.qmd
+    - part: "V: Organismal & Systems Biology"
+      chapters:
+        - content/05-systems/index.qmd
+        - content/05-systems/17-ecology.qmd
+        - content/05-systems/18-immunology.qmd
+        - content/05-systems/19-neurobiology.qmd
+        - content/05-systems/20-developmental-biology.qmd 
     # 
     # - part: "VI: Frontiers in Biology"
     #   chapters:

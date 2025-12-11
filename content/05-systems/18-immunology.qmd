@@ -1,0 +1,661 @@
+---
+title: "Immunology and Defense Systems"
+---
+
+## Learning Objectives
+
+By the end of this chapter, you should be able to:
+
+1. Describe the three lines of defense against pathogens and how they interact
+2. Distinguish between innate and adaptive immunity and their components
+3. Explain how the lymphatic system supports immune function
+4. Describe how B cells and T cells recognize antigens and mount immune responses
+5. Explain the mechanisms of immunological memory and vaccination
+6. Analyze how immune system malfunctions lead to autoimmune diseases, allergies, and immunodeficiencies
+7. Describe how the immune system interacts with other body systems
+8. Apply immunological principles to understand infectious diseases, cancer, and transplantation
+
+## Introduction
+
+The immune system is the body's defense network against pathogens, cancer cells, and other threats. This remarkable system can distinguish self from non-self, remember past infections, and mount targeted responses while maintaining tolerance to the body's own tissues. Understanding immunology is essential for combating infectious diseases, developing vaccines, treating autoimmune disorders, and advancing cancer therapies. This chapter explores how the immune system protects us while maintaining the delicate balance required for health.
+
+---
+
+## Overview of Host Defenses
+
+### Three Lines of Defense
+
+**First line**: Physical and chemical barriers
+
+- **Skin**: Physical barrier, acidic pH, antimicrobial peptides
+- **Mucous membranes**: Mucus trapping, ciliary clearance
+- **Chemical barriers**: Stomach acid, lysozyme, defensins
+
+**Second line**: Innate immunity
+
+- **Cells**: Phagocytes, natural killer cells
+- **Proteins**: Complement, interferons, acute phase proteins
+- **Processes**: Inflammation, fever
+
+**Third line**: Adaptive immunity
+
+- **Cells**: B lymphocytes, T lymphocytes
+- **Features**: Specificity, memory, self-tolerance
+
+### Pathogens and Threats
+
+**Types of pathogens**:
+
+- **Bacteria**: Prokaryotes (tuberculosis, strep throat)
+- **Viruses**: Require host cells (influenza, HIV)
+- **Fungi**: Eukaryotes (candida, athlete's foot)
+- **Parasites**: Protozoa (malaria), helminths (tapeworms)
+- **Prions**: Misfolded proteins (mad cow disease)
+
+**Other threats**: Cancer cells, transplanted tissues, allergens
+
+### Lymphatic System
+
+**Components**:
+
+- **Lymph**: Fluid similar to plasma
+- **Lymph vessels**: Transport lymph
+- **Lymph nodes**: Filter lymph, contain immune cells
+- **Spleen**: Filters blood
+- **Thymus**: T cell maturation
+- **Tonsils/adenoids**: Protect respiratory/digestive entry
+- **Peyer's patches**: In intestinal wall
+
+**Functions**: Immune cell transport, antigen presentation, fluid balance
+
+---
+
+## Innate Immunity
+
+### Characteristics
+
+**Present from birth**: No prior exposure needed
+
+**Rapid response**: Minutes to hours
+
+**No memory**: Same response each time
+
+**Limited specificity**: Recognizes patterns
+
+### Cellular Components
+
+**Phagocytes**: Engulf and destroy pathogens
+
+- **Neutrophils**: Most abundant, first responders
+- **Macrophages**: Tissue-resident, antigen presentation
+- **Dendritic cells**: Best antigen presenters
+
+**Natural killer (NK) cells**: Kill virus-infected and cancer cells
+
+- **Mechanism**: Release perforins and granzymes
+- **Recognition**: Missing self (lack of MHC I)
+
+**Mast cells**: Release histamine in inflammation
+**Basophils/Eosinophils**: Attack parasites, allergic responses
+
+### Molecular Components
+
+**Complement system**: >30 proteins that enhance immunity
+
+- **Pathways**: Classical, alternative, lectin
+- **Functions**: Opsonization, inflammation, membrane attack
+
+**Interferons**: Antiviral proteins (α, β, γ)
+
+**Acute phase proteins**: CRP, fibrinogen (increase during infection)
+
+**Cytokines**: Chemical messengers (interleukins, chemokines)
+
+### Inflammatory Response
+
+**Cardinal signs**: Redness, heat, swelling, pain, loss of function
+
+**Steps**:
+
+1. **Recognition**: Pathogen-associated molecular patterns (PAMPs)
+2. **Vasodilation**: Increased blood flow
+3. **Increased permeability**: Leakage of fluid and proteins
+4. **Phagocyte migration**: Chemotaxis to site
+5. **Phagocytosis**: Engulfment and destruction
+6. **Tissue repair**: Resolution phase
+
+**Fever**: Elevated body temperature
+
+- **Benefits**: Inhibits pathogen growth, enhances immune responses
+
+- **Pyrogens**: Substances that cause fever
+
+---
+
+## Adaptive Immunity
+
+### Characteristics
+
+**Specificity**: Recognizes specific antigens
+
+**Memory**: Faster, stronger response upon re-exposure
+
+**Self-tolerance**: Normally doesn't attack self
+
+**Requires prior exposure**: Initial response takes days
+
+### Antigens and Epitopes
+
+**Antigen**: Substance that elicits immune response
+
+**Epitope**: Specific part of antigen recognized
+
+**Hapten**: Small molecule that becomes antigenic when attached to carrier
+
+### Major Histocompatibility Complex (MHC)
+
+**MHC class I**: Present on all nucleated cells
+
+- **Presents**: Endogenous antigens (viral proteins, tumor antigens)
+- **Recognized by**: CD8+ T cells
+
+**MHC class II**: Present on antigen-presenting cells (APCs)
+
+- **Presents**: Exogenous antigens (bacterial proteins)
+- **Recognized by**: CD4+ T cells
+
+**MHC polymorphism**: Many alleles in population → diverse recognition
+
+### B Lymphocytes (Humoral Immunity)
+
+**Development**: Bone marrow
+
+**Maturation**: Bone marrow (mammals), bursa (birds)
+
+**Antigen receptor**: B cell receptor (BCR) = membrane-bound antibody
+
+**Activation**:
+1. **Antigen binding** to BCR
+2. **T helper cell help** (for protein antigens)
+3. **Differentiation**: Into plasma cells and memory B cells
+
+**Antibody structure**:
+
+- **Heavy and light chains**: Constant and variable regions
+- **Fab**: Antigen-binding fragment
+- **Fc**: Constant fragment (determines class)
+
+**Antibody classes**:
+
+- **IgM**: First response, pentamer
+- **IgG**: Most abundant, crosses placenta
+- **IgA**: Secretions (mucus, milk)
+- **IgE**: Allergies, parasites
+- **IgD**: B cell receptor
+
+**Antibody functions**:
+
+- **Neutralization**: Blocks binding sites
+- **Opsonization**: Enhances phagocytosis
+- **Complement activation**: Classical pathway
+- **ADCC**: Antibody-dependent cellular cytotoxicity
+
+### T Lymphocytes (Cell-mediated Immunity)
+
+**Development**: Bone marrow
+
+**Maturation**: Thymus (positive and negative selection)
+
+**Types**:
+
+- **Helper T cells (CD4+)**: Activate other cells (Th1, Th2, Th17, Treg)
+- **Cytotoxic T cells (CD8+)**: Kill infected/cancer cells
+- **Memory T cells**: Long-lived protection
+- **Regulatory T cells (Treg)**: Suppress immune responses
+
+**T cell receptor (TCR)**: Recognizes antigen + MHC
+
+**Co-receptors**: CD4 (MHC II), CD8 (MHC I)
+
+**Activation**:
+
+1. **Antigen presentation** by APC
+2. **Co-stimulation** (e.g., CD28-B7 interaction)
+3. **Cytokine signals**
+
+**Effector functions**:
+
+- **Cytotoxic T cells**: Release perforin, granzymes, Fas ligand
+- **Helper T cells**: Release cytokines that activate other cells
+
+### Immune Response Dynamics
+
+**Primary response**: First exposure, lag phase, IgM then IgG
+
+**Secondary response**: Memory cells respond faster, higher affinity IgG
+
+**Clonal selection**: Specific clones expand upon antigen encounter
+
+**Affinity maturation**: Somatic hypermutation improves antibody affinity
+
+---
+
+## Immunological Memory and Vaccination
+
+### Basis of Immunological Memory
+
+**Memory cells**: Long-lived B and T cells
+
+- **More numerous** than naive cells
+- **Lower activation threshold**
+- **Faster proliferation and differentiation**
+
+**Characteristics of memory**:
+
+- **Specificity**: Same antigen
+- **Duration**: Years to lifetime
+- **Enhanced response**: Higher magnitude, faster
+
+### Types of Immunity
+
+**Active immunity**: Individual produces own immune response
+
+- **Natural**: Infection
+- **Artificial**: Vaccination
+
+**Passive immunity**: Receiving pre-formed antibodies
+
+- **Natural**: Maternal antibodies (placenta, breast milk)
+- **Artificial**: Immune globulin, antivenom
+
+### Vaccination Principles
+
+**Goals**: Induce memory without causing disease
+
+**Types of vaccines**:
+
+- **Live attenuated**: Weakened pathogen (MMR, oral polio)
+- **Inactivated/killed**: Dead pathogen (influenza, polio injection)
+- **Subunit**: Parts of pathogen (hepatitis B, HPV)
+- **Toxoid**: Inactivated toxin (tetanus, diphtheria)
+- **mRNA/DNA**: Genetic material encoding antigen (COVID-19 mRNA vaccines)
+
+**Herd immunity**: Protection of unvaccinated when enough population immune
+
+**Vaccination schedules**: Based on immune system development, pathogen exposure risk
+
+---
+
+## Immunological Disorders
+
+### Autoimmune Diseases
+
+**Failure of self-tolerance**: Immune system attacks self
+
+**Mechanisms**:
+
+- **Molecular mimicry**: Pathogen antigen resembles self
+- **Release of sequestered antigens**: From privileged sites
+- **Polyclonal B cell activation**: Non-specific stimulation
+- **Genetic predisposition**: HLA associations
+
+**Examples**:
+
+- **Type 1 diabetes**: Anti-islet cell antibodies
+- **Rheumatoid arthritis**: Anti-IgG antibodies (rheumatoid factor)
+- **Multiple sclerosis**: Anti-myelin antibodies
+- **Systemic lupus erythematosus**: Anti-nuclear antibodies
+
+### Hypersensitivities (Allergies)
+
+**Type I (Immediate)**: IgE-mediated (anaphylaxis, hay fever)
+
+- **Sensitization**: IgE production to allergen
+- **Re-exposure**: Allergen cross-links IgE on mast cells → degranulation
+- **Mediators**: Histamine, leukotrienes, prostaglandins
+- **Treatment**: Antihistamines, epinephrine, desensitization
+
+**Type II (Cytotoxic)**: Antibody-mediated cell destruction (blood transfusion reactions)
+
+**Type III (Immune complex)**: Antigen-antibody complexes deposit in tissues (serum sickness)
+
+**Type IV (Delayed)**: T cell-mediated (contact dermatitis, TB test)
+
+### Immunodeficiencies
+
+**Primary (congenital)**: Genetic defects present at birth
+
+- **Severe combined immunodeficiency (SCID)**: Defective T and B cells ("bubble boy" disease)
+- **X-linked agammaglobulinemia**: Defective B cell development
+- **Chronic granulomatous disease**: Defective phagocyte oxidative burst
+- **DiGeorge syndrome**: Thymic aplasia
+
+**Secondary (acquired)**: Caused by external factors
+
+- **HIV/AIDS**: CD4+ T cell depletion
+- **Malnutrition**: Protein-energy malnutrition impairs immunity
+- **Medications**: Chemotherapy, immunosuppressants
+- **Aging**: Thymic involution, decreased immune function
+
+**Treatment**: Antibiotics, immunoglobulin replacement, stem cell transplantation, gene therapy
+
+---
+
+## Immune System Interactions
+
+### Neuroendocrine-Immune Axis
+
+**Bidirectional communication**:
+
+- **Stress effects**: Cortisol suppresses immune function
+- **Sickness behavior**: Cytokines induce fever, fatigue, social withdrawal
+- **Psychoneuroimmunology**: Mind-body connections in health and disease
+
+**Hormonal regulation**:
+
+- **Sex hormones**: Estrogen enhances, testosterone suppresses immunity
+- **Growth hormone/IGF-1**: Enhance immune function
+- **Melatonin**: Modulates circadian rhythms of immune cells
+
+### Microbiome and Immunity
+
+**Gut microbiome**: Trillions of microbes influence immune development
+
+**Functions**:
+
+- **Training**: Educates immune system to distinguish pathogens from commensals
+- **Competition**: Commensals outcompete pathogens for resources
+- **Metabolites**: Short-chain fatty acids regulate immune responses
+- **Barrier function**: Maintains intestinal epithelial integrity
+
+**Dysbiosis**: Imbalanced microbiome linked to autoimmune diseases, allergies
+
+### Cancer Immunology
+
+**Cancer immunosurveillance**: Immune system detects and eliminates cancer cells
+
+**Evasion mechanisms**:
+
+- **Loss of antigenicity**: Reduced MHC expression
+- **Immunosuppression**: Secretion of TGF-β, IL-10
+- **Checkpoint expression**: PD-L1 binds PD-1 on T cells, inhibiting them
+
+**Immunotherapies**:
+
+- **Checkpoint inhibitors**: Anti-PD-1, anti-CTLA-4 antibodies
+- **CAR-T cells**: Engineered T cells with chimeric antigen receptors
+- **Cancer vaccines**: Stimulate immune response against tumor antigens
+
+---
+
+## Transplantation Immunology
+
+### Histocompatibility
+
+**Major histocompatibility antigens**: MHC proteins (HLA in humans)
+
+**Minor histocompatibility antigens**: Other polymorphic proteins
+
+**ABO blood group antigens**: Important in organ transplantation
+
+### Types of Transplants
+
+**Autograft**: Self to self (skin grafts, bone marrow autotransplant)
+
+**Isograft**: Genetically identical donor (identical twins)
+
+**Allograft**: Same species, different genetics (most organ transplants)
+
+**Xenograft**: Different species (pig heart valves, experimental)
+
+### Rejection Mechanisms
+
+**Hyperacute rejection**: Minutes to hours, pre-existing antibodies
+
+**Acute rejection**: Days to weeks, T cell-mediated
+
+**Chronic rejection**: Months to years, vascular changes, fibrosis
+
+### Immunosuppression
+
+**Drugs**:
+
+- **Calcineurin inhibitors**: Cyclosporine, tacrolimus
+- **Antiproliferatives**: Azathioprine, mycophenolate
+- **mTOR inhibitors**: Sirolimus, everolimus
+- **Corticosteroids**: Prednisone
+
+**Complications**: Increased infection risk, cancer, drug toxicity
+
+### Graft-versus-Host Disease (GVHD)
+
+**Occurs when**: Donor immune cells attack recipient tissues
+
+**Common in**: Bone marrow transplantation
+
+**Prevention**: HLA matching, T cell depletion, immunosuppression
+
+---
+
+## Emerging Topics in Immunology
+
+### Systems Immunology
+
+**High-throughput approaches**: Transcriptomics, proteomics, metabolomics
+
+**Single-cell analysis**: Reveals heterogeneity within immune cell populations
+
+**Computational modeling**: Predicts immune responses, vaccine efficacy
+
+### Trained Immunity
+
+**Innate immune memory**: Epigenetic reprogramming of innate cells
+
+**Mechanisms**: Metabolic changes, histone modifications
+
+**Implications**: Vaccines that protect beyond specific pathogens
+
+### Precision Immunology
+
+**Personalized vaccines**: Based on individual immune profiles
+
+**Biomarkers**: Predict disease susceptibility, treatment response
+
+**Theragnostic approaches**: Combine diagnosis and treatment
+
+### One Health Immunology
+
+**Zoonotic diseases**: Understanding spillover from animals to humans
+
+**Environmental immunology**: Effects of pollution, climate change
+
+**Planetary health**: Global approaches to infectious diseases
+
+---
+
+## Chapter Summary
+
+### Key Concepts
+
+1. **Immune system** protects against pathogens through layered defenses
+2. **Innate immunity** provides rapid, non-specific protection
+3. **Adaptive immunity** provides specific, memory-based protection
+4. **B cells** mediate humoral immunity via antibodies
+5. **T cells** mediate cellular immunity via direct killing and helper functions
+6. **Immunological memory** enables faster, stronger responses upon re-exposure
+7. **Vaccination** harnesses immunological memory to prevent disease
+8. **Immunological disorders** include autoimmune diseases, allergies, and immunodeficiencies
+9. **Immune system interacts** with nervous, endocrine systems and microbiome
+10. **Immunology applications** include cancer therapy, transplantation, and emerging fields
+
+### Three Lines of Defense
+
+| Line | Components | Response Time | Specificity | Memory |
+|------|------------|---------------|-------------|---------|
+| **First** | Skin, mucous membranes, chemical barriers | Immediate | Non-specific | None |
+| **Second** | Phagocytes, NK cells, complement, inflammation | Minutes-hours | Pattern recognition | None |
+| **Third** | B cells, T cells, antibodies | Days (first), hours (memory) | Highly specific | Yes |
+
+### Immune Cell Types
+
+| Cell Type | Origin | Major Functions | Key Features |
+|-----------|--------|----------------|--------------|
+| **Neutrophil** | Bone marrow | Phagocytosis, first responder | Most abundant, multilobed nucleus |
+| **Macrophage** | Monocyte (blood) | Phagocytosis, antigen presentation, tissue repair | Tissue-resident, versatile |
+| **Dendritic cell** | Bone marrow | Antigen presentation (best APC) | Many processes, link innate/adaptive |
+| **Natural killer cell** | Bone marrow | Kill virus-infected/cancer cells | No prior sensitization needed |
+| **B cell** | Bone marrow | Antibody production, antigen presentation | Surface immunoglobulin, memory cells |
+| **Helper T cell** | Thymus (via bone marrow) | Activate other immune cells | CD4+, multiple subsets (Th1, Th2, etc.) |
+| **Cytotoxic T cell** | Thymus (via bone marrow) | Kill infected/cancer cells | CD8+, perforin/granzyme release |
+| **Regulatory T cell** | Thymus (via bone marrow) | Suppress immune responses | CD4+CD25+FoxP3+, prevent autoimmunity |
+
+### Antibody Classes
+
+| Class | Structure | Location | Functions | Special Features |
+|-------|-----------|----------|-----------|------------------|
+| **IgM** | Pentamer | Blood, lymph | First response, complement activation | Largest, 10 binding sites |
+| **IgG** | Monomer | Blood, tissue fluids | Main blood antibody, crosses placenta | Most abundant, longest half-life |
+| **IgA** | Dimer | Secretions (mucus, milk) | Mucosal immunity, neutralization | Secretory component protects from enzymes |
+| **IgE** | Monomer | Bound to mast cells/basophils | Allergies, parasite defense | Lowest concentration, binds Fcε receptors |
+| **IgD** | Monomer | B cell surface | B cell receptor | Function not fully understood |
+
+### Hypersensitivity Types
+
+| Type | Name | Mechanism | Time Course | Examples |
+|------|------|-----------|-------------|----------|
+| **I** | Immediate (allergic) | IgE, mast cell degranulation | Minutes | Anaphylaxis, hay fever, asthma |
+| **II** | Cytotoxic | Antibody vs. cell surface antigens | Hours-days | Blood transfusion reactions, hemolytic disease |
+| **III** | Immune complex | Antigen-antibody complexes deposit | Days-weeks | Serum sickness, lupus nephritis |
+| **IV** | Delayed | T cell-mediated | 2-3 days | Contact dermatitis, TB test, graft rejection |
+
+### Immunodeficiency Types
+
+| Type | Cause | Examples | Key Features |
+|------|-------|----------|--------------|
+| **Primary** | Genetic defects | SCID, X-linked agammaglobulinemia | Present from birth, often severe |
+| **Secondary** | External factors | HIV/AIDS, malnutrition, drugs | Acquired, may be reversible |
+| **Combined** | T and B cell defects | SCID, Wiskott-Aldrich syndrome | Severe infections, poor prognosis |
+| **Humoral** | B cell/antibody defects | X-linked agammaglobulinemia, CVID | Bacterial infections |
+| **Cellular** | T cell defects | DiGeorge syndrome, HIV (late) | Viral/fungal infections, cancer |
+| **Phagocytic** | Phagocyte defects | Chronic granulomatous disease | Bacterial/fungal infections, granulomas |
+| **Complement** | Complement defects | C1-C9 deficiencies | Bacterial infections, autoimmune-like |
+
+---
+
+## Review Questions
+
+### Level 1: Recall and Understanding
+
+1. List and describe the three lines of defense against pathogens.
+2. What are the main differences between innate and adaptive immunity?
+3. Describe the structure of an antibody and the functions of its different regions.
+4. What are the four types of hypersensitivity reactions, and what mechanisms underlie each?
+5. Explain the difference between active and passive immunity, giving examples of each.
+
+### Level 2: Application and Analysis
+
+6. A patient has recurrent bacterial infections but normal viral resistance. What type of immunodeficiency might this suggest, and why?
+7. Explain why a booster shot is often needed for vaccines, referring to immunological memory.
+8. How do cytotoxic T cells recognize and kill virus-infected cells?
+9. Compare and contrast the primary and secondary immune responses in terms of timing, antibody classes produced, and antibody affinity.
+10. Why might an immunosuppressed transplant recipient be at increased risk for certain cancers?
+
+### Level 3: Synthesis and Evaluation
+
+11. Design an experiment to determine whether a new vaccine candidate induces both humoral and cellular immunity.
+12. Evaluate the ethical considerations of using fetal tissues in vaccine development and testing.
+13. How has our understanding of checkpoint molecules in cancer immunology transformed cancer treatment?
+14. Propose a strategy for developing a universal flu vaccine that would provide protection against multiple strains.
+
+---
+
+## Key Terms
+
+- **Antigen**: Substance that elicits an immune response
+- **Antibody**: Protein produced by B cells that binds specifically to antigens
+- **Pathogen**: Disease-causing organism
+- **Phagocytosis**: Engulfment and destruction of particles by cells
+- **Inflammation**: Local response to tissue damage or infection
+- **Cytokine**: Signaling protein that mediates immune responses
+- **Major histocompatibility complex (MHC)**: Cell surface proteins that present antigens to T cells
+- **B cell**: Lymphocyte that produces antibodies
+- **T cell**: Lymphocyte that mediates cellular immunity
+- **Immunological memory**: Ability to mount faster, stronger response upon re-exposure
+- **Vaccination**: Administration of antigen to induce protective immunity
+- **Autoimmunity**: Immune response against self-antigens
+- **Hypersensitivity**: Excessive immune response causing tissue damage
+- **Immunodeficiency**: Impaired immune function
+- **Tolerance**: Lack of immune response to specific antigens
+- **Complement**: Group of plasma proteins that enhance immune responses
+
+---
+
+## Further Reading
+
+### Books
+1. Janeway, C. A., Travers, P., Walport, M., & Shlomchik, M. J. (2001). *Immunobiology: The Immune System in Health and Disease* (5th ed.). Garland Science.
+2. Abbas, A. K., Lichtman, A. H., & Pillai, S. (2017). *Cellular and Molecular Immunology* (9th ed.). Elsevier.
+3. Murphy, K., & Weaver, C. (2016). *Janeway's Immunobiology* (9th ed.). Garland Science.
+
+### Scientific Articles
+1. Burnet, F. M. (1957). A modification of Jerne's theory of antibody production using the concept of clonal selection. *Australian Journal of Science*, 20, 67-69.
+2. Medzhitov, R., & Janeway, C. A. (1997). Innate immunity: The virtues of a nonclonal system of recognition. *Cell*, 91(3), 295-298.
+3. Allison, J. P. (2015). Immune checkpoint blockade in cancer therapy: The 2015 Lasker-DeBakey Clinical Medical Research Award. *JAMA*, 314(11), 1113-1114.
+
+### Online Resources
+1. The Immune System (NIH): https://www.niaid.nih.gov/research/immune-system
+2. Immunology Online: https://www.immunology.org
+3. Vaccine Education Center (CHOP): https://www.chop.edu/centers-programs/vaccine-education-center
+4. American Academy of Allergy, Asthma & Immunology: https://www.aaaai.org
+
+---
+
+## Quantitative Problems
+
+1. **Antibody-Antigen Binding**:
+   An antibody binds to its antigen with association constant Ka = 10⁸ M⁻¹.
+   a) What is the dissociation constant Kd?
+   b) If the antigen concentration is 10 nM, what fraction of antibody binding sites are occupied?
+   c) What antigen concentration is needed for 90% occupancy?
+   d) How does affinity maturation improve antibody binding (quantitatively)?
+
+2. **Immune Cell Numbers**:
+   A human has approximately 5 liters of blood with 5 × 10⁹ white blood cells per liter.
+   a) How many total white blood cells are in circulation?
+   b) If 70% are neutrophils, 20% are lymphocytes, and 10% are others, how many of each?
+   c) During an infection, neutrophil count increases 5-fold. What is the new total?
+   d) Lymphocytes recirculate between blood and lymph. If they spend 30 minutes in blood per cycle, how many pass through blood per day?
+
+3. **Vaccine Herd Immunity**:
+   Herd immunity threshold = 1 - 1/R₀, where R₀ is basic reproduction number.
+   For measles, R₀ ≈ 15; for polio, R₀ ≈ 6; for COVID-19 (original strain), R₀ ≈ 3.
+   a) Calculate herd immunity threshold for each disease.
+   b) If vaccine efficacy is 95%, what vaccination coverage is needed?
+   c) If a population of 10 million has 85% vaccination with 95% efficacy for measles, how many are susceptible?
+   d) If one case is introduced, how many secondary cases would occur?
+
+---
+
+## Case Study: HIV/AIDS
+
+**Background**: HIV (human immunodeficiency virus) causes AIDS (acquired immunodeficiency syndrome) by destroying CD4+ T cells. Since its discovery in the 1980s, HIV has caused over 35 million deaths but is now manageable with antiretroviral therapy.
+
+**Questions**:
+
+1. How does HIV enter and replicate in CD4+ T cells?
+2. Why does HIV specifically deplete CD4+ T cells, and what are the consequences?
+3. How do antiretroviral drugs target different stages of the HIV life cycle?
+4. Why has developing an HIV vaccine been so challenging?
+5. What are the prospects for an HIV cure (e.g., "Berlin patient," gene editing)?
+
+**Data for analysis**:
+
+- **Transmission**: Sexual contact, blood, mother-to-child
+- **Progression**: Acute infection → clinical latency → AIDS (without treatment)
+- **Treatment**: Combination antiretroviral therapy (cART) suppresses viral load
+- **Prevention**: PrEP (pre-exposure prophylaxis), PEP (post-exposure prophylaxis), condoms
+- **Epidemiology**: ~38 million people living with HIV worldwide (2021)
+
+---
+
+*Next Chapter: [Neurobiology and Information Processing](19-neurobiology.qmd)*
